@@ -1,0 +1,42 @@
+Goal: Scrape DDL links for all anime from TokyoInsider, one by one.
+
+Source list:
+https://www.tokyoinsider.com/anime/list
+
+Steps:
+1) Open an anime from the list. Example anime page:
+   https://www.tokyoinsider.com/anime/B/Boku_no_Hero_Academia_(TV)
+
+2) Only scrape series with more than 2 episodes. Do not scrape movies.
+
+3) Episodes are usually numbered. Scrape in order.
+
+4) Open an episode page. Example episode page:
+   https://www.tokyoinsider.com/anime/B/Boku_no_Hero_Academia_(TV)/episode/170
+
+5) On the episode page, find DDL links. Example HTML block:
+
+<div class="c_h2b">
+	<div>
+	<span style="float:right;font-size:9px;"><a href="/anime/B/Boku_no_Hero_Academia_(TV)/episode/170/Boku%20no%20Hero%20Academia%20Final%20Season%20ep%2011.mp4/comment"><b>0</b> comments</a></span>
+	<a href="https://media.tokyoinsider.com:8080/dl/00000000030/312119/1/TSwqXzFYm0HDj-5M_rMghQ/3/36/367594/367594/Boku%20no%20Hero%20Academia%20Final%20Season%20ep%2011.mp4">Boku no Hero Academia Final Season ep 11.mp4</a></div>
+	<div class="finfo"><span class="lang_en">Language:</span><img src="https://www.tokyoinsider.com/img/spacer_info.png" alt="">Size: <b>53.48 MB</b><img src="https://www.tokyoinsider.com/img/spacer_info.png" alt="">Downloads: <b>18</b><img src="https://www.tokyoinsider.com/img/spacer_info.png" alt="">Uploader: <b>marcevens</b><img src="https://www.tokyoinsider.com/img/spacer_info.png" alt="">Added On: <b>12/14/25</b></div>
+</div>
+
+6) Select only English language entries:
+   <span class="lang_en">
+
+7) File-size selection rules (in order):
+   a) Prefer size between 60 MB and 200 MB (inclusive). If available, select that.
+   b) If none, select the closest under 50 MB (first closest).
+   c) If none, select the closest over 200 MB (first closest).
+
+8) Store results in the JSON API file, updating in real time episode by episode.
+
+JSON format:
+- Anime name
+- Episode links for each episode
+- From the anime episode page, also scrape summary and genres and add to the final JSON
+
+
+
