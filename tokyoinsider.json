@@ -1,5 +1,5 @@
 {
-  "total_anime": 103,
+  "total_anime": 105,
   "items": [
     {
       "Anime_Index": "0001",
@@ -10658,6 +10658,263 @@
           "url": "https://media.tokyoinsider.com:8080/dl/00000000030/157524/1/wajEKZh_tOajfxx8I9_75g/1/18/187923/187923/%5BC12%5D%20Aldnoah%20Zero%20%20%2005--Phantom%20of%20the%20Emperor%20%28Ahead%20of%20an%20Audience%29.mp4",
           "size_mb": 82.15,
           "label": "[C12] Aldnoah Zero   05--Phantom of the Emperor (Ahead of an Audience).mp4"
+        },
+        {
+          "episode": 6,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/158179/1/zIRJiGHC2bxdiGWbRlwExA/1/18/188643/188643/%5BHorribleSubs%5D%20Aldnoah.Zero%20-%2006%20%5B720p%5D.mkv",
+          "size_mb": 102.94,
+          "label": "[HorribleSubs] Aldnoah.Zero - 06 [720p].mkv"
+        },
+        {
+          "episode": 7,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/164092/1/7KzV967TWjDP4Abx6uBI3A/1/19/196065/196065/%5BHorribleSubs%5D%20Aldnoah%20Zero%2007%20%5BZenixus%5D.mkv",
+          "size_mb": 60.23,
+          "label": "[HorribleSubs] Aldnoah Zero 07 [Zenixus].mkv"
+        },
+        {
+          "episode": 8,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/158988/1/ODwQ3wMiFPSlIEK3MIohcQ/1/18/189534/189534/%5BC12%5D%20Aldnoah%20Zero%20%20%2008--Then%20and%20Now%2C%20A%20Day%20When%20We%20Saw%20a%20Bird.mp4",
+          "size_mb": 82.21,
+          "label": "[C12] Aldnoah Zero   08--Then and Now, A Day When We Saw a Bird.mp4"
+        },
+        {
+          "episode": 9,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/159392/1/-CGqEbHkUN7h8BOXf0tIHQ/1/18/189979/189979/%5BZero-Subs%5D%20Aldnoah%20Zero%20-%2009%20%5B720p%5D.mkv",
+          "size_mb": 103.34,
+          "label": "[Zero-Subs] Aldnoah Zero - 09 [720p].mkv"
+        },
+        {
+          "episode": 10,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/160136/1/56h7VvEXWgTrG2XjIEqryw/1/19/190819/190819/%5BC12%5D%20Aldnoah%20Zero%20%20%2010--Before%20the%20War.%20Til%20Going%20to%20be%20a%20Storm.mp4",
+          "size_mb": 82.19,
+          "label": "[C12] Aldnoah Zero   10--Before the War. Til Going to be a Storm.mp4"
+        },
+        {
+          "episode": 11,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/164095/1/L0fKjqw8EdZD8_3MvmSqCw/1/19/196069/196069/%5BHorribleSubs%5D%20Aldnoah%20Zero%2011%20%5BZenixus%5D.mkv",
+          "size_mb": 65.44,
+          "label": "[HorribleSubs] Aldnoah Zero 11 [Zenixus].mkv"
+        },
+        {
+          "episode": 12,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/160589/1/D5GixijoyIAuqclxZ9LKLQ/1/19/191311/191311/%5BC12%5D%20Aldnoah%20Zero%20%20%2012%20%5BEND%5D--Childhood%E2%80%99s%20End.%20Even%20though%20the%20Heaven%20Falls.mp4",
+          "size_mb": 82.66,
+          "label": "[C12] Aldnoah Zero   12 [END]--Childhoodâs End. Even though the Heaven Falls.mp4"
+        },
+        {
+          "episode": 13,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/167795/1/TP7WLtJX8ot5xbO-6uyQmw/2/20/200078/200078/Aldnoah%20Zero%20%20%2013--This%20Side%20of%20Paradise.%20Sleeping%20Beauty%20in%20the%20Moon.mkv",
+          "size_mb": 70.75,
+          "label": "Aldnoah Zero   13--This Side of Paradise. Sleeping Beauty in the Moon.mkv"
+        },
+        {
+          "episode": 14,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/168415/1/UVFCiSiQFU4b8OagAJGKYA/2/20/200892/200892/Aldnoah%20Zero%20%20%2014--The%20Beautiful%20and%20Damned%2C%20Unearthly%20Neighbours.mkv",
+          "size_mb": 76.16,
+          "label": "Aldnoah Zero   14--The Beautiful and Damned, Unearthly Neighbours.mkv"
+        },
+        {
+          "episode": 15,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/171000/1/WNBJ67ZG6MOmPzPbKepPsg/2/20/203760/203760/%5BHorribleSubs%5D%20Aldnoah%20Zero%2015%20%5BZenixus%5D.mkv",
+          "size_mb": 67.73,
+          "label": "[HorribleSubs] Aldnoah Zero 15 [Zenixus].mkv"
+        },
+        {
+          "episode": 16,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/168676/1/ZV3iCNn-XANVS7hp8wJ5uA/2/20/201183/201183/Aldnoah.Zero_-_16__FAD169C2.mkv",
+          "size_mb": 103.8,
+          "label": "Aldnoah.Zero_-_16__FAD169C2.mkv"
+        },
+        {
+          "episode": 17,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/168941/1/20_ptMn67NnVhnSpjWwaOQ/2/20/201463/201463/%5BC12%5D%20Aldnoah%20Zero%20%20%2017--The%20Turning%20Wheel.%20Conspiracy%20Dawn.mp4",
+          "size_mb": 82.18,
+          "label": "[C12] Aldnoah Zero   17--The Turning Wheel. Conspiracy Dawn.mp4"
+        },
+        {
+          "episode": 18,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/169387/1/9Jl1hyOHkUbYCIdNEIS4NQ/2/20/201941/201941/Aldnoah.Zero_-_18__608F37E1.mkv",
+          "size_mb": 107.22,
+          "label": "Aldnoah.Zero_-_18__608F37E1.mkv"
+        },
+        {
+          "episode": 19,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/169738/1/wrwJxncLTN40UtwOF0LjWA/2/20/202334/202334/Aldnoah%20Zero%20%20%2019--Here%20to%20There.%20The%20Flaw%20in%20Paradise.mkv",
+          "size_mb": 60.7,
+          "label": "Aldnoah Zero   19--Here to There. The Flaw in Paradise.mkv"
+        },
+        {
+          "episode": 20,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/169904/1/fvsEw8nfXGHe5EVBfWL0Cg/2/20/202520/202520/%5BVivid-Watashi%5D%20Aldnoah.Zero%20-%2020%20%5B720p%5D%5B0288CC8D%5D.mkv",
+          "size_mb": 110.74,
+          "label": "[Vivid-Watashi] Aldnoah.Zero - 20 [720p][0288CC8D].mkv"
+        },
+        {
+          "episode": 21,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/169997/1/bykA-iru0h2kGbrunG347A/2/20/202632/202632/%5BHorribleSubs%5D%20Aldnoah.Zero%20-%2021%20%5B720p%5D%5B2569F109%5D.mkv",
+          "size_mb": 124.73,
+          "label": "[HorribleSubs] Aldnoah.Zero - 21 [720p][2569F109].mkv"
+        },
+        {
+          "episode": 22,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/170230/1/F6BYifsF2PZmRz0v2DGwLw/2/20/202902/202902/%5BHorribleSubs%5D%20Aldnoah.Zero%20-%2022%20%5B720p%5D%5B42CEF92D%5D.mkv",
+          "size_mb": 126.15,
+          "label": "[HorribleSubs] Aldnoah.Zero - 22 [720p][42CEF92D].mkv"
+        },
+        {
+          "episode": 23,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/170408/1/JOa9dJonLuP0iPknKDA-Cw/2/20/203112/203112/%5BHorribleSubs%5D%20Aldnoah.Zero%20-%2023%20%5B720p%5D%5BF53EB992%5D.mkv",
+          "size_mb": 91.37,
+          "label": "[HorribleSubs] Aldnoah.Zero - 23 [720p][F53EB992].mkv"
+        },
+        {
+          "episode": 24,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/170633/1/9qM5lv_SQpW71wUL8C5GvA/2/20/203355/203355/%5BHorribleSubs%5D%20Aldnoah.Zero%20-%2024%20%5B720p%5D%5BA8D3DB7F%5D.mkv",
+          "size_mb": 162.2,
+          "label": "[HorribleSubs] Aldnoah.Zero - 24 [720p][A8D3DB7F].mkv"
+        }
+      ]
+    },
+    {
+      "Anime_Index": "0104",
+      "anime": "Alice Gear Aegis Expansion (TV)",
+      "source_url": "https://www.tokyoinsider.com/anime/A/Alice_Gear_Aegis_Expansion_(TV)",
+      "summary": "Centuries ago, mankind abandoned planet Earth after the Vice, a race of mechanical aliens, drove them from their home into a life adrift in space. Now resigned to starships forged of pieces of Earthâs shattered moon, the final hope for humanity lies in the hands of Actresses, young women born with the ability to wield the only weapons that can harm the Vice: Alice Gears, mechanical suits that can finally turn the tide against the alien incursion.",
+      "genres": [
+        "Action",
+        "Science Fiction"
+      ],
+      "episodes": [
+        {
+          "episode": 1,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/273659/1/nisWCdvNADcjGX1ayEbWeA/3/32/322038/322038/%5BSubsPlease%5D%20Alice%20Gear%20Aegis%20Expansion%20-%2001%20%28720p%29%20%5B505371C6%5D.mkv",
+          "size_mb": 200.54,
+          "label": "[SubsPlease] Alice Gear Aegis Expansion - 01 (720p) [505371C6].mkv"
+        },
+        {
+          "episode": 2,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/273813/1/A2IrRdMb8bbNhcynLhA8yA/3/32/322219/322219/Alice%20Gear%20Aegis%20Expansion%20Episode%202.mp4",
+          "size_mb": 33.86,
+          "label": "Alice Gear Aegis Expansion Episode 2.mp4"
+        },
+        {
+          "episode": 3,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/273995/1/a0yPloj-FnKcPl4aKhF3kQ/3/32/322424/322424/Alice%20Gear%20Aegis%20Expansion%20Episode%203.mp4",
+          "size_mb": 34.05,
+          "label": "Alice Gear Aegis Expansion Episode 3.mp4"
+        },
+        {
+          "episode": 4,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/274315/1/xsZy_OolHj6OUGTjhyJazw/3/32/322762/322762/%5BSubsPlease%5D%20Alice%20Gear%20Aegis%20Expansion%20-%2004%20%28720p%29%20%5B9F414C18%5D.mkv",
+          "size_mb": 179.89,
+          "label": "[SubsPlease] Alice Gear Aegis Expansion - 04 (720p) [9F414C18].mkv"
+        },
+        {
+          "episode": 5,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/274570/1/MoZDSmokHyCJlI6J0ViMDg/3/32/323032/323032/%5BSubsPlease%5D%20Alice%20Gear%20Aegis%20Expansion%20-%2005%20%28480p%29%20%5B39F12FE8%5D.mkv",
+          "size_mb": 131.18,
+          "label": "[SubsPlease] Alice Gear Aegis Expansion - 05 (480p) [39F12FE8].mkv"
+        },
+        {
+          "episode": 6,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/274677/1/ZypSADSZ47u_SxfYqSurfg/3/32/323168/323168/Alice%20Gear%20Aegis%20Expansion%20Episode%206.mp4",
+          "size_mb": 46.08,
+          "label": "Alice Gear Aegis Expansion Episode 6.mp4"
+        },
+        {
+          "episode": 7,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/274846/1/IMEzlacOqNZkRfNUu9fa5A/3/32/323343/323343/Alice%20Gear%20Aegis%20Expansion%20Episode%207.mp4",
+          "size_mb": 31.93,
+          "label": "Alice Gear Aegis Expansion Episode 7.mp4"
+        },
+        {
+          "episode": 8,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/275118/1/Lzv-onJKjcXMLHDVaf-Olg/3/32/323629/323629/%5BSubsPlease%5D%20Alice%20Gear%20Aegis%20Expansion%20-%2008%20%28480p%29%20%5B792EBFFD%5D.mkv",
+          "size_mb": 130.09,
+          "label": "[SubsPlease] Alice Gear Aegis Expansion - 08 (480p) [792EBFFD].mkv"
+        },
+        {
+          "episode": 12,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/275403/1/y_VqrEnsI6mtc14atD82pw/3/32/323919/323919/Alice%20Gear%20Aegis%20Expansion%20Episode%2012.mp4",
+          "size_mb": 35.77,
+          "label": "Alice Gear Aegis Expansion Episode 12.mp4"
+        }
+      ]
+    },
+    {
+      "Anime_Index": "0105",
+      "anime": "Alice or Alice: Siscon Niisan to Futago no Imouto (TV)",
+      "source_url": "https://www.tokyoinsider.com/anime/A/Alice_or_Alice:_Siscon_Niisan_to_Futago_no_Imouto_(TV)",
+      "summary": "This story gives a look at the daily life of a pair or Alice twins and their older brother who has a sister complex. Them eating meals, getting into fights, playing with friends... Would you like to peek at the heart-full daily life of the cute Alices?",
+      "genres": [
+        "Slice of Life"
+      ],
+      "episodes": [
+        {
+          "episode": 1,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/191717/1/2WMYi2xS7QReBvRPf8IyjQ/2/22/229401/229401/Alice%20or%20Alice%2001.mkv",
+          "size_mb": 7.63,
+          "label": "Alice or Alice 01.mkv"
+        },
+        {
+          "episode": 2,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/199134/1/0oj0jSd-1yatGN-_rJxMBg/2/23/238677/238677/%5BHorribleSubs%5D%20Alice%20or%20Alice%20-%2002%20%5B1080p%5D.mkv",
+          "size_mb": 49.53,
+          "label": "[HorribleSubs] Alice or Alice - 02 [1080p].mkv"
+        },
+        {
+          "episode": 3,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/192039/1/mOt-OOGhAFWeljO7eInMtg/2/22/229810/229810/Alice%20or%20Alice%2003.mkv",
+          "size_mb": 8.6,
+          "label": "Alice or Alice 03.mkv"
+        },
+        {
+          "episode": 4,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/192322/1/r22wxlCm2JjAS1JXWAXjWw/2/23/230208/230208/Alice%20or%20Alice%2004.mkv",
+          "size_mb": 7.85,
+          "label": "Alice or Alice 04.mkv"
+        },
+        {
+          "episode": 5,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/192318/1/0hec6Msf_rVYHPSJfAqY6Q/2/23/230209/230209/Alice%20or%20Alice%2005.mkv",
+          "size_mb": 7.62,
+          "label": "Alice or Alice 05.mkv"
+        },
+        {
+          "episode": 6,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/192520/1/9SYrGaN9w8hdjrdq7t_rbQ/2/23/230455/230455/Alice%20or%20Alice%2006.mkv",
+          "size_mb": 7.96,
+          "label": "Alice or Alice 06.mkv"
+        },
+        {
+          "episode": 7,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/192609/1/nTKADfJI7yzemUlSZUUhOQ/2/23/230609/230609/Alice%20or%20Alice%2007.mkv",
+          "size_mb": 7.69,
+          "label": "Alice or Alice 07.mkv"
+        },
+        {
+          "episode": 8,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/192865/1/GyPFIMOXMRt1lWgiPd0MYg/2/23/230944/230944/Alice%20or%20Alice%2008.mkv",
+          "size_mb": 8.15,
+          "label": "Alice or Alice 08.mkv"
+        },
+        {
+          "episode": 9,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/199141/1/Xkii8J2nmV1XFmeg8F-6pA/2/23/238684/238684/%5BHorribleSubs%5D%20Alice%20or%20Alice%20-%2009%20%5B1080p%5D.mkv",
+          "size_mb": 47.83,
+          "label": "[HorribleSubs] Alice or Alice - 09 [1080p].mkv"
+        },
+        {
+          "episode": 10,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/199142/1/XGnhRG2UL8eKUEcqb-YfFQ/2/23/238685/238685/%5BHorribleSubs%5D%20Alice%20or%20Alice%20-%2010%20%5B1080p%5D.mkv",
+          "size_mb": 48.65,
+          "label": "[HorribleSubs] Alice or Alice - 10 [1080p].mkv"
+        },
+        {
+          "episode": 11,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/199143/1/6LW1K2EEszM3XAt4Io-qOQ/2/23/238686/238686/%5BHorribleSubs%5D%20Alice%20or%20Alice%20-%2011%20%5B1080p%5D.mkv",
+          "size_mb": 48.63,
+          "label": "[HorribleSubs] Alice or Alice - 11 [1080p].mkv"
         }
       ]
     }
