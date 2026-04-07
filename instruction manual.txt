@@ -1,0 +1,76 @@
+Supabase M3U8 Upload Setup (Tokyo Anime Manual Scraper)
+=======================================================
+
+Goal
+----
+Upload the generated M3U8 playlist (tokyoinsider_manual.m3u8) to Supabase Storage after each run.
+
+What You Need
+------------
+1) Supabase Project URL
+   - Example: https://YOUR-PROJECT.supabase.co
+
+2) Supabase API Key
+   - For server-side uploads, use a Service Role key (recommended).
+   - For client-side uploads, use the anon key with a Storage policy that allows uploads.
+
+3) Storage Bucket + File Path
+   - Bucket name: e.g., m3u
+   - File path (object key): e.g., playlists/tokyoinsider_manual.m3u8
+
+Recommended Storage Policy (if using anon key)
+---------------------------------------------
+Enable RLS for the storage bucket and add a policy allowing insert/update for your key.
+Example (adjust to your setup):
+  - Allow insert/update for authenticated users or for anon key if public.
+
+Implementation Steps (Code Changes)
+----------------------------------
+1) Add these constants to Tokyo Anime-Manual.py
+
+   SUPABASE_URL = "https://YOUR-PROJECT.supabase.co"
+   SUPABASE_KEY = "YOUR-KEY"
+   SUPABASE_BUCKET = "m3u"
+   SUPABASE_OBJECT_PATH = "playlists/tokyoinsider_manual.m3u8"
+
+2) Add an upload function that sends the M3U8 to Supabase Storage:
+
+   def upload_m3u_to_supabase(m3u_path: Path) -> None:
+       url = f"{SUPABASE_URL}/storage/v1/object/{SUPABASE_BUCKET}/{SUPABASE_OBJECT_PATH}"
+       headers = {
+           "Authorization": f"Bearer {SUPABASE_KEY}",
+           "apikey": SUPABASE_KEY,
+           "Content-Type": "application/x-mpegURL",
+           "x-upsert": "true",
+       }
+       with m3u_path.open("rb") as handle:
+           response = requests.put(url, headers=headers, data=handle)
+       response.raise_for_status()
+
+3) Call the upload after writing the M3U:
+
+   OUTPUT_M3U.write_text(build_m3u(self.payload), encoding="utf-8")
+   upload_m3u_to_supabase(OUTPUT_M3U)
+
+4) Optional: Log success/failure to GUI/logs.txt.
+
+Security Notes
+--------------
+- Do not commit the Service Role key to version control.
+- Prefer environment variables if possible.
+  Example:
+    import os
+    SUPABASE_URL = os.getenv("SUPABASE_URL", "")
+    SUPABASE_KEY = os.getenv("SUPABASE_KEY", "")
+
+Verification
+------------
+1) Run the app and let it finish.
+2) Open Supabase Storage > Bucket > File Path and confirm the M3U8 exists.
+3) Open the file URL (if public) or download from the dashboard.
+
+If you want me to implement this directly, provide:
+- Supabase URL
+- API key (anon or service role)
+- Bucket name
+- Object path
