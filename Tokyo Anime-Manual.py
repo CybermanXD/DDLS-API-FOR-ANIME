@@ -17,6 +17,7 @@ from tkinter import messagebox, ttk
 BASE_URL = "https://www.tokyoinsider.com"
 OUTPUT_JSON = Path("tokyoinsider_manual.json")
 OUTPUT_M3U = Path("tokyoinsider_manual.m3u8")
+LOG_FILE = Path("logs.txt")
 
 
 @dataclass
@@ -99,7 +100,7 @@ def parse_size_mb(text: str) -> Optional[float]:
 
 def extract_candidates(soup: BeautifulSoup) -> List[DdlCandidate]:
     candidates: List[DdlCandidate] = []
-    for block in soup.select("div.c_h2b"):
+    for block in soup.select("div.c_h2, div.c_h2b"):
         if not block.select_one("span.lang_en"):
             continue
         link = block.select_one("a[href^='https://']")
@@ -108,8 +109,8 @@ def extract_candidates(soup: BeautifulSoup) -> List[DdlCandidate]:
             continue
         url = link.get("href", "")
         label = link.get_text(strip=True)
-        if not re.search(r"\.(mp4|mkv)(\?|$)", url, re.IGNORECASE) and not re.search(
-            r"\.(mp4|mkv)\s*$", label, re.IGNORECASE
+        if not re.search(r"\.(mp4|mkv|avi)(\?|$)", url, re.IGNORECASE) and not re.search(
+            r"\.(mp4|mkv|avi)\s*$", label, re.IGNORECASE
         ):
             continue
         size_mb = parse_size_mb(finfo.get_text(" ", strip=True))
@@ -119,15 +120,61 @@ def extract_candidates(soup: BeautifulSoup) -> List[DdlCandidate]:
     return candidates
 
 
+def select_candidate_with_reason(soup: BeautifulSoup) -> Tuple[Optional[DdlCandidate], Optional[str]]:
+    candidates: List[DdlCandidate] = []
+    has_english = False
+    has_english_format = False
+
+    for block in soup.select("div.c_h2, div.c_h2b"):
+        if not block.select_one("span.lang_en"):
+            continue
+        has_english = True
+        link = block.select_one("a[href^='https://']")
+        finfo = block.select_one("div.finfo")
+        if not link or not finfo:
+            continue
+        url = link.get("href", "")
+        label = link.get_text(strip=True)
+        is_format = re.search(r"\.(mp4|mkv|avi)(\?|$)", url, re.IGNORECASE) or re.search(
+            r"\.(mp4|mkv|avi)\s*$", label, re.IGNORECASE
+        )
+        if not is_format:
+            continue
+        has_english_format = True
+        size_mb = parse_size_mb(finfo.get_text(" ", strip=True))
+        if size_mb is None:
+            continue
+        candidates.append(DdlCandidate(url=url, size_mb=size_mb, label=label))
+
+    if not has_english:
+        return None, "No English links"
+    if not has_english_format:
+        return None, "No MP4/MKV/AVI English links"
+
+    selected = pick_candidate(candidates)
+    if not selected:
+        return None, "No links matching size rules"
+    return selected, None
+
+
 def pick_candidate(candidates: List[DdlCandidate]) -> Optional[DdlCandidate]:
     if not candidates:
         return None
+    def format_rank(candidate: DdlCandidate) -> int:
+        url = candidate.url.lower()
+        label = candidate.label.lower()
+        if ".mp4" in url or label.endswith(".mp4"):
+            return 0
+        if ".mkv" in url or label.endswith(".mkv"):
+            return 1
+        return 2
+
     preferred = [c for c in candidates if 90 <= c.size_mb <= 300]
     if preferred:
-        return min(preferred, key=lambda c: c.size_mb)
+        return min(preferred, key=lambda c: (format_rank(c), c.size_mb))
     under_90 = [c for c in candidates if c.size_mb < 90]
     if under_90:
-        return max(under_90, key=lambda c: c.size_mb)
+        return max(under_90, key=lambda c: (-format_rank(c), c.size_mb))
     return None
 
 
@@ -478,8 +525,16 @@ class ManualScraperApp:
                 except requests.RequestException:
                     self.event_queue.put({"type": "episode_failed", "task": task, "episode": episode_number})
                     continue
-                candidate = pick_candidate(extract_candidates(episode_soup))
+                candidate, reason = select_candidate_with_reason(episode_soup)
                 if not candidate:
+                    self.event_queue.put(
+                        {
+                            "type": "episode_skipped",
+                            "task": task,
+                            "episode": episode_number,
+                            "reason": reason or "No candidate",
+                        }
+                    )
                     continue
                 anime_entry["episodes"].append(
                     {
@@ -605,6 +660,7 @@ class ManualScraperApp:
         self.log.insert("end", f"[{timestamp}] {message}\n")
         self.log.see("end")
         self.log.configure(state="disabled")
+        LOG_FILE.write_text(self.log.get("1.0", "end"), encoding="utf-8")
 
     def process_events(self) -> None:
         while True:
@@ -631,6 +687,10 @@ class ManualScraperApp:
             elif event_type == "episode_failed" and task:
                 episode = event.get("episode")
                 self.append_log(f"Episode {episode} failed after retries for {task.title or task.url}.")
+            elif event_type == "episode_skipped" and task:
+                episode = event.get("episode")
+                reason = event.get("reason", "Unknown")
+                self.append_log(f"Episode {episode} skipped for {task.title or task.url}: {reason}.")
             elif event_type == "task_done" and task:
                 self.append_log(f"Finished {task.title or task.url}.")
                 self.needs_refresh = True

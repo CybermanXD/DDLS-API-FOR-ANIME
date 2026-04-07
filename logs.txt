@@ -1,0 +1,40 @@
+[00:41:41] Re-fetch queued for https://www.tokyoinsider.com/anime/C/City_Hunter_(TV).
+[00:42:48] Scraping https://www.tokyoinsider.com/anime/C/City_Hunter_(TV).
+[00:43:06] Saved episode for City_Hunter_(TV).
+[00:43:08] Saved episode for City_Hunter_(TV).
+[00:43:13] Saved episode for City_Hunter_(TV).
+[00:43:32] Saved episode for City_Hunter_(TV).
+[00:43:34] Saved episode for City_Hunter_(TV).
+[00:43:41] Saved episode for City_Hunter_(TV).
+[00:43:46] Saved episode for City_Hunter_(TV).
+[00:43:55] Saved episode for City_Hunter_(TV).
+[00:43:59] Saved episode for City_Hunter_(TV).
+[00:44:15] Saved episode for City_Hunter_(TV).
+[00:44:18] Saved episode for City_Hunter_(TV).
+[00:44:34] Saved episode for City_Hunter_(TV).
+[00:44:38] Saved episode for City_Hunter_(TV).
+[00:44:41] Saved episode for City_Hunter_(TV).
+[00:44:44] Saved episode for City_Hunter_(TV).
+[00:44:46] Saved episode for City_Hunter_(TV).
+[00:44:54] Saved episode for City_Hunter_(TV).
+[00:45:01] Saved episode for City_Hunter_(TV).
+[00:45:05] Saved episode for City_Hunter_(TV).
+[00:45:24] Saved episode for City_Hunter_(TV).
+[00:45:29] Saved episode for City_Hunter_(TV).
+[00:45:34] Saved episode for City_Hunter_(TV).
+[00:45:41] Saved episode for City_Hunter_(TV).
+[00:45:53] Queued https://www.tokyoinsider.com/anime/D/Death_Note_(TV).
+[00:46:03] Re-fetch queued for https://www.tokyoinsider.com/anime/C/City_Hunter_(TV).
+[00:46:03] Re-fetch queued for https://www.tokyoinsider.com/anime/B/Bleach_(TV).
+[00:46:19] Paused.
+[00:46:20] Resumed.
+[00:46:25] Saved episode for City_Hunter_(TV).
+[00:46:29] Saved episode for City_Hunter_(TV).
+[00:46:31] Saved episode for City_Hunter_(TV).
+[00:46:37] Saved episode for City_Hunter_(TV).
+[00:46:39] Saved episode for City_Hunter_(TV).
+[00:46:41] Saved episode for City_Hunter_(TV).
+[00:46:43] Saved episode for City_Hunter_(TV).
+[00:46:43] Finished City_Hunter_(TV).
+[00:46:46] Scraping https://www.tokyoinsider.com/anime/B/Bleach_(TV).
+

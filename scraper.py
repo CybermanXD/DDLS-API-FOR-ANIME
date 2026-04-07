@@ -126,8 +126,8 @@ def extract_candidates(soup: BeautifulSoup) -> List[DdlCandidate]:
             continue
         url = link.get("href", "")
         label = link.get_text(strip=True)
-        if not re.search(r"\.(mp4|mkv)(\?|$)", url, re.IGNORECASE) and not re.search(
-            r"\.(mp4|mkv)\s*$", label, re.IGNORECASE
+        if not re.search(r"\.(mp4|mkv|avi)(\?|$)", url, re.IGNORECASE) and not re.search(
+            r"\.(mp4|mkv|avi)\s*$", label, re.IGNORECASE
         ):
             continue
         size_mb = parse_size_mb(finfo.get_text(" ", strip=True))
@@ -142,12 +142,21 @@ def extract_candidates(soup: BeautifulSoup) -> List[DdlCandidate]:
 def pick_candidate(candidates: List[DdlCandidate]) -> Optional[DdlCandidate]:
     if not candidates:
         return None
+    def format_rank(candidate: DdlCandidate) -> int:
+        url = candidate.url.lower()
+        label = candidate.label.lower()
+        if ".mp4" in url or label.endswith(".mp4"):
+            return 0
+        if ".mkv" in url or label.endswith(".mkv"):
+            return 1
+        return 2
+
     preferred = [c for c in candidates if 90 <= c.size_mb <= 300]
     if preferred:
-        return min(preferred, key=lambda c: c.size_mb)
+        return min(preferred, key=lambda c: (format_rank(c), c.size_mb))
     under_90 = [c for c in candidates if c.size_mb < 90]
     if under_90:
-        return max(under_90, key=lambda c: c.size_mb)
+        return max(under_90, key=lambda c: (-format_rank(c), c.size_mb))
     return None
 
 
