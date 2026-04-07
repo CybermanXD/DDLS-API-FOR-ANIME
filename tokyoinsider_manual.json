@@ -1,5 +1,5 @@
 {
-  "total_anime": 4,
+  "total_anime": 5,
   "items": [
     {
       "Anime_Index": "01",
@@ -3086,6 +3086,259 @@
           "url": "https://media.tokyoinsider.com:8080/dl/00000000030/301946/1/2IoLZLu0-o3sXr6SN3c5Ig/3/35/353916/353916/%5BWWAHFDNTVFUAUAWGR%5D_Death_Note_37_%5BA5DB8622%5D.mkv",
           "size_mb": 149.66,
           "label": "[WWAHFDNTVFUAUAWGR]_Death_Note_37_[A5DB8622].mkv"
+        }
+      ]
+    },
+    {
+      "Anime_Index": "05",
+      "anime": "Inuyasha_(TV)",
+      "source_url": "https://www.tokyoinsider.com/anime/I/Inuyasha_(TV)",
+      "summary": "The story begins with a flashback to Feudal Japan, when the half-demon InuYasha raids a human village to steal the Sacred Jewel of Four Souls, a magical jewel that enhances its wielder's powers and can grant a single wish. InuYasha hopes to use the gem to turn himself into a full-blooded demon, but is soon stopped when Kikyo, the young miko of the village, shoots him with a sacred arrow, sealing him onto the sacred tree Goshinboku in the nearby forest. Mortally wounded, Kikyo tells her younger sister, Kaede, to burn the jewel with her body to prevent it from falling into the hands of evil.Kagome emerges into a strange wilderness, initially unaware that she has traveled back through time to the Sengoku period of Japan, fifty years after Kikyo's death. Other than the Bone Eater's Well itself, the only familiar landmark is Goshinboku. She finds InuYasha still sealed onto the tree in an enchanted sleep, and a group of hostile peasants who drag her back to their village.",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Fantasy",
+        "Horror",
+        "Magic",
+        "Romance",
+        "Science Fiction"
+      ],
+      "total_episodes": 165,
+      "episodes": [
+        {
+          "episode": 1,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/121030/1/36r8KQ9pLeCXarjSx1Ybwg/1/14/143472/143472/Inu%20001.mp4",
+          "size_mb": 138.5,
+          "label": "Inu 001.mp4"
+        },
+        {
+          "episode": 3,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/24868/1/cxuCpEFMD1G5LveZz8jhMQ/m/2/24/24868/24868/Inuyasha_003.mp4",
+          "size_mb": 263.69,
+          "label": "Inuyasha_003.mp4"
+        },
+        {
+          "episode": 4,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/24869/1/w-gvcUYo7ynhdwA5Bz08sQ/m/2/24/24869/24869/Inuyasha_004.mp4",
+          "size_mb": 224.82,
+          "label": "Inuyasha_004.mp4"
+        },
+        {
+          "episode": 6,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/24867/1/SI9uLEb5yw7FDHRz9SfubQ/m/2/24/24867/24867/Inuyasha_006.mp4",
+          "size_mb": 163.27,
+          "label": "Inuyasha_006.mp4"
+        },
+        {
+          "episode": 7,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/24866/1/_C5vyEywbzezEEh8ptdeTQ/m/2/24/24866/24866/Inuyasha_007.mp4",
+          "size_mb": 194.25,
+          "label": "Inuyasha_007.mp4"
+        },
+        {
+          "episode": 8,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/24864/1/9FfwnnbjogJl3gskOEkBnQ/m/2/24/24864/24864/Inuyasha_008.mp4",
+          "size_mb": 147.7,
+          "label": "Inuyasha_008.mp4"
+        },
+        {
+          "episode": 9,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/24865/1/91ZnfDVgKZTa9ZWnnEeo6g/m/2/24/24865/24865/Inuyasha_009.mp4",
+          "size_mb": 216.14,
+          "label": "Inuyasha_009.mp4"
+        },
+        {
+          "episode": 10,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/24863/1/PlNkcffzJ-rmEK1aq_tFZA/m/2/24/24863/24863/Inuyasha_010.mp4",
+          "size_mb": 228.86,
+          "label": "Inuyasha_010.mp4"
+        },
+        {
+          "episode": 11,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/24859/1/TvM9y1uZAuhOey-ADlSFhA/m/2/24/24859/24859/Inuyasha_011.mp4",
+          "size_mb": 200.28,
+          "label": "Inuyasha_011.mp4"
+        },
+        {
+          "episode": 12,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/24856/1/HiEbD3c-NLh6kwmyMJm2fQ/m/2/24/24856/24856/Inuyasha_012.mp4",
+          "size_mb": 280.36,
+          "label": "Inuyasha_012.mp4"
+        },
+        {
+          "episode": 13,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/24854/1/SVJs4_Y9v041tvJyRGTjcA/m/2/24/24854/24854/Inuyasha_013.mp4",
+          "size_mb": 248.7,
+          "label": "Inuyasha_013.mp4"
+        },
+        {
+          "episode": 14,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/21764/1/_nop5Nl-Kezcv8OnjlnAlg/m/2/21/21764/21764/Inuyasha%20-%20014%20-%20Kikyo%27s%20Stolen%20Ashes.avi",
+          "size_mb": 168.22,
+          "label": "Inuyasha - 014 - Kikyo's Stolen Ashes.avi"
+        },
+        {
+          "episode": 15,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/24846/1/l8tMJ2e5Bvj2w__LyZEZUw/m/2/24/24846/24846/Inuyasha_015.mp4",
+          "size_mb": 231.31,
+          "label": "Inuyasha_015.mp4"
+        },
+        {
+          "episode": 16,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/24843/1/OHiEzxHdy7Psejc8PXjfig/m/2/24/24843/24843/Inuyasha_016.mp4",
+          "size_mb": 226.73,
+          "label": "Inuyasha_016.mp4"
+        },
+        {
+          "episode": 17,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/24839/1/pGp0TCAfc6UoMjWPA2PAHQ/m/2/24/24839/24839/Inuyasha_017.mp4",
+          "size_mb": 159.29,
+          "label": "Inuyasha_017.mp4"
+        },
+        {
+          "episode": 18,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/24841/1/ETCGmGQgiyn1bE61nFDPRA/m/2/24/24841/24841/Inuyasha_018.mp4",
+          "size_mb": 263.43,
+          "label": "Inuyasha_018.mp4"
+        },
+        {
+          "episode": 19,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/24837/1/xQJX70JyetS2DEKcLgkk4w/m/2/24/24837/24837/Inuyasha_019.mp4",
+          "size_mb": 258.87,
+          "label": "Inuyasha_019.mp4"
+        },
+        {
+          "episode": 20,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/24834/1/S-FzOSQblsluH5x-TwjKoA/m/2/24/24834/24834/Inuyasha_020.mp4",
+          "size_mb": 265.3,
+          "label": "Inuyasha_020.mp4"
+        },
+        {
+          "episode": 21,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/24833/1/LCO_83XC-HR6zes_qGU7Tg/m/2/24/24833/24833/Inuyasha_021.mp4",
+          "size_mb": 187.85,
+          "label": "Inuyasha_021.mp4"
+        },
+        {
+          "episode": 22,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/24832/1/rPsHoNGU3gG10HE5h-7mOQ/m/2/24/24832/24832/Inuyasha_022.mp4",
+          "size_mb": 144.6,
+          "label": "Inuyasha_022.mp4"
+        },
+        {
+          "episode": 23,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/24830/1/2x20IJeODhRYh4-PfYkJmw/m/2/24/24830/24830/Inuyasha_023.mp4",
+          "size_mb": 178.44,
+          "label": "Inuyasha_023.mp4"
+        },
+        {
+          "episode": 24,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/24824/1/aqUuc7UC8MhVQzze3Pvf3w/m/2/24/24824/24824/Inuyasha_024.mp4",
+          "size_mb": 175.29,
+          "label": "Inuyasha_024.mp4"
+        },
+        {
+          "episode": 25,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/24826/1/a4nSaPgds7wCL4Ic-9_M-g/m/2/24/24826/24826/Inuyasha_025.mp4",
+          "size_mb": 176.77,
+          "label": "Inuyasha_025.mp4"
+        },
+        {
+          "episode": 26,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/24827/1/nr4dErlylBKcvl3L3qaJ6w/m/2/24/24827/24827/Inuyasha_026.mp4",
+          "size_mb": 131.01,
+          "label": "Inuyasha_026.mp4"
+        },
+        {
+          "episode": 27,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/24823/1/02jvXzazvmg4OJ_88pW-og/m/2/24/24823/24823/Inuyasha_027.mp4",
+          "size_mb": 164.52,
+          "label": "Inuyasha_027.mp4"
+        },
+        {
+          "episode": 28,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/24822/1/Fx4hIdFVg4WFYBikSqAu5g/m/2/24/24822/24822/Inuyasha_028.mp4",
+          "size_mb": 173.46,
+          "label": "Inuyasha_028.mp4"
+        },
+        {
+          "episode": 29,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/24821/1/w7iprHDWEUirzTbYnvBTIw/m/2/24/24821/24821/Inuyasha_029.mp4",
+          "size_mb": 133.5,
+          "label": "Inuyasha_029.mp4"
+        },
+        {
+          "episode": 30,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/24819/1/fIU-sVcwqxX4coCUN0MOkA/m/2/24/24819/24819/Inuyasha_030.mp4",
+          "size_mb": 138.53,
+          "label": "Inuyasha_030.mp4"
+        },
+        {
+          "episode": 31,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/24818/1/9HNeNT7dLfZ_Ijct3F3iWg/m/2/24/24818/24818/Inuyasha_031.mp4",
+          "size_mb": 147.8,
+          "label": "Inuyasha_031.mp4"
+        },
+        {
+          "episode": 32,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/24816/1/K7UjcgZqqjoIp4ybwqmcDA/m/2/24/24816/24816/Inuyasha_032.mp4",
+          "size_mb": 252.14,
+          "label": "Inuyasha_032.mp4"
+        },
+        {
+          "episode": 33,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/24814/1/jxbzCDStFmw2hqA8MHrpPg/m/2/24/24814/24814/Inuyasha_033.mp4",
+          "size_mb": 171.83,
+          "label": "Inuyasha_033.mp4"
+        },
+        {
+          "episode": 34,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/24813/1/OkSBEAW-JkZOu0Nt81Us8Q/m/2/24/24813/24813/Inuyasha_034.mp4",
+          "size_mb": 193.54,
+          "label": "Inuyasha_034.mp4"
+        },
+        {
+          "episode": 35,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/24810/1/HSteetuvLy5pq0g0gUVTMA/m/2/24/24810/24810/Inuyasha_035.mp4",
+          "size_mb": 230.4,
+          "label": "Inuyasha_035.mp4"
+        },
+        {
+          "episode": 36,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/24811/1/kZVT5njtr_4wv7WYbceY0w/m/2/24/24811/24811/Inuyasha_036.mp4",
+          "size_mb": 179.26,
+          "label": "Inuyasha_036.mp4"
+        },
+        {
+          "episode": 37,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/24809/1/7SOp--hBmRZdbTSd4jz0fw/m/2/24/24809/24809/Inuyasha_037.mp4",
+          "size_mb": 191.32,
+          "label": "Inuyasha_037.mp4"
+        },
+        {
+          "episode": 38,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/24807/1/xYvgwtL0xOgkckXpw6s3HA/m/2/24/24807/24807/Inuyasha_038.mp4",
+          "size_mb": 149.76,
+          "label": "Inuyasha_038.mp4"
+        },
+        {
+          "episode": 39,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/24806/1/Ruvsn1NJdCNB4PTOW5KHZg/m/2/24/24806/24806/Inuyasha_039.mp4",
+          "size_mb": 194.67,
+          "label": "Inuyasha_039.mp4"
+        },
+        {
+          "episode": 40,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/24804/1/MGInKQkPkLOp6ak0bwAzAw/m/2/24/24804/24804/Inuyasha_040.mp4",
+          "size_mb": 273.01,
+          "label": "Inuyasha_040.mp4"
+        },
+        {
+          "episode": 41,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/24800/1/hDyQDQpcOL3dMT4X2ga7iQ/m/2/24/24800/24800/Inuyasha_041.mp4",
+          "size_mb": 146.13,
+          "label": "Inuyasha_041.mp4"
         }
       ]
     }

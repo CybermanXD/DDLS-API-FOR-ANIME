@@ -80,4 +80,45 @@
 [00:50:22] Finished Death_Note_(TV).
 [00:50:25] Manual scraping complete. M3U generated.
 [00:58:49] Queued https://www.tokyoinsider.com/anime/I/Inuyasha_(TV).
+[00:59:46] Queued https://www.tokyoinsider.com/anime/S/Steins_Gate_(TV).
+[00:59:47] Scraping https://www.tokyoinsider.com/anime/I/Inuyasha_(TV).
+[00:59:51] Saved episode for Inuyasha_(TV).
+[00:59:54] Saved episode for Inuyasha_(TV).
+[00:59:56] Saved episode for Inuyasha_(TV).
+[00:59:58] Saved episode for Inuyasha_(TV).
+[01:00:00] Saved episode for Inuyasha_(TV).
+[01:00:03] Saved episode for Inuyasha_(TV).
+[01:00:04] Saved episode for Inuyasha_(TV).
+[01:00:06] Saved episode for Inuyasha_(TV).
+[01:00:08] Saved episode for Inuyasha_(TV).
+[01:00:10] Saved episode for Inuyasha_(TV).
+[01:00:12] Saved episode for Inuyasha_(TV).
+[01:00:14] Saved episode for Inuyasha_(TV).
+[01:00:16] Saved episode for Inuyasha_(TV).
+[01:00:18] Saved episode for Inuyasha_(TV).
+[01:00:20] Saved episode for Inuyasha_(TV).
+[01:00:22] Saved episode for Inuyasha_(TV).
+[01:00:23] Saved episode for Inuyasha_(TV).
+[01:00:26] Saved episode for Inuyasha_(TV).
+[01:00:27] Saved episode for Inuyasha_(TV).
+[01:00:29] Saved episode for Inuyasha_(TV).
+[01:00:31] Saved episode for Inuyasha_(TV).
+[01:00:33] Saved episode for Inuyasha_(TV).
+[01:00:35] Saved episode for Inuyasha_(TV).
+[01:00:37] Saved episode for Inuyasha_(TV).
+[01:00:39] Saved episode for Inuyasha_(TV).
+[01:00:41] Saved episode for Inuyasha_(TV).
+[01:00:43] Saved episode for Inuyasha_(TV).
+[01:00:44] Saved episode for Inuyasha_(TV).
+[01:00:46] Saved episode for Inuyasha_(TV).
+[01:00:47] Saved episode for Inuyasha_(TV).
+[01:00:49] Saved episode for Inuyasha_(TV).
+[01:00:51] Saved episode for Inuyasha_(TV).
+[01:00:53] Saved episode for Inuyasha_(TV).
+[01:00:55] Saved episode for Inuyasha_(TV).
+[01:00:57] Saved episode for Inuyasha_(TV).
+[01:00:58] Saved episode for Inuyasha_(TV).
+[01:01:00] Saved episode for Inuyasha_(TV).
+[01:01:02] Saved episode for Inuyasha_(TV).
+[01:01:04] Saved episode for Inuyasha_(TV).
 
