@@ -142,15 +142,12 @@ def extract_candidates(soup: BeautifulSoup) -> List[DdlCandidate]:
 def pick_candidate(candidates: List[DdlCandidate]) -> Optional[DdlCandidate]:
     if not candidates:
         return None
-    preferred = [c for c in candidates if 60 <= c.size_mb <= 200]
+    preferred = [c for c in candidates if 90 <= c.size_mb <= 300]
     if preferred:
         return min(preferred, key=lambda c: c.size_mb)
-    under_50 = [c for c in candidates if c.size_mb < 50]
-    if under_50:
-        return max(under_50, key=lambda c: c.size_mb)
-    over_200 = [c for c in candidates if c.size_mb > 200]
-    if over_200:
-        return min(over_200, key=lambda c: c.size_mb)
+    under_90 = [c for c in candidates if c.size_mb < 90]
+    if under_90:
+        return max(under_90, key=lambda c: c.size_mb)
     return None
 
 
