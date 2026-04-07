@@ -1,3 +1,31 @@
 [01:51:04] Queued https://www.tokyoinsider.com/anime/A/Attack_on_Titan_(TV).
 [01:51:06] Scraping https://www.tokyoinsider.com/anime/A/Attack_on_Titan_(TV).
+[01:51:07] Episode 0 skipped for Attack_on_Titan_(TV): No English links.
+[01:51:08] Saved episode for Attack_on_Titan_(TV).
+[01:51:10] Saved episode for Attack_on_Titan_(TV).
+[01:51:11] Saved episode for Attack_on_Titan_(TV).
+[01:51:12] Saved episode for Attack_on_Titan_(TV).
+[01:51:14] Saved episode for Attack_on_Titan_(TV).
+[01:51:15] Saved episode for Attack_on_Titan_(TV).
+[01:51:17] Saved episode for Attack_on_Titan_(TV).
+[01:51:17] Saved episode for Attack_on_Titan_(TV).
+[01:51:19] Saved episode for Attack_on_Titan_(TV).
+[01:51:20] Saved episode for Attack_on_Titan_(TV).
+[01:51:21] Saved episode for Attack_on_Titan_(TV).
+[01:51:22] Saved episode for Attack_on_Titan_(TV).
+[01:51:24] Saved episode for Attack_on_Titan_(TV).
+[01:51:24] Saved episode for Attack_on_Titan_(TV).
+[01:51:25] Saved episode for Attack_on_Titan_(TV).
+[01:51:26] Saved episode for Attack_on_Titan_(TV).
+[01:51:27] Saved episode for Attack_on_Titan_(TV).
+[01:51:28] Saved episode for Attack_on_Titan_(TV).
+[01:51:30] Saved episode for Attack_on_Titan_(TV).
+[01:51:31] Saved episode for Attack_on_Titan_(TV).
+[01:51:32] Saved episode for Attack_on_Titan_(TV).
+[01:51:33] Saved episode for Attack_on_Titan_(TV).
+[01:51:34] Saved episode for Attack_on_Titan_(TV).
+[01:51:35] Saved episode for Attack_on_Titan_(TV).
+[01:51:36] Saved episode for Attack_on_Titan_(TV).
+[01:51:36] Finished Attack_on_Titan_(TV).
+[01:51:39] Manual scraping complete. M3U generated.
 

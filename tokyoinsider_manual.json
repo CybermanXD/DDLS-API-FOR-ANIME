@@ -1,5 +1,5 @@
 {
-  "total_anime": 13,
+  "total_anime": 14,
   "items": [
     {
       "Anime_Index": "01",
@@ -5782,6 +5782,171 @@
           "url": "https://media.tokyoinsider.com:8080/dl/00000000030/260023/1/ljSD9qnVNZdoE83szlbASA/3/30/306776/306776/%5BGJM%5D%20One%20Punch%20Man%20S2%20-%2012.mp4",
           "size_mb": 185.26,
           "label": "[GJM] One Punch Man S2 - 12.mp4"
+        }
+      ]
+    },
+    {
+      "Anime_Index": "14",
+      "anime": "Attack_on_Titan_(TV)",
+      "source_url": "https://www.tokyoinsider.com/anime/A/Attack_on_Titan_(TV)",
+      "summary": "The series follows the story of Eren Yeager, a young soldier whose father disappears and his mother is killed during the fall of Wall Maria and years later, enlists into the army along with his adopted sister Mikasa Ackerman. When the Titans threaten to break further through Wall Rose, Eren discovers that he possess the ability to temporarily transform himself into a Titan as well. Seen as a threat by some, and as a ray of hope by others, Eren and his companions risk their lives to protect what still remains of mankind, making use of his newfound power while looking for answers to the mysteries surrounding the Titans, the walls and his own existence.",
+      "genres": [
+        "Action",
+        "Fantasy",
+        "Horror"
+      ],
+      "poster_url": "https://www.tokyoinsider.com/upload/covers/A/thumbs/default_Attack_on_Titan_1365807176.jpg",
+      "total_episodes": 26,
+      "episodes": [
+        {
+          "episode": 1,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/312601/1/0tS7KxOu7nKLvnGWUD0tbA/3/36/368202/368202/1.mp4",
+          "size_mb": 93.52,
+          "label": "1.mp4"
+        },
+        {
+          "episode": 2,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/134348/1/AQIIbCyT1X9LbHFMEchjkg/1/16/160841/160841/Attack%20on%20Titan%20%28Shingeki%20no%20Kyojin%29%20S01E13.5%20Since%20That%20Day%20%281920x1080%29%20%7BPhr0stY%5D.mkv",
+          "size_mb": 550.77,
+          "label": "Attack on Titan (Shingeki no Kyojin) S01E13.5 Since That Day (1920x1080) {Phr0stY].mkv"
+        },
+        {
+          "episode": 3,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/312602/1/EyIHz5LKJUkQ1e_eMcJMaA/3/36/368205/368205/3.mp4",
+          "size_mb": 85.8,
+          "label": "3.mp4"
+        },
+        {
+          "episode": 4,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/312603/1/3Y2wdmMCWODEDnrbIRg9Rg/3/36/368206/368206/4.mp4",
+          "size_mb": 106.56,
+          "label": "4.mp4"
+        },
+        {
+          "episode": 5,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/312604/1/fQ4FT62by9lTPiVwUK5qOw/3/36/368207/368207/5.mp4",
+          "size_mb": 97.92,
+          "label": "5.mp4"
+        },
+        {
+          "episode": 6,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/312605/1/toO7Dhw36uwXPYgwQQr0UQ/3/36/368208/368208/6.mp4",
+          "size_mb": 100.93,
+          "label": "6.mp4"
+        },
+        {
+          "episode": 7,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/312606/1/8L_bdhFrX5hYShtQu1keSg/3/36/368209/368209/7.mp4",
+          "size_mb": 138.47,
+          "label": "7.mp4"
+        },
+        {
+          "episode": 8,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/312607/1/QIeFzvE7gZ6sq2WbWjBghw/3/36/368210/368210/8.mp4",
+          "size_mb": 134.58,
+          "label": "8.mp4"
+        },
+        {
+          "episode": 9,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/312608/1/dpxOYS0ehVXfuksV52RngA/3/36/368211/368211/9.mp4",
+          "size_mb": 131.67,
+          "label": "9.mp4"
+        },
+        {
+          "episode": 10,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/312609/1/q-Xc0xdVkhrDe0C7r5-e7Q/3/36/368212/368212/10.mp4",
+          "size_mb": 103.13,
+          "label": "10.mp4"
+        },
+        {
+          "episode": 11,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/134310/1/YMyTx_CYcJfeClJaLmNDjw/1/16/160801/160801/Attack%20on%20Titan%20%28Shingeki%20no%20Kyojin%29%20S01E11%20Idol%20%281920x1080%29%20%7BPhr0stY%5D.mkv",
+          "size_mb": 552.86,
+          "label": "Attack on Titan (Shingeki no Kyojin) S01E11 Idol (1920x1080) {Phr0stY].mkv"
+        },
+        {
+          "episode": 12,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/134343/1/NokdTgddiKnFxM_9xx-SrQ/1/16/160838/160838/Attack%20on%20Titan%20%28Shingeki%20no%20Kyojin%29%20S01E12%20Wound%20%281920x1080%29%20%7BPhr0stY%5D.mkv",
+          "size_mb": 552.28,
+          "label": "Attack on Titan (Shingeki no Kyojin) S01E12 Wound (1920x1080) {Phr0stY].mkv"
+        },
+        {
+          "episode": 13,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/134348/1/AQIIbCyT1X9LbHFMEchjkg/1/16/160841/160841/Attack%20on%20Titan%20%28Shingeki%20no%20Kyojin%29%20S01E13.5%20Since%20That%20Day%20%281920x1080%29%20%7BPhr0stY%5D.mkv",
+          "size_mb": 550.77,
+          "label": "Attack on Titan (Shingeki no Kyojin) S01E13.5 Since That Day (1920x1080) {Phr0stY].mkv"
+        },
+        {
+          "episode": 14,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/134350/1/I7CRv90nGOUOA4A2gEGC7Q/1/16/160843/160843/Attack%20on%20Titan%20%28Shingeki%20no%20Kyojin%29%20S01E14%20Can%27t%20Look%20into%20His%20Eyes%20%281920x1080%29%20%5BPhr0stY%5D.mkv",
+          "size_mb": 552.03,
+          "label": "Attack on Titan (Shingeki no Kyojin) S01E14 Can't Look into His Eyes (1920x1080) [Phr0stY].mkv"
+        },
+        {
+          "episode": 15,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/134401/1/pxGCLl1ULhDX13k_gJGQIQ/1/16/160897/160897/Attack%20on%20Titan%20%28Shingeki%20no%20Kyojin%29%20S01E15%20Special%20Ops%20Squad%20%281920x1080%29%20%5BPhr0stY%5D.mkv",
+          "size_mb": 552.32,
+          "label": "Attack on Titan (Shingeki no Kyojin) S01E15 Special Ops Squad (1920x1080) [Phr0stY].mkv"
+        },
+        {
+          "episode": 16,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/134403/1/kVjGhV5lLsqUs9TDswbo2Q/1/16/160900/160900/Attack%20on%20Titan%20%28Shingeki%20no%20Kyojin%29%20S01E16%20What%20Should%20Be%20Done%20%281920x1080%29%20%5BPhr0stY%5D.mkv",
+          "size_mb": 552.28,
+          "label": "Attack on Titan (Shingeki no Kyojin) S01E16 What Should Be Done (1920x1080) [Phr0stY].mkv"
+        },
+        {
+          "episode": 17,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/134404/1/lJdWWClyfVostapwhC51Xw/1/16/160901/160901/Attack%20on%20Titan%20%28Shingeki%20no%20Kyojin%29%20S01E17%20Female%20Titan%20%281920x1080%29%20%5BPhr0stY%5D.mkv",
+          "size_mb": 551.91,
+          "label": "Attack on Titan (Shingeki no Kyojin) S01E17 Female Titan (1920x1080) [Phr0stY].mkv"
+        },
+        {
+          "episode": 18,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/134406/1/f0wWO2zPFOmqweQWttOXOQ/1/16/160903/160903/Attack%20on%20Titan%20%28Shingeki%20no%20Kyojin%29%20S01E18%20Forest%20of%20Giant%20Trees%20%281920x1080%29%20%5BPhr0stY%5D.mkv",
+          "size_mb": 552.48,
+          "label": "Attack on Titan (Shingeki no Kyojin) S01E18 Forest of Giant Trees (1920x1080) [Phr0stY].mkv"
+        },
+        {
+          "episode": 19,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/134409/1/OiW0uW_Ad_RcbCZLv8K1nQ/1/16/160906/160906/Attack%20On%20Titan%20%28Shingeki%20no%20Kyojin%29%20S01E19%20Bite%20%281902x1080%29%20%5BPhr0stY%5D.mkv",
+          "size_mb": 552.19,
+          "label": "Attack On Titan (Shingeki no Kyojin) S01E19 Bite (1902x1080) [Phr0stY].mkv"
+        },
+        {
+          "episode": 20,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/134410/1/06M9krM31n_4bA4qZNfO0Q/1/16/160910/160910/Attack%20on%20Titan%20%28Shingeki%20no%20Kyojin%29%20S01E20%20Erwin%20Smith%20%281920x1080%29%20%5BPhr0stY%5D.mkv",
+          "size_mb": 551.07,
+          "label": "Attack on Titan (Shingeki no Kyojin) S01E20 Erwin Smith (1920x1080) [Phr0stY].mkv"
+        },
+        {
+          "episode": 21,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/134438/1/76Y4cGLIuClih-osJVZyWw/1/16/160944/160944/Attack%20on%20Titan%20%28Shingeki%20no%20Kyojin%29%20S01E21%20Crushing%20Blow%20%281920x1080%29%20%5BPhr0stY%5D.mkv",
+          "size_mb": 551.04,
+          "label": "Attack on Titan (Shingeki no Kyojin) S01E21 Crushing Blow (1920x1080) [Phr0stY].mkv"
+        },
+        {
+          "episode": 22,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/134439/1/bRP-3CRZASiykT2XuB3IzA/1/16/160945/160945/Attack%20on%20Titan%20%28Shingeki%20no%20Kyojin%29%20S01E22%20The%20Defeated%20%281920x1080%29%20%5BPhr0stY%5D.mkv",
+          "size_mb": 551.14,
+          "label": "Attack on Titan (Shingeki no Kyojin) S01E22 The Defeated (1920x1080) [Phr0stY].mkv"
+        },
+        {
+          "episode": 23,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/134443/1/MdG2r3_14qMaeeivanT-dQ/1/16/160949/160949/Attack%20on%20Titan%20%28Shingeki%20no%20Kyojin%29%20S01E23%20Smile%20%281920x1080%29%20%5BPhr0stY%5D.mkv",
+          "size_mb": 551.62,
+          "label": "Attack on Titan (Shingeki no Kyojin) S01E23 Smile (1920x1080) [Phr0stY].mkv"
+        },
+        {
+          "episode": 24,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/134444/1/xaW2cvr60gmVfRXe_wGA-w/1/16/160950/160950/Attack%20on%20Titan%20%28Shingeki%20no%20Kyojin%29%20S01E24%20Mercy%20%281920x1080%29%20%5BPhr0stY%5D.mkv",
+          "size_mb": 552.63,
+          "label": "Attack on Titan (Shingeki no Kyojin) S01E24 Mercy (1920x1080) [Phr0stY].mkv"
+        },
+        {
+          "episode": 25,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/134447/1/dKMCrmcW2F0L5Om88SmVqw/1/16/160955/160955/Attack%20on%20Titan%20%28Shingeki%20no%20Kyojin%29%20S01E25%20Wall%20%281920x1080%29%20%5BPhr0stY%5D.mkv",
+          "size_mb": 546.25,
+          "label": "Attack on Titan (Shingeki no Kyojin) S01E25 Wall (1920x1080) [Phr0stY].mkv"
         }
       ]
     }
