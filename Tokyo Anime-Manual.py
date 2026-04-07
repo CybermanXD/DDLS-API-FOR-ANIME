@@ -211,6 +211,18 @@ def extract_summary_and_genres(soup: BeautifulSoup) -> Tuple[Optional[str], List
     return summary, genres
 
 
+def extract_poster_url(soup: BeautifulSoup) -> Optional[str]:
+    img = soup.select_one("img.a_img")
+    if not img:
+        return None
+    src = img.get("src", "")
+    if not src:
+        return None
+    if src.startswith("/"):
+        return f"{BASE_URL}{src}"
+    return src
+
+
 def load_payload() -> Dict:
     if OUTPUT_JSON.exists():
         try:
@@ -230,6 +242,7 @@ def build_m3u(payload: Dict) -> str:
     for anime in items:
         anime_name = anime.get("anime", "Unknown Anime")
         anime_index = anime.get("Anime_Index", "")
+        poster_url = anime.get("poster_url", "")
         for episode in anime.get("episodes", []):
             ep_num = episode.get("episode")
             url = episode.get("url")
@@ -240,7 +253,8 @@ def build_m3u(payload: Dict) -> str:
                 f"#EXTINF:-1 "
                 f"group-title=\"{anime_name}\" "
                 f"tvg-name=\"{anime_name}\" "
-                f"tvg-id=\"{anime_index}\""
+                f"tvg-id=\"{anime_index}\" "
+                f"tvg-logo=\"{poster_url}\""
                 f",{display}"
             )
             lines.append(extinf)
@@ -324,6 +338,9 @@ class ManualScraperApp:
         self.stop_button.pack(side="left")
         self.stop_button.state(["disabled"])
         ttk.Button(controls, text="Re-fetch Selected", command=self.refetch_selected, style="Run.TButton").pack(
+            side="left", padx=(10, 0)
+        )
+        ttk.Button(controls, text="Re-fetch Posters", command=self.refetch_posters, style="Run.TButton").pack(
             side="left", padx=(10, 0)
         )
         ttk.Button(controls, text="Delete Selected", command=self.delete_selected, style="Stop.TButton").pack(
@@ -464,6 +481,29 @@ class ManualScraperApp:
         self.needs_refresh = True
         self.refresh_tree()
 
+    def refetch_posters(self) -> None:
+        selected_tasks = [task for task in self.tasks if task.selected]
+        if not selected_tasks:
+            return
+        session = requests.Session()
+        for task in selected_tasks:
+            try:
+                anime_soup = fetch_html(task.url, session)
+            except requests.RequestException:
+                self.append_log(f"Poster fetch failed for {task.url}.")
+                continue
+            poster_url = extract_poster_url(anime_soup)
+            if not poster_url:
+                self.append_log(f"No poster found for {task.url}.")
+                continue
+            for entry in self.payload.get("items", []):
+                if entry.get("source_url") == task.url:
+                    entry["poster_url"] = poster_url
+                    break
+            self.append_log(f"Poster updated for {task.title or task.url}.")
+        self.save_payload()
+        OUTPUT_M3U.write_text(build_m3u(self.payload), encoding="utf-8")
+
     def run_worker(self) -> None:
         session = requests.Session()
         for task in self.tasks:
@@ -499,10 +539,13 @@ class ManualScraperApp:
                 continue
 
             summary, genres = extract_summary_and_genres(anime_soup)
+            poster_url = extract_poster_url(anime_soup)
             task.total_episodes = len(episode_links)
 
             anime_entry = self.find_or_create_entry(task, summary, genres)
             anime_entry["total_episodes"] = len(episode_links)
+            if poster_url:
+                anime_entry["poster_url"] = poster_url
             existing_episodes = {ep.get("episode") for ep in anime_entry.get("episodes", [])}
 
             if len(existing_episodes) >= len(episode_links):
@@ -572,6 +615,7 @@ class ManualScraperApp:
             "source_url": task.url,
             "summary": summary,
             "genres": genres,
+            "poster_url": None,
             "total_episodes": task.total_episodes,
             "episodes": [],
         }
