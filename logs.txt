@@ -79,4 +79,5 @@
 [00:50:22] Saved episode for Death_Note_(TV).
 [00:50:22] Finished Death_Note_(TV).
 [00:50:25] Manual scraping complete. M3U generated.
+[00:58:49] Queued https://www.tokyoinsider.com/anime/I/Inuyasha_(TV).
 
