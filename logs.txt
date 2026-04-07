@@ -424,4 +424,25 @@
 [01:19:02] Saved episode for Digimon_Adventure_02_(TV).
 [01:19:04] Saved episode for Digimon_Adventure_02_(TV).
 [01:19:05] Saved episode for Digimon_Adventure_02_(TV).
+[01:19:07] Saved episode for Digimon_Adventure_02_(TV).
+[01:19:08] Saved episode for Digimon_Adventure_02_(TV).
+[01:19:09] Saved episode for Digimon_Adventure_02_(TV).
+[01:19:10] Saved episode for Digimon_Adventure_02_(TV).
+[01:19:12] Saved episode for Digimon_Adventure_02_(TV).
+[01:19:13] Saved episode for Digimon_Adventure_02_(TV).
+[01:19:15] Saved episode for Digimon_Adventure_02_(TV).
+[01:19:16] Saved episode for Digimon_Adventure_02_(TV).
+[01:19:17] Saved episode for Digimon_Adventure_02_(TV).
+[01:19:19] Saved episode for Digimon_Adventure_02_(TV).
+[01:19:20] Saved episode for Digimon_Adventure_02_(TV).
+[01:19:21] Saved episode for Digimon_Adventure_02_(TV).
+[01:19:22] Saved episode for Digimon_Adventure_02_(TV).
+[01:19:23] Saved episode for Digimon_Adventure_02_(TV).
+[01:19:24] Saved episode for Digimon_Adventure_02_(TV).
+[01:19:25] Saved episode for Digimon_Adventure_02_(TV).
+[01:19:27] Saved episode for Digimon_Adventure_02_(TV).
+[01:19:28] Saved episode for Digimon_Adventure_02_(TV).
+[01:19:29] Saved episode for Digimon_Adventure_02_(TV).
+[01:19:29] Finished Digimon_Adventure_02_(TV).
+[01:19:32] Manual scraping complete. M3U generated.
 
