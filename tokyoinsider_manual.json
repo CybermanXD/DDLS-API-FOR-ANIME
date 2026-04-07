@@ -1,5 +1,5 @@
 {
-  "total_anime": 12,
+  "total_anime": 13,
   "items": [
     {
       "Anime_Index": "01",
@@ -5694,6 +5694,94 @@
           "url": "https://media.tokyoinsider.com:8080/dl/00000000030/45316/1/agFFP8Li8P1qtqXzwuHYQg/m/4/45/45316/45316/%5BCommie%5D%20Heroman%20-%2018%20%5BD60C1940%5D.mkv",
           "size_mb": 383.16,
           "label": "[Commie] Heroman - 18 [D60C1940].mkv"
+        }
+      ]
+    },
+    {
+      "Anime_Index": "13",
+      "anime": "One_Punch_Man_2_(TV)",
+      "source_url": "https://www.tokyoinsider.com/anime/O/One_Punch_Man_2_(TV)",
+      "summary": "Second season of One Punch Man.",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Science Fiction",
+        "Supernatural"
+      ],
+      "poster_url": "https://www.tokyoinsider.com/upload/covers/O/thumbs/default_One_Punch_Man_2_1553411083.jpg",
+      "total_episodes": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/199504/1/slHzgxunWZLguxH6L3qUmw/2/23/239093/239093/%5BHorribleSubs%5D%20One%20Punch%20Man%20S2%20-%2001%20%5B720p%5D.mp4",
+          "size_mb": 162.39,
+          "label": "[HorribleSubs] One Punch Man S2 - 01 [720p].mp4"
+        },
+        {
+          "episode": 2,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/260013/1/XL7NfAOuS-VsgHdlahbMvg/3/30/306764/306764/%5BGJM%5D%20One%20Punch%20Man%20S2%20-%2002.mp4",
+          "size_mb": 185.21,
+          "label": "[GJM] One Punch Man S2 - 02.mp4"
+        },
+        {
+          "episode": 3,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/200430/1/gGFeOPYDerCfS0UVHhNyHw/2/24/240161/240161/%5BHorribleSubs%5D%20One%20Punch%20Man%20S2%20-%2003%20%5B720p%5D.mp4",
+          "size_mb": 163.86,
+          "label": "[HorribleSubs] One Punch Man S2 - 03 [720p].mp4"
+        },
+        {
+          "episode": 4,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/200880/1/3HaztymceJV84-xHUSfojQ/2/24/240674/240674/%5BHorribleSubs%5D%20One%20Punch%20Man%20S2%20-%2004%20%5B720p%5D.mp4",
+          "size_mb": 184.82,
+          "label": "[HorribleSubs] One Punch Man S2 - 04 [720p].mp4"
+        },
+        {
+          "episode": 5,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/260017/1/6VRT8ZUD5z7RPWUJ_nwuRg/3/30/306767/306767/%5BGJM%5D%20One%20Punch%20Man%20S2%20-%2005.mp4",
+          "size_mb": 185.46,
+          "label": "[GJM] One Punch Man S2 - 05.mp4"
+        },
+        {
+          "episode": 6,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/260016/1/S1m4LGoE2oN8ifOChKFJvw/3/30/306768/306768/%5BGJM%5D%20One%20Punch%20Man%20S2%20-%2006.mp4",
+          "size_mb": 185.56,
+          "label": "[GJM] One Punch Man S2 - 06.mp4"
+        },
+        {
+          "episode": 7,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/260018/1/6Py26trKe0T9QaJugt1Yew/3/30/306770/306770/%5BGJM%5D%20One%20Punch%20Man%20S2%20-%2007.mp4",
+          "size_mb": 185.54,
+          "label": "[GJM] One Punch Man S2 - 07.mp4"
+        },
+        {
+          "episode": 8,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/260019/1/bqec_YGxjcjx07CnYr1jdg/3/30/306772/306772/%5BGJM%5D%20One%20Punch%20Man%20S2%20-%2008.mp4",
+          "size_mb": 185.44,
+          "label": "[GJM] One Punch Man S2 - 08.mp4"
+        },
+        {
+          "episode": 9,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/204151/1/jyu2R9rJqGkf5zz1xfYaZQ/2/24/244507/244507/%5BHorribleSubs%5D%20One%20Punch%20Man%20S2%20-%2009%20%5B720p%5D.mp4",
+          "size_mb": 146.13,
+          "label": "[HorribleSubs] One Punch Man S2 - 09 [720p].mp4"
+        },
+        {
+          "episode": 10,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/204432/1/H3JAXEOayXsWAZbo-0CqKw/2/24/244856/244856/One%20Punch%20Man%202nd%20Season%20%2010.mp4",
+          "size_mb": 170.67,
+          "label": "One Punch Man 2nd Season  10.mp4"
+        },
+        {
+          "episode": 11,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/260022/1/eH_Vyj4pCRSeWbuaavCDbg/3/30/306775/306775/%5BGJM%5D%20One%20Punch%20Man%20S2%20-%2011.mp4",
+          "size_mb": 185.47,
+          "label": "[GJM] One Punch Man S2 - 11.mp4"
+        },
+        {
+          "episode": 12,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/260023/1/ljSD9qnVNZdoE83szlbASA/3/30/306776/306776/%5BGJM%5D%20One%20Punch%20Man%20S2%20-%2012.mp4",
+          "size_mb": 185.26,
+          "label": "[GJM] One Punch Man S2 - 12.mp4"
         }
       ]
     }
