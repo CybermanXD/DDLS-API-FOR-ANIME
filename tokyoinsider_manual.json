@@ -1,5 +1,5 @@
 {
-  "total_anime": 6,
+  "total_anime": 7,
   "items": [
     {
       "Anime_Index": "01",
@@ -4259,6 +4259,346 @@
           "url": "https://media.tokyoinsider.com:8080/dl/00000000030/164608/1/R3w4slrvP8bqFQXjRfZxhA/1/19/196598/196598/%5BNoobSubs%5D%20Steins%3BGate%2025%20OVA%20%28720p%20Blu-ray%208bit%20AAC%29.mp4",
           "size_mb": 224.91,
           "label": "[NoobSubs] Steins;Gate 25 OVA (720p Blu-ray 8bit AAC).mp4"
+        }
+      ]
+    },
+    {
+      "Anime_Index": "07",
+      "anime": "Digimon_Adventure_(TV)",
+      "source_url": "https://www.tokyoinsider.com/anime/D/Digimon_Adventure_(TV)",
+      "summary": "Seven kids are transported to the Digital World, a strange place where digital creatures called \"Digimon\" reside. A group of Digimon soon befriend them and keep the kids out of harm's way. The children then become the Digidestined, or Chosen Children, which protect the Digital World from evil Digimon like Devilmon and Myotismon.",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Fantasy",
+        "Science Fiction"
+      ],
+      "total_episodes": 54,
+      "episodes": [
+        {
+          "episode": 1,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/30166/1/-2MuRVRELC4wmRaayYTQKg/m/3/30/30166/30166/%5BRyRo%5D_Digimon_Adventure_01_%28h264%29_%5BB065F2BF%5D.mkv",
+          "size_mb": 170.31,
+          "label": "[RyRo]_Digimon_Adventure_01_(h264)_[B065F2BF].mkv"
+        },
+        {
+          "episode": 2,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/30164/1/H4yxGlJfqtIZAyHStsWLpw/m/3/30/30164/30164/%5BRyRo%5D_Digimon_Adventure_02_%28h264%29_%5BD965B347%5D.mkv",
+          "size_mb": 173.12,
+          "label": "[RyRo]_Digimon_Adventure_02_(h264)_[D965B347].mkv"
+        },
+        {
+          "episode": 3,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/30161/1/ZYO2l7PnOMXEsqS0uOBKHg/m/3/30/30161/30161/%5BRyRo%5D_Digimon_Adventure_03_%28h264%29_%5BAB0AA6F9%5D.mkv",
+          "size_mb": 170.29,
+          "label": "[RyRo]_Digimon_Adventure_03_(h264)_[AB0AA6F9].mkv"
+        },
+        {
+          "episode": 4,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/30162/1/oH3Kt1gjWHFUaNVbd2OlCA/m/3/30/30162/30162/%5BRyRo%5D_Digimon_Adventure_04_%28h264%29_%5BF8C655B2%5D.mkv",
+          "size_mb": 170.29,
+          "label": "[RyRo]_Digimon_Adventure_04_(h264)_[F8C655B2].mkv"
+        },
+        {
+          "episode": 5,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/30163/1/aB__hjwyJVZDDSYCT5Z3FQ/m/3/30/30163/30163/%5BRyRo%5D_Digimon_Adventure_05_%28h264%29_%5B3B911987%5D.mkv",
+          "size_mb": 173.09,
+          "label": "[RyRo]_Digimon_Adventure_05_(h264)_[3B911987].mkv"
+        },
+        {
+          "episode": 6,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/30159/1/Zg3BvtIpHLe1qlHnEC0YYA/m/3/30/30159/30159/%5BRyRo%5D_Digimon_Adventure_06_%28h264%29_%5B6F553232%5D.mkv",
+          "size_mb": 172.95,
+          "label": "[RyRo]_Digimon_Adventure_06_(h264)_[6F553232].mkv"
+        },
+        {
+          "episode": 7,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/30160/1/eh_BoaEVFaQCpmjERQX-gw/m/3/30/30160/30160/%5BRyRo%5D_Digimon_Adventure_07_%28h264%29_%5BB3DFFF9F%5D.mkv",
+          "size_mb": 173.0,
+          "label": "[RyRo]_Digimon_Adventure_07_(h264)_[B3DFFF9F].mkv"
+        },
+        {
+          "episode": 8,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/30158/1/UTteJmo9V0NAAyG64N-wRA/m/3/30/30158/30158/%5BRyRo%5D_Digimon_Adventure_08_%28h264%29_%5B554F4545%5D.mkv",
+          "size_mb": 172.99,
+          "label": "[RyRo]_Digimon_Adventure_08_(h264)_[554F4545].mkv"
+        },
+        {
+          "episode": 9,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/15309/1/RytiX_zUechusxWaubDk0g/m/1/15/15309/15309/Digimon_Adventure_-_09.avi",
+          "size_mb": 102.96,
+          "label": "Digimon_Adventure_-_09.avi"
+        },
+        {
+          "episode": 10,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/30156/1/UyJb-7kIgrLk-SYJjikfiQ/m/3/30/30156/30156/%5BRyRo%5D_Digimon_Adventure_10_%28h264%29_%5BD99655F7%5D.mkv",
+          "size_mb": 172.98,
+          "label": "[RyRo]_Digimon_Adventure_10_(h264)_[D99655F7].mkv"
+        },
+        {
+          "episode": 11,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/30155/1/X_vV5EriGPXmcqZJKXbpOg/m/3/30/30155/30155/%5BRyRo%5D_Digimon_Adventure_11_%28h264%29_%5B072101CD%5D.mkv",
+          "size_mb": 172.97,
+          "label": "[RyRo]_Digimon_Adventure_11_(h264)_[072101CD].mkv"
+        },
+        {
+          "episode": 12,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/15305/1/NanXX089VE4ntzYKQGAh3g/m/1/15/15305/15305/Digimon_Adventure_-_12.avi",
+          "size_mb": 93.76,
+          "label": "Digimon_Adventure_-_12.avi"
+        },
+        {
+          "episode": 13,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/30154/1/0I7-zhGuzx2a_kz52-xjdQ/m/3/30/30154/30154/%5BRyRo%5D_Digimon_Adventure_13_%28h264%29_%5B6527A38B%5D.mkv",
+          "size_mb": 172.99,
+          "label": "[RyRo]_Digimon_Adventure_13_(h264)_[6527A38B].mkv"
+        },
+        {
+          "episode": 14,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/30153/1/VkfayBDiF2tLhMzb_5dJfA/m/3/30/30153/30153/%5BRyRo%5D_Digimon_Adventure_14_%28h264%29_%5B1E716410%5D.mkv",
+          "size_mb": 172.97,
+          "label": "[RyRo]_Digimon_Adventure_14_(h264)_[1E716410].mkv"
+        },
+        {
+          "episode": 15,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/30152/1/UAFl2BYpo5qznFH6ZJnJMw/m/3/30/30152/30152/%5BRyRo%5D_Digimon_Adventure_15_%28h264%29_%5B8FBCA82D%5D.mkv",
+          "size_mb": 173.01,
+          "label": "[RyRo]_Digimon_Adventure_15_(h264)_[8FBCA82D].mkv"
+        },
+        {
+          "episode": 16,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/15298/1/l16YD-4QQvkdiCB2HUB7mA/m/1/15/15298/15298/Digimon_Adventure_-_16.avi",
+          "size_mb": 107.97,
+          "label": "Digimon_Adventure_-_16.avi"
+        },
+        {
+          "episode": 17,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/30151/1/rQVXM6sp0WhchTcKg-cBtQ/m/3/30/30151/30151/%5BRyRo%5D_Digimon_Adventure_17_%28h264%29_%5B55947252%5D.mkv",
+          "size_mb": 172.94,
+          "label": "[RyRo]_Digimon_Adventure_17_(h264)_[55947252].mkv"
+        },
+        {
+          "episode": 18,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/30150/1/RhLy3tcPgS0YFaa52eKCCw/m/3/30/30150/30150/%5BRyRo%5D_Digimon_Adventure_18_%28h264%29_%5B0D322343%5D.mkv",
+          "size_mb": 172.98,
+          "label": "[RyRo]_Digimon_Adventure_18_(h264)_[0D322343].mkv"
+        },
+        {
+          "episode": 19,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/30148/1/g8m-VMYZiy-ysZwBhlASlA/m/3/30/30148/30148/%5BRyRo%5D_Digimon_Adventure_19_%28h264%29_%5B505291FB%5D.mkv",
+          "size_mb": 173.06,
+          "label": "[RyRo]_Digimon_Adventure_19_(h264)_[505291FB].mkv"
+        },
+        {
+          "episode": 20,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/30149/1/3RpI_pHQYSi7VoRPHAybqg/m/3/30/30149/30149/%5BRyRo%5D_Digimon_Adventure_20_%28h264%29_%5BF3C3E325%5D.mkv",
+          "size_mb": 173.02,
+          "label": "[RyRo]_Digimon_Adventure_20_(h264)_[F3C3E325].mkv"
+        },
+        {
+          "episode": 21,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/30146/1/2eF3n5bZtNPjiuE97ZRqyw/m/3/30/30146/30146/%5BRyRo%5D_Digimon_Adventure_21_%28h264%29_%5B655B024D%5D.mkv",
+          "size_mb": 172.98,
+          "label": "[RyRo]_Digimon_Adventure_21_(h264)_[655B024D].mkv"
+        },
+        {
+          "episode": 22,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/39795/1/UrrQArK7Co4GeBim84Z69A/m/3/39/39795/39795/%5BRyRo%5D_Digimon_Adventure_22_%28h264%29_%5B4BB17E42%5D.mkv",
+          "size_mb": 173.0,
+          "label": "[RyRo]_Digimon_Adventure_22_(h264)_[4BB17E42].mkv"
+        },
+        {
+          "episode": 23,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/30147/1/79KQBxoDC0zx7Q_iVHzZCA/m/3/30/30147/30147/%5BRyRo%5D_Digimon_Adventure_23_%28h264%29_%5BAC2B5BED%5D.mkv",
+          "size_mb": 173.03,
+          "label": "[RyRo]_Digimon_Adventure_23_(h264)_[AC2B5BED].mkv"
+        },
+        {
+          "episode": 24,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/30142/1/t8BmCYz49fTkkmAtvY7sZw/m/3/30/30142/30142/%5BRyRo%5D_Digimon_Adventure_24_%28h264%29_%5BD4F852C5%5D.mkv",
+          "size_mb": 172.98,
+          "label": "[RyRo]_Digimon_Adventure_24_(h264)_[D4F852C5].mkv"
+        },
+        {
+          "episode": 25,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/30144/1/DUPff61tJ7RnfonHpGyt1A/m/3/30/30144/30144/%5BRyRo%5D_Digimon_Adventure_25_%28h264%29_%5BD13C0C43%5D.mkv",
+          "size_mb": 173.01,
+          "label": "[RyRo]_Digimon_Adventure_25_(h264)_[D13C0C43].mkv"
+        },
+        {
+          "episode": 26,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/30141/1/mQ_SMEuWMzSbFljYXM_NZg/m/3/30/30141/30141/%5BRyRo%5D_Digimon_Adventure_26_%28h264%29_%5B9ADB780A%5D.mkv",
+          "size_mb": 172.95,
+          "label": "[RyRo]_Digimon_Adventure_26_(h264)_[9ADB780A].mkv"
+        },
+        {
+          "episode": 27,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/30143/1/_Q3N41BMP4KtGt0ylbUZgg/m/3/30/30143/30143/%5BRyRo%5D_Digimon_Adventure_27_%28DVD_h264_AAC%29_%5BABEB91A6%5D.mkv",
+          "size_mb": 175.71,
+          "label": "[RyRo]_Digimon_Adventure_27_(DVD_h264_AAC)_[ABEB91A6].mkv"
+        },
+        {
+          "episode": 28,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/30140/1/gNkHcNAxZZeBFEEzBFIZtA/m/3/30/30140/30140/%5BRyRo%5D_Digimon_Adventure_28_%28DVD_h264_AAC%29_%5B44C7DEC4%5D.mkv",
+          "size_mb": 175.73,
+          "label": "[RyRo]_Digimon_Adventure_28_(DVD_h264_AAC)_[44C7DEC4].mkv"
+        },
+        {
+          "episode": 29,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/30139/1/nOhdk3uoB9nZZzNGxXEByw/m/3/30/30139/30139/%5BRyRo%5D_Digimon_Adventure_29_%28DVD_h264_AAC%29_%5B94D32773%5D.mkv",
+          "size_mb": 175.55,
+          "label": "[RyRo]_Digimon_Adventure_29_(DVD_h264_AAC)_[94D32773].mkv"
+        },
+        {
+          "episode": 30,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/30145/1/IFo46jWzuyR-uoT_NBTCNg/m/3/30/30145/30145/%5BRyRo%5D_Digimon_Adventure_30_%28DVD_h264_AAC%29_%5B1105905C%5D.mkv",
+          "size_mb": 175.66,
+          "label": "[RyRo]_Digimon_Adventure_30_(DVD_h264_AAC)_[1105905C].mkv"
+        },
+        {
+          "episode": 31,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/30136/1/V-P-eUc4YilxEd5kgw39qw/m/3/30/30136/30136/%5BRyRo%5D_Digimon_Adventure_31_%28DVD_h264_AAC%29_%5BBA1F2D08%5D.mkv",
+          "size_mb": 175.66,
+          "label": "[RyRo]_Digimon_Adventure_31_(DVD_h264_AAC)_[BA1F2D08].mkv"
+        },
+        {
+          "episode": 32,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/30137/1/2c1RKqhDrZPHDzb8VLfoOA/m/3/30/30137/30137/%5BRyRo%5D_Digimon_Adventure_32_%28DVD_h264_AAC%29_%5B4F0D160B%5D.mkv",
+          "size_mb": 175.66,
+          "label": "[RyRo]_Digimon_Adventure_32_(DVD_h264_AAC)_[4F0D160B].mkv"
+        },
+        {
+          "episode": 33,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/30134/1/N7Ro4o7UQAcx1I3hi5Vc1A/m/3/30/30134/30134/%5BRyRo%5D_Digimon_Adventure_33_%28DVD_h264_AAC%29_%5BC6DD9E71%5D.mkv",
+          "size_mb": 175.69,
+          "label": "[RyRo]_Digimon_Adventure_33_(DVD_h264_AAC)_[C6DD9E71].mkv"
+        },
+        {
+          "episode": 34,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/30135/1/ogyVxDw91-sIFsDHGl4ZZA/m/3/30/30135/30135/%5BRyRo%5D_Digimon_Adventure_34_%28DVD_h264_AAC%29_%5B01946C7D%5D.mkv",
+          "size_mb": 175.68,
+          "label": "[RyRo]_Digimon_Adventure_34_(DVD_h264_AAC)_[01946C7D].mkv"
+        },
+        {
+          "episode": 35,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/30133/1/XMnmWusicMsnO8-wPOHqyw/m/3/30/30133/30133/%5BRyRo%5D_Digimon_Adventure_35_%28DVD_h264_AAC%29_%5B3D38E060%5D.mkv",
+          "size_mb": 175.63,
+          "label": "[RyRo]_Digimon_Adventure_35_(DVD_h264_AAC)_[3D38E060].mkv"
+        },
+        {
+          "episode": 36,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/30131/1/WEfsFJm8sYHdhFZOUEOzAg/m/3/30/30131/30131/%5BRyRo%5D_Digimon_Adventure_36_%28DVD_h264_AAC%29_%5B057B482A%5D.mkv",
+          "size_mb": 175.64,
+          "label": "[RyRo]_Digimon_Adventure_36_(DVD_h264_AAC)_[057B482A].mkv"
+        },
+        {
+          "episode": 37,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/42075/1/XQRduL1TVqnhBVUKQdIatA/m/4/42/42075/42075/%5BRyRo%5D_Digimon_Adventure_37_%28DVD_h264_AAC%29_%5BA68494D2%5D.mkv",
+          "size_mb": 175.68,
+          "label": "[RyRo]_Digimon_Adventure_37_(DVD_h264_AAC)_[A68494D2].mkv"
+        },
+        {
+          "episode": 38,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/30132/1/VUTzPKZvsxRiQ08bZjp-VA/m/3/30/30132/30132/%5BRyRo%5D_Digimon_Adventure_38_%28DVD_h264_AAC%29_%5B6C42E530%5D.mkv",
+          "size_mb": 175.61,
+          "label": "[RyRo]_Digimon_Adventure_38_(DVD_h264_AAC)_[6C42E530].mkv"
+        },
+        {
+          "episode": 39,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/30129/1/7AOzxpxRASJDqlt1J_KpNw/m/3/30/30129/30129/%5BRyRo%5D_Digimon_Adventure_39_%28DVD_h264_AAC%29_%5B84B6F75D%5D.mkv",
+          "size_mb": 175.64,
+          "label": "[RyRo]_Digimon_Adventure_39_(DVD_h264_AAC)_[84B6F75D].mkv"
+        },
+        {
+          "episode": 40,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/30130/1/5YumfuygmKO-Ii31TwVzqw/m/3/30/30130/30130/%5BRyRo%5D_Digimon_Adventure_40_%28DVD_h264_AAC%29_%5BCB7C1FE8%5D.mkv",
+          "size_mb": 175.63,
+          "label": "[RyRo]_Digimon_Adventure_40_(DVD_h264_AAC)_[CB7C1FE8].mkv"
+        },
+        {
+          "episode": 41,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/30128/1/Nluaq7n-rvThiNfYTi7P2g/m/3/30/30128/30128/%5BRyRo%5D_Digimon_Adventure_41_%28DVD_h264_AAC%29_%5B2D7D1160%5D.mkv",
+          "size_mb": 175.62,
+          "label": "[RyRo]_Digimon_Adventure_41_(DVD_h264_AAC)_[2D7D1160].mkv"
+        },
+        {
+          "episode": 42,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/30126/1/LhJxm6v5h_yPEnoVb_9NNg/m/3/30/30126/30126/%5BRyRo%5D_Digimon_Adventure_42_%28DVD_h264_AAC%29_%5B2024F544%5D.mkv",
+          "size_mb": 175.71,
+          "label": "[RyRo]_Digimon_Adventure_42_(DVD_h264_AAC)_[2024F544].mkv"
+        },
+        {
+          "episode": 43,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/30127/1/TdJqaf6DRDG5Jr3-cw2-7w/m/3/30/30127/30127/%5BRyRo%5D_Digimon_Adventure_43_%28DVD_h264_AAC%29_%5B2E08E29E%5D.mkv",
+          "size_mb": 175.68,
+          "label": "[RyRo]_Digimon_Adventure_43_(DVD_h264_AAC)_[2E08E29E].mkv"
+        },
+        {
+          "episode": 44,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/15543/1/6c1rWrE3a5ORzv-p5Xc3gg/m/1/15/15543/15543/Digimon_Adventure_-_44.mkv",
+          "size_mb": 175.62,
+          "label": "Digimon_Adventure_-_44.mkv"
+        },
+        {
+          "episode": 45,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/15547/1/27JQR0IKGpFjCSI4kFukwA/m/1/15/15547/15547/Digimon_Adventure_-_45.mkv",
+          "size_mb": 175.52,
+          "label": "Digimon_Adventure_-_45.mkv"
+        },
+        {
+          "episode": 46,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/15551/1/DSCJyvlHejmQJ7Zm2gmOUw/m/1/15/15551/15551/Digimon_Adventure_-_46.mkv",
+          "size_mb": 175.54,
+          "label": "Digimon_Adventure_-_46.mkv"
+        },
+        {
+          "episode": 47,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/15555/1/MI6SrEuwoUHBVN1eP3OUxg/m/1/15/15555/15555/Digimon_Adventure_-_47.mkv",
+          "size_mb": 175.62,
+          "label": "Digimon_Adventure_-_47.mkv"
+        },
+        {
+          "episode": 48,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/15556/1/Fv2_J9XrUg8RykJbjZrAew/m/1/15/15556/15556/Digimon_Adventure_-_48.mkv",
+          "size_mb": 175.44,
+          "label": "Digimon_Adventure_-_48.mkv"
+        },
+        {
+          "episode": 49,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/15564/1/GhYG70E_49QNdFXkInA8Pg/m/1/15/15564/15564/Digimon_Adventure_-_49.mkv",
+          "size_mb": 175.55,
+          "label": "Digimon_Adventure_-_49.mkv"
+        },
+        {
+          "episode": 50,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/15586/1/T0VenykLV3_YRcgTSvj06g/m/1/15/15586/15586/Digimon_Adventure_-_50.mkv",
+          "size_mb": 175.45,
+          "label": "Digimon_Adventure_-_50.mkv"
+        },
+        {
+          "episode": 51,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/15669/1/oAI6ucA0Zxx8pvPRJjGDJg/m/1/15/15669/15669/Digimon_Adventure_-_51.mkv",
+          "size_mb": 175.49,
+          "label": "Digimon_Adventure_-_51.mkv"
+        },
+        {
+          "episode": 52,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/15581/1/KxNwaMT4ZsILFcBfXg8hBg/m/1/15/15581/15581/Digimon_Adventure_-_52.mkv",
+          "size_mb": 175.39,
+          "label": "Digimon_Adventure_-_52.mkv"
+        },
+        {
+          "episode": 53,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/15576/1/CauuR48udbsg5Pry2qa8CQ/m/1/15/15576/15576/Digimon_Adventure_-_53.mkv",
+          "size_mb": 175.45,
+          "label": "Digimon_Adventure_-_53.mkv"
+        },
+        {
+          "episode": 54,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/15573/1/m8zgeftvyx5eWa06v5soXg/m/1/15/15573/15573/Digimon_Adventure_-_54_END.mkv",
+          "size_mb": 175.59,
+          "label": "Digimon_Adventure_-_54_END.mkv"
         }
       ]
     }
