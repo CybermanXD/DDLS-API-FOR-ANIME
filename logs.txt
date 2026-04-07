@@ -1,25 +1,3 @@
-[01:45:45] Manual scraping complete. M3U generated.
-[01:45:52] Poster updated for Heroman_(TV).
-[01:45:54] Manual scraping complete. M3U generated.
-[01:46:02] Re-fetch queued for https://www.tokyoinsider.com/anime/H/Heroman_(TV).
-[01:46:04] Scraping https://www.tokyoinsider.com/anime/H/Heroman_(TV).
-[01:46:06] Saved episode for Heroman_(TV).
-[01:46:06] Finished Heroman_(TV).
-[01:46:08] Manual scraping complete. M3U generated.
-[01:47:42] Queued https://www.tokyoinsider.com/anime/O/One_Punch_Man_2_(TV).
-[01:47:45] Scraping https://www.tokyoinsider.com/anime/O/One_Punch_Man_2_(TV).
-[01:47:49] Saved episode for One_Punch_Man_2_(TV).
-[01:47:52] Saved episode for One_Punch_Man_2_(TV).
-[01:47:54] Saved episode for One_Punch_Man_2_(TV).
-[01:47:56] Saved episode for One_Punch_Man_2_(TV).
-[01:47:59] Saved episode for One_Punch_Man_2_(TV).
-[01:48:01] Saved episode for One_Punch_Man_2_(TV).
-[01:48:03] Saved episode for One_Punch_Man_2_(TV).
-[01:48:06] Saved episode for One_Punch_Man_2_(TV).
-[01:48:08] Saved episode for One_Punch_Man_2_(TV).
-[01:48:10] Saved episode for One_Punch_Man_2_(TV).
-[01:48:13] Saved episode for One_Punch_Man_2_(TV).
-[01:48:15] Saved episode for One_Punch_Man_2_(TV).
-[01:48:15] Finished One_Punch_Man_2_(TV).
-[01:48:18] Manual scraping complete. M3U generated.
+[01:51:04] Queued https://www.tokyoinsider.com/anime/A/Attack_on_Titan_(TV).
+[01:51:06] Scraping https://www.tokyoinsider.com/anime/A/Attack_on_Titan_(TV).
 
