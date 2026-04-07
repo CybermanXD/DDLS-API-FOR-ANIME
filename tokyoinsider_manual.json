@@ -1,5 +1,5 @@
 {
-  "total_anime": 5,
+  "total_anime": 6,
   "items": [
     {
       "Anime_Index": "01",
@@ -4023,6 +4023,194 @@
           "url": "https://media.tokyoinsider.com:8080/dl/00000000030/232375/1/zGJRsiHAi5AkrS3DY7EGuw/2/27/276716/276716/%5BFullmetal%5D%20Inuyasha%20-%20155%20%5B1080p%5D%5BHEVC%2010bits%5D.mkv",
           "size_mb": 278.3,
           "label": "[Fullmetal] Inuyasha - 155 [1080p][HEVC 10bits].mkv"
+        },
+        {
+          "episode": 156,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/25697/1/PN3msCQObYhRbULjg1uo7A/m/2/25/25697/25697/Inuyasha_156.mp4",
+          "size_mb": 296.92,
+          "label": "Inuyasha_156.mp4"
+        },
+        {
+          "episode": 157,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/232379/1/cC1reH6mBKIkXPwhF5Q5yA/2/27/276720/276720/%5BFullmetal%5D%20Inuyasha%20-%20157%20%5B1080p%5D%5BHEVC%2010bits%5D.mkv",
+          "size_mb": 262.45,
+          "label": "[Fullmetal] Inuyasha - 157 [1080p][HEVC 10bits].mkv"
+        },
+        {
+          "episode": 158,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/25692/1/JhbGga9rMQ3R_AAsj81cvA/m/2/25/25692/25692/Inuyasha_158.mp4",
+          "size_mb": 290.88,
+          "label": "Inuyasha_158.mp4"
+        },
+        {
+          "episode": 159,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/232381/1/82nTF8wqjfVC9NaISozjgQ/2/27/276722/276722/%5BFullmetal%5D%20Inuyasha%20-%20159%20%5B1080p%5D%5BHEVC%2010bits%5D.mkv",
+          "size_mb": 298.17,
+          "label": "[Fullmetal] Inuyasha - 159 [1080p][HEVC 10bits].mkv"
+        },
+        {
+          "episode": 160,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/25688/1/IHUQzVjTQEZvRTBoD4YTOQ/m/2/25/25688/25688/Inuyasha_160.mp4",
+          "size_mb": 268.83,
+          "label": "Inuyasha_160.mp4"
+        },
+        {
+          "episode": 161,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/25691/1/QCtNfvKlB7hkuPzplgyH5w/m/2/25/25691/25691/Inuyasha_161.mp4",
+          "size_mb": 285.94,
+          "label": "Inuyasha_161.mp4"
+        },
+        {
+          "episode": 162,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/25687/1/1StWB-Qgyw0fBIFiRUrFaQ/m/2/25/25687/25687/Inuyasha_162.mp4",
+          "size_mb": 255.27,
+          "label": "Inuyasha_162.mp4"
+        },
+        {
+          "episode": 163,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/232395/1/WejwSstoOs3AY1lfWZorKA/2/27/276736/276736/%5BFullmetal%5D%20Inuyasha%20-%20163%20%5B1080p%5D%5BHEVC%2010bits%5D.mkv",
+          "size_mb": 242.53,
+          "label": "[Fullmetal] Inuyasha - 163 [1080p][HEVC 10bits].mkv"
+        },
+        {
+          "episode": 164,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/232396/1/m_ZmhzL4PcUyIHVCuYdAEw/2/27/276737/276737/%5BFullmetal%5D%20Inuyasha%20-%20164%20%5B1080p%5D%5BHEVC%2010bits%5D.mkv",
+          "size_mb": 264.59,
+          "label": "[Fullmetal] Inuyasha - 164 [1080p][HEVC 10bits].mkv"
+        },
+        {
+          "episode": 165,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/25678/1/igVMdV4K1s--azd6W7ga8A/m/2/25/25678/25678/Inuyasha_165.mp4",
+          "size_mb": 266.8,
+          "label": "Inuyasha_165.mp4"
+        },
+        {
+          "episode": 166,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/25677/1/Qvq7dzyFnasd_5aU5GAubg/m/2/25/25677/25677/Inuyasha_166.mp4",
+          "size_mb": 259.75,
+          "label": "Inuyasha_166.mp4"
+        },
+        {
+          "episode": 167,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/25676/1/hLVXvnPtYeJHO0qvpONsvg/m/2/25/25676/25676/Inuyasha_167.mp4",
+          "size_mb": 290.84,
+          "label": "Inuyasha_167.mp4"
+        }
+      ]
+    },
+    {
+      "Anime_Index": "06",
+      "anime": "Steins_Gate_(TV)",
+      "source_url": "https://www.tokyoinsider.com/anime/S/Steins_Gate_(TV)",
+      "summary": "Steins;Gate is about a group of friends who have customized their microwave into a device that can send text messages to the past. As they perform different experiments, an organization named SERN who has been doing their own research on time travel tracks them down and now the characters have to find a way to avoid being captured by them.",
+      "genres": [
+        "Mystery",
+        "Psychological",
+        "Supernatural"
+      ],
+      "total_episodes": 25,
+      "episodes": [
+        {
+          "episode": 1,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/78552/1/0fROnXdsludJHAqFREapIg/m/7/78/78552/78552/1.mp4",
+          "size_mb": 223.36,
+          "label": "1.mp4"
+        },
+        {
+          "episode": 2,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/164492/1/MAPJmDUzUxUgkw_i-rHloA/1/19/196475/196475/%5BNoobSubs%5D%20Steins%3BGate%2002%20%28720p%20Blu-ray%208bit%20AAC%29.mp4",
+          "size_mb": 299.8,
+          "label": "[NoobSubs] Steins;Gate 02 (720p Blu-ray 8bit AAC).mp4"
+        },
+        {
+          "episode": 3,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/122801/1/LFnItKecsKzuLPza5-IXMQ/1/14/145939/145939/%5BSe-No%5DStains_Gate_Episode_03_Mirror_auto-sexy.com.mkv",
+          "size_mb": 106.38,
+          "label": "[Se-No]Stains_Gate_Episode_03_Mirror_auto-sexy.com.mkv"
+        },
+        {
+          "episode": 4,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/164582/1/LFxej7JyTslnFVOB4YASbg/1/19/196570/196570/%5BNoobSubs%5D%20Steins%3BGate%2004%20%28720p%20Blu-ray%208bit%20AAC%29.mp4",
+          "size_mb": 278.17,
+          "label": "[NoobSubs] Steins;Gate 04 (720p Blu-ray 8bit AAC).mp4"
+        },
+        {
+          "episode": 5,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/164588/1/Lzz_JwV6g_36-ylc2HnGbg/1/19/196573/196573/%5BNoobSubs%5D%20Steins%3BGate%2005%20%28720p%20Blu-ray%208bit%20AAC%29.mp4",
+          "size_mb": 270.57,
+          "label": "[NoobSubs] Steins;Gate 05 (720p Blu-ray 8bit AAC).mp4"
+        },
+        {
+          "episode": 6,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/122800/1/Nvk-ajQgTIt_bcl35Wsj8g/1/14/145942/145942/%5BSe-No%5DStains_Gate_Episode_06_Mirror_auto-sexy.com.mkv",
+          "size_mb": 116.13,
+          "label": "[Se-No]Stains_Gate_Episode_06_Mirror_auto-sexy.com.mkv"
+        },
+        {
+          "episode": 7,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/122802/1/SXs24kt-QsSMmmjXYthPIg/1/14/145943/145943/%5BSe-No%5DStains_Gate_Episode_07_Mirror_auto-sexy.com.mkv",
+          "size_mb": 99.73,
+          "label": "[Se-No]Stains_Gate_Episode_07_Mirror_auto-sexy.com.mkv"
+        },
+        {
+          "episode": 8,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/164513/1/QBv2JNcvGGXTT-q3lRRm5g/1/19/196497/196497/%5BNoobSubs%5D%20Steins%3BGate%2008%20%28720p%20Blu-ray%208bit%20AAC%29.mp4",
+          "size_mb": 296.13,
+          "label": "[NoobSubs] Steins;Gate 08 (720p Blu-ray 8bit AAC).mp4"
+        },
+        {
+          "episode": 9,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/164533/1/MCokWKsmvq2iXHHk0Dd3cQ/1/19/196518/196518/%5BNoobSubs%5D%20Steins%3BGate%2009%20%28720p%20Blu-ray%208bit%20AAC%29.mp4",
+          "size_mb": 292.26,
+          "label": "[NoobSubs] Steins;Gate 09 (720p Blu-ray 8bit AAC).mp4"
+        },
+        {
+          "episode": 10,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/163970/1/6P9K7GZdI-293XtVRlNqWQ/1/19/195920/195920/%5BNoobSubs%5D%20Steins%3BGate%2010%20%28720p%20Blu-ray%208bit%20AAC%29.mp4",
+          "size_mb": 287.87,
+          "label": "[NoobSubs] Steins;Gate 10 (720p Blu-ray 8bit AAC).mp4"
+        },
+        {
+          "episode": 11,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/164556/1/rrHX1KpGOmNsqpWm8Nn4BQ/1/19/196539/196539/%5BNoobSubs%5D%20Steins%3BGate%2011%20%28720p%20Blu-ray%208bit%20AAC%29.mp4",
+          "size_mb": 286.95,
+          "label": "[NoobSubs] Steins;Gate 11 (720p Blu-ray 8bit AAC).mp4"
+        },
+        {
+          "episode": 12,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/164579/1/P6byM4j4w3bo5CyXDWcnGg/1/19/196566/196566/%5BNoobSubs%5D%20Steins%3BGate%2012%20%28720p%20Blu-ray%208bit%20AAC%29.mp4",
+          "size_mb": 271.76,
+          "label": "[NoobSubs] Steins;Gate 12 (720p Blu-ray 8bit AAC).mp4"
+        },
+        {
+          "episode": 13,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/122809/1/rLhZVD54_NUfIjGHtWO2Gw/1/14/145949/145949/%5BSe-No%5DStains_Gate_Episode_13_Mirror_auto-sexy.com.mkv",
+          "size_mb": 100.26,
+          "label": "[Se-No]Stains_Gate_Episode_13_Mirror_auto-sexy.com.mkv"
+        },
+        {
+          "episode": 14,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/164535/1/M4WhiDtI60_oiQHrn5UgLQ/1/19/196520/196520/%5BNoobSubs%5D%20Steins%3BGate%2014%20%28720p%20Blu-ray%208bit%20AAC%29.mp4",
+          "size_mb": 290.1,
+          "label": "[NoobSubs] Steins;Gate 14 (720p Blu-ray 8bit AAC).mp4"
+        },
+        {
+          "episode": 15,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/122810/1/bmgsJiYpQMuZmul9zMvGlg/1/14/145951/145951/%5BSe-No%5DStains_Gate_Episode_15_Mirror_auto-sexy.com.mkv",
+          "size_mb": 100.55,
+          "label": "[Se-No]Stains_Gate_Episode_15_Mirror_auto-sexy.com.mkv"
+        },
+        {
+          "episode": 16,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/122811/1/UAypfRXRVadUPTxE4FL6wg/1/14/145952/145952/%5BSe-No%5DStains_Gate_Episode_16_Mirror_auto-sexy.com.mkv",
+          "size_mb": 100.02,
+          "label": "[Se-No]Stains_Gate_Episode_16_Mirror_auto-sexy.com.mkv"
+        },
+        {
+          "episode": 17,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/164550/1/Ac5jk4C55ji15JhHCSbC_g/1/19/196532/196532/%5BNoobSubs%5D%20Steins%3BGate%2017%20%28720p%20Blu-ray%208bit%20AAC%29.mp4",
+          "size_mb": 288.91,
+          "label": "[NoobSubs] Steins;Gate 17 (720p Blu-ray 8bit AAC).mp4"
         }
       ]
     }
