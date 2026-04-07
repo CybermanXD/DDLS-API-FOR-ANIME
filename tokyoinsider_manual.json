@@ -1,5 +1,5 @@
 {
-  "total_anime": 7,
+  "total_anime": 9,
   "items": [
     {
       "Anime_Index": "01",
@@ -4599,6 +4599,549 @@
           "url": "https://media.tokyoinsider.com:8080/dl/00000000030/15573/1/m8zgeftvyx5eWa06v5soXg/m/1/15/15573/15573/Digimon_Adventure_-_54_END.mkv",
           "size_mb": 175.59,
           "label": "Digimon_Adventure_-_54_END.mkv"
+        }
+      ]
+    },
+    {
+      "Anime_Index": "08",
+      "anime": "Digimon_Xros_Wars_(TV)",
+      "source_url": "https://www.tokyoinsider.com/anime/D/Digimon_Xros_Wars_(TV)",
+      "summary": "Taiki KudÅ, an upbeat seventh-grade boy who always helps people in need, encounters a Digimon named Shoutmon, who brings him and his friends to the Digital World. With his friends Akari Hinomoto and ZenjirÅ Tsurugi, they form Team Xros Heart to compete against rival teams battling for supremacy, with their ultimate goal of taking down the evil Bagura Empire, who plans to conquer the Digital World.",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Drama",
+        "Fantasy",
+        "Science Fiction"
+      ],
+      "total_episodes": 54,
+      "episodes": [
+        {
+          "episode": 1,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/39068/1/81XIBgY3Dg_3AonNk4douQ/m/3/39/39068/39068/Digimon%20Xros%20Wars%2001.mp4",
+          "size_mb": 172.61,
+          "label": "Digimon Xros Wars 01.mp4"
+        },
+        {
+          "episode": 2,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/39313/1/7XmnWVpwYJZSvMvKUuqdLg/m/3/39/39313/39313/Digimon%20Xros%20Wars%2002.mp4",
+          "size_mb": 172.89,
+          "label": "Digimon Xros Wars 02.mp4"
+        },
+        {
+          "episode": 3,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/39399/1/8hWlv7erPc8qisYN39Aydg/m/3/39/39399/39399/Digimon%20Xros%20Wars%2003.mp4",
+          "size_mb": 118.64,
+          "label": "Digimon Xros Wars 03.mp4"
+        },
+        {
+          "episode": 4,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/39332/1/oAwCtQYA8SkUR3lgqgPA5w/m/3/39/39332/39332/Digimon%20Xros%20Wars%2004.mp4",
+          "size_mb": 272.21,
+          "label": "Digimon Xros Wars 04.mp4"
+        },
+        {
+          "episode": 5,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/39879/1/UEHOEbB19wSuKfV6fHc0pQ/m/3/39/39879/39879/Digimon%20Xros%20Wars%2005.mp4",
+          "size_mb": 266.42,
+          "label": "Digimon Xros Wars 05.mp4"
+        },
+        {
+          "episode": 6,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/39127/1/2S8l2psrm1KvKN6mdOkZfA/m/3/39/39127/39127/%5BOD-WPP%5D_Digimon_Xros_Wars_-_06_%5B720p%5D_%5B66DF0635%5D.mkv",
+          "size_mb": 239.53,
+          "label": "[OD-WPP]_Digimon_Xros_Wars_-_06_[720p]_[66DF0635].mkv"
+        },
+        {
+          "episode": 7,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/28172/1/b8q07rscl6LPUigvtB-2QQ/m/2/28/28172/28172/%5BRyRo%5D_Digimon_Xros_Wars_-_07_%281280x720_x264_AAC%29_%5B5F9D4312%5D.mkv",
+          "size_mb": 275.21,
+          "label": "[RyRo]_Digimon_Xros_Wars_-_07_(1280x720_x264_AAC)_[5F9D4312].mkv"
+        },
+        {
+          "episode": 8,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/40481/1/skCIbF1638dUptSqg5SuGA/m/4/40/40481/40481/Digimon%20Xros%20Wars%2008.mp4",
+          "size_mb": 298.39,
+          "label": "Digimon Xros Wars 08.mp4"
+        },
+        {
+          "episode": 9,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/39116/1/tztemoKTYpyJPkTk7-KkuQ/m/3/39/39116/39116/%5BOD-WPP%5D_Digimon_Xros_Wars_-_09_%5B720p%5D_%5B554BED00%5D.mkv",
+          "size_mb": 229.5,
+          "label": "[OD-WPP]_Digimon_Xros_Wars_-_09_[720p]_[554BED00].mkv"
+        },
+        {
+          "episode": 10,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/30398/1/uZKmrpe-tRU1R437ya9uiA/m/3/30/30398/30398/%5BRyRo%5D_Digimon_Xros_Wars_-_10-11_%28640x360_XviD_MP3%29_%5BUNOFFICIAL%5D.avi",
+          "size_mb": 247.33,
+          "label": "[RyRo]_Digimon_Xros_Wars_-_10-11_(640x360_XviD_MP3)_[UNOFFICIAL].avi"
+        },
+        {
+          "episode": 11,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/30398/1/uZKmrpe-tRU1R437ya9uiA/m/3/30/30398/30398/%5BRyRo%5D_Digimon_Xros_Wars_-_10-11_%28640x360_XviD_MP3%29_%5BUNOFFICIAL%5D.avi",
+          "size_mb": 247.33,
+          "label": "[RyRo]_Digimon_Xros_Wars_-_10-11_(640x360_XviD_MP3)_[UNOFFICIAL].avi"
+        },
+        {
+          "episode": 12,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/33939/1/MIONqX5gtQrg2IEgrXgCxA/m/3/33/33939/33939/%5BRyRo%5D_Digimon_Xros_Wars_-_12_%281280x720_x264_AAC%29_%5BE9EA9CD6%5D.mkv",
+          "size_mb": 275.16,
+          "label": "[RyRo]_Digimon_Xros_Wars_-_12_(1280x720_x264_AAC)_[E9EA9CD6].mkv"
+        },
+        {
+          "episode": 13,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/41707/1/P48qMEBYjv2FSGbUzsw7bg/m/4/41/41707/41707/Digimon%20Xros%20Wars%2013.mp4",
+          "size_mb": 271.77,
+          "label": "Digimon Xros Wars 13.mp4"
+        },
+        {
+          "episode": 14,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/41780/1/OrxvJHQsVJeiyIvWY5YPQA/m/4/41/41780/41780/Digimon%20Xros%20Wars%2014.mp4",
+          "size_mb": 289.55,
+          "label": "Digimon Xros Wars 14.mp4"
+        },
+        {
+          "episode": 15,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/41880/1/pPWoeFoToVizYCMLFy6Zow/m/4/41/41880/41880/Digimon%20Xros%20Wars%2015.mp4",
+          "size_mb": 281.88,
+          "label": "Digimon Xros Wars 15.mp4"
+        },
+        {
+          "episode": 16,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/46591/1/BW6hHxWcgg0c3RUpCMWj5Q/m/4/46/46591/46591/Digimon%20Xros%20Wars%2016.mp4",
+          "size_mb": 270.56,
+          "label": "Digimon Xros Wars 16.mp4"
+        },
+        {
+          "episode": 17,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/37387/1/WhfDCe0PNVYz7mtJdtDmpg/m/3/37/37387/37387/%5BRyRo%5D_Digimon_Xros_Wars_-_17_%281280x720_x264_AAC%29_%5B67B3834D%5D.mkv",
+          "size_mb": 274.93,
+          "label": "[RyRo]_Digimon_Xros_Wars_-_17_(1280x720_x264_AAC)_[67B3834D].mkv"
+        },
+        {
+          "episode": 18,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/47061/1/Bqh0mD0wn013mvzlT9n80w/m/4/47/47061/47061/Digimon%20Xros%20Wars%2018.mp4",
+          "size_mb": 280.97,
+          "label": "Digimon Xros Wars 18.mp4"
+        },
+        {
+          "episode": 19,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/47153/1/5NtBFhymmP9D9LsG4S7FJA/m/4/47/47153/47153/Digimon%20Xros%20Wars%2019.mp4",
+          "size_mb": 293.59,
+          "label": "Digimon Xros Wars 19.mp4"
+        },
+        {
+          "episode": 20,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/47238/1/AgB1SNEZhyv428UGbTmAKg/m/4/47/47238/47238/Digimon%20Xros%20Wars%2020.mp4",
+          "size_mb": 261.37,
+          "label": "Digimon Xros Wars 20.mp4"
+        },
+        {
+          "episode": 21,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/47414/1/EPiCDFFVzXA_2jmv_EzamQ/m/4/47/47414/47414/Digimon%20Xros%20Wars%2021.mp4",
+          "size_mb": 261.11,
+          "label": "Digimon Xros Wars 21.mp4"
+        },
+        {
+          "episode": 22,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/41516/1/xHZmfE-MdyWwGUEz_R5TvA/m/4/41/41516/41516/%5BRyRo%5D_Digimon_Xros_Wars_-_22_%281280x720_x264_AAC%29_%5B57CBE198%5D.mkv",
+          "size_mb": 275.13,
+          "label": "[RyRo]_Digimon_Xros_Wars_-_22_(1280x720_x264_AAC)_[57CBE198].mkv"
+        },
+        {
+          "episode": 23,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/47571/1/qXXNmTs-PdCLhOW0pkaLrw/m/4/47/47571/47571/Digimon%20Xros%20Wars%2023.mp4",
+          "size_mb": 280.15,
+          "label": "Digimon Xros Wars 23.mp4"
+        },
+        {
+          "episode": 24,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/47809/1/adHNvfIVi4T56qovYhigvA/m/4/47/47809/47809/Digimon%20Xros%20Wars%2024.mp4",
+          "size_mb": 277.75,
+          "label": "Digimon Xros Wars 24.mp4"
+        },
+        {
+          "episode": 25,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/47840/1/kw9JNwMJMBgZCnczIsMLlQ/m/4/47/47840/47840/Digimon%20Xros%20Wars%2025.mp4",
+          "size_mb": 288.93,
+          "label": "Digimon Xros Wars 25.mp4"
+        },
+        {
+          "episode": 26,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/47954/1/XlECRGBPedDmdtJnK5gi5w/m/4/47/47954/47954/Digimon%20Xros%20Wars%2026.mp4",
+          "size_mb": 274.5,
+          "label": "Digimon Xros Wars 26.mp4"
+        },
+        {
+          "episode": 27,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/48057/1/I8R2IJCq6iNpGOUd-AFbaw/m/4/48/48057/48057/Digimon%20Xros%20Wars%2027.mp4",
+          "size_mb": 287.82,
+          "label": "Digimon Xros Wars 27.mp4"
+        },
+        {
+          "episode": 28,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/48150/1/AHMkqOUXxx9HUDyx2w21rA/m/4/48/48150/48150/Digimon%20Xros%20Wars%2028.mp4",
+          "size_mb": 295.94,
+          "label": "Digimon Xros Wars 28.mp4"
+        },
+        {
+          "episode": 29,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/46485/1/HoEOGx2KRsv-q5zyEbgUXQ/m/4/46/46485/46485/%5BRyRo%5D_Digimon_Xros_Wars_-_29_%281280x720_x264_AAC%29_%5BCBFE7079%5D.mkv",
+          "size_mb": 275.16,
+          "label": "[RyRo]_Digimon_Xros_Wars_-_29_(1280x720_x264_AAC)_[CBFE7079].mkv"
+        },
+        {
+          "episode": 30,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/48161/1/uJIROrl32hLlAapXVG_hHQ/m/4/48/48161/48161/Digimon%20Xros%20Wars%2030.mp4",
+          "size_mb": 265.68,
+          "label": "Digimon Xros Wars 30.mp4"
+        },
+        {
+          "episode": 31,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/49050/1/WkMf4BrnZ6sNcdCkUaE0tg/m/4/49/49050/49050/Digimon%20Xros%20Wars%2031.mp4",
+          "size_mb": 293.89,
+          "label": "Digimon Xros Wars 31.mp4"
+        },
+        {
+          "episode": 32,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/49778/1/WMk-1BN-r3Bjyw06N9ho7w/m/4/49/49778/49778/%5BRyRo%5D_Digimon_Xros_Wars_-_32_%281280x720_x264_AAC%29_%5B17F7DEB7%5D.mkv",
+          "size_mb": 274.93,
+          "label": "[RyRo]_Digimon_Xros_Wars_-_32_(1280x720_x264_AAC)_[17F7DEB7].mkv"
+        },
+        {
+          "episode": 33,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/50060/1/A5ejF_pXBeqlpklKKw6ONQ/m/5/50/50060/50060/%5BRyRo%5D_Digimon_Xros_Wars_-_33_%281280x720_x264_AAC%29_%5B943370F2%5D.mkv",
+          "size_mb": 275.03,
+          "label": "[RyRo]_Digimon_Xros_Wars_-_33_(1280x720_x264_AAC)_[943370F2].mkv"
+        },
+        {
+          "episode": 34,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/50941/1/dBj5lYu17-sXqxWuxLEWcA/m/5/50/50941/50941/Digimon%20Xros%20Wars%2034.mp4",
+          "size_mb": 292.64,
+          "label": "Digimon Xros Wars 34.mp4"
+        },
+        {
+          "episode": 35,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/51497/1/1Mk91D8GYjw-O5dzzUhM5g/m/5/51/51497/51497/%5BRyRo%5D_Digimon_Xros_Wars_-_35_%281280x720_x264_AAC%29_%5B0D5488A2%5D.mkv",
+          "size_mb": 275.15,
+          "label": "[RyRo]_Digimon_Xros_Wars_-_35_(1280x720_x264_AAC)_[0D5488A2].mkv"
+        },
+        {
+          "episode": 36,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/51954/1/BceS6AKriOCY8W7YRJUfig/m/5/51/51954/51954/%5BRyRo%5D_Digimon_Xros_Wars_-_36_%281280x720_x264_AAC%29_%5BB8A41327%5D.mkv",
+          "size_mb": 275.02,
+          "label": "[RyRo]_Digimon_Xros_Wars_-_36_(1280x720_x264_AAC)_[B8A41327].mkv"
+        },
+        {
+          "episode": 37,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/52412/1/EHIT5hjZZVr2R5qa34AtYQ/m/5/52/52412/52412/%5BRyRo%5D_Digimon_Xros_Wars_-_37_%281280x720_x264_AAC%29_%5B222FBEE2%5D.mkv",
+          "size_mb": 274.89,
+          "label": "[RyRo]_Digimon_Xros_Wars_-_37_(1280x720_x264_AAC)_[222FBEE2].mkv"
+        },
+        {
+          "episode": 38,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/53177/1/GvpeVIUK1mXgdIwYh2HQIg/m/5/53/53177/53177/%5BRyRo%5D_Digimon_Xros_Wars_-_38_%281280x720_x264_AAC%29_%5BBF8AAB7D%5D.mkv",
+          "size_mb": 275.03,
+          "label": "[RyRo]_Digimon_Xros_Wars_-_38_(1280x720_x264_AAC)_[BF8AAB7D].mkv"
+        },
+        {
+          "episode": 39,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/53478/1/sMvrj4ce6I8li5XTu4vmRg/m/5/53/53478/53478/%5BRyRo%5D_Digimon_Xros_Wars_-_39_%281280x720_x264_AAC%29_%5BA292FFD9%5D.mkv",
+          "size_mb": 274.94,
+          "label": "[RyRo]_Digimon_Xros_Wars_-_39_(1280x720_x264_AAC)_[A292FFD9].mkv"
+        },
+        {
+          "episode": 40,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/56467/1/yfAquRg2y14pucu7ei489w/m/5/56/56467/56467/%5BRyRo%5D_Digimon_Xros_Wars_-_40_%281280x720_x264_AAC%29_%5B8F732C3C%5D.mkv",
+          "size_mb": 274.92,
+          "label": "[RyRo]_Digimon_Xros_Wars_-_40_(1280x720_x264_AAC)_[8F732C3C].mkv"
+        },
+        {
+          "episode": 41,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/56739/1/Yoni7AL4MFwUo9lZlaz5-w/m/5/56/56739/56739/%5BRyRo%5D_Digimon_Xros_Wars_-_41_%281280x720_x264_AAC%29_%5B41CBE87D%5D.mkv",
+          "size_mb": 274.88,
+          "label": "[RyRo]_Digimon_Xros_Wars_-_41_(1280x720_x264_AAC)_[41CBE87D].mkv"
+        },
+        {
+          "episode": 42,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/57319/1/bhKcoV7p61FzNJPAfsx1eQ/m/5/57/57319/57319/%5BRyRo%5D_Digimon_Xros_Wars_-_42_%281280x720_x264_AAC%29_%5BFC2A6C76%5D.mkv",
+          "size_mb": 274.97,
+          "label": "[RyRo]_Digimon_Xros_Wars_-_42_(1280x720_x264_AAC)_[FC2A6C76].mkv"
+        },
+        {
+          "episode": 43,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/57968/1/GGhnex18jAO9PlENlBjgeg/m/5/57/57968/57968/%5BRyRo%5D_Digimon_Xros_Wars_-_43_%281280x720_x264_AAC%29_%5BFABF6085%5D.mkv",
+          "size_mb": 274.86,
+          "label": "[RyRo]_Digimon_Xros_Wars_-_43_(1280x720_x264_AAC)_[FABF6085].mkv"
+        },
+        {
+          "episode": 44,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/59336/1/RK64O_Mi7IgQE4nEi1b1WA/m/5/59/59336/59336/digimon-xros-wars44-lq.mp4",
+          "size_mb": 95.36,
+          "label": "digimon-xros-wars44-lq.mp4"
+        },
+        {
+          "episode": 45,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/59699/1/_o8KMBLtfyEjdRw8ezuqZg/m/5/59/59699/59699/%5BRyRo%5D_Digimon_Xros_Wars_-_45_%281280x720_x264_AAC%29_%5B1306DC88%5D.mkv",
+          "size_mb": 274.92,
+          "label": "[RyRo]_Digimon_Xros_Wars_-_45_(1280x720_x264_AAC)_[1306DC88].mkv"
+        },
+        {
+          "episode": 46,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/61628/1/M0vw3mWeun5ejd14feeIuQ/m/6/61/61628/61628/%5BRyRo%5D_Digimon_Xros_Wars_-_46_%281280x720_x264_AAC%29_%5B0E6445BC%5D.mkv",
+          "size_mb": 274.84,
+          "label": "[RyRo]_Digimon_Xros_Wars_-_46_(1280x720_x264_AAC)_[0E6445BC].mkv"
+        },
+        {
+          "episode": 47,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/61556/1/QIzYV7VcG90vB96wMnh-_A/m/6/61/61556/61556/%5BRyRo%5D%20Digimon%20Xros%20Wars%2047.avi",
+          "size_mb": 169.18,
+          "label": "[RyRo] Digimon Xros Wars 47.avi"
+        },
+        {
+          "episode": 48,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/63201/1/g7ecq4gYr6M11nNaQR3ehA/m/6/63/63201/63201/%5BRyRo%5D_Digimon_Xros_Wars_-_48_%281280x720_x264_AAC%29_%5B88BAA5F1%5D.mkv",
+          "size_mb": 275.13,
+          "label": "[RyRo]_Digimon_Xros_Wars_-_48_(1280x720_x264_AAC)_[88BAA5F1].mkv"
+        },
+        {
+          "episode": 49,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/63202/1/Gt06yYjyzL7dGPXgAaoOJg/m/6/63/63202/63202/%5BRyRo%5D_Digimon_Xros_Wars_-_49_%281280x720_x264_AAC%29_%5BA44868E6%5D.mkv",
+          "size_mb": 274.81,
+          "label": "[RyRo]_Digimon_Xros_Wars_-_49_(1280x720_x264_AAC)_[A44868E6].mkv"
+        },
+        {
+          "episode": 50,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/63203/1/YKlt3rxyWZ7zIhbpXhhdyg/m/6/63/63203/63203/%5BRyRo%5D_Digimon_Xros_Wars_-_50_%281280x720_x264_AAC%29_%5BB2FDD449%5D.mkv",
+          "size_mb": 274.98,
+          "label": "[RyRo]_Digimon_Xros_Wars_-_50_(1280x720_x264_AAC)_[B2FDD449].mkv"
+        },
+        {
+          "episode": 51,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/63891/1/v2T7ooqbSdMVJABJyLhJAQ/m/6/63/63891/63891/Digimon%20Xros%20Wars%20-%2051.mkv",
+          "size_mb": 274.82,
+          "label": "Digimon Xros Wars - 51.mkv"
+        },
+        {
+          "episode": 52,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/64767/1/ezoAPpscaQVBt9xs27_kkQ/m/6/64/64767/64767/Digimon%20Xros%20Wars%20-%2052.mkv",
+          "size_mb": 274.62,
+          "label": "Digimon Xros Wars - 52.mkv"
+        },
+        {
+          "episode": 53,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/65053/1/6HiVgu9CLJ4-i7tUhtB0ZQ/m/6/65/65053/65053/%5BRyRo%5D_Digimon_Xros_Wars_-_53_%281280x720_x264_AAC%29_%5BA40492B6%5D.mkv",
+          "size_mb": 274.96,
+          "label": "[RyRo]_Digimon_Xros_Wars_-_53_(1280x720_x264_AAC)_[A40492B6].mkv"
+        },
+        {
+          "episode": 54,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/65063/1/RUiRKpjRLVuLVH8oVfZXjA/m/6/65/65063/65063/%5BRyRo%5D_Digimon_Xros_Wars_-_54_%281280x720_x264_AAC%29_%5B6B6DCAD5%5D.mkv",
+          "size_mb": 274.89,
+          "label": "[RyRo]_Digimon_Xros_Wars_-_54_(1280x720_x264_AAC)_[6B6DCAD5].mkv"
+        }
+      ]
+    },
+    {
+      "Anime_Index": "09",
+      "anime": "Digimon_Adventure_02_(TV)",
+      "source_url": "https://www.tokyoinsider.com/anime/D/Digimon_Adventure_02_(TV)",
+      "summary": "A few years after the adventures of the Digidestined in the Digital World, a new batch of Chosen Children are summoned to save the Digital World. An evil ruler known as the Digimon Kaizer, or Digimon Emperor, is forcing the Digital World's Digimon into enslavement. The new group of Digidestined Children, with the help of their Digimon, then begin a journey to stop the evil Digimon Emperor.",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Fantasy",
+        "Science Fiction"
+      ],
+      "total_episodes": 50,
+      "episodes": [
+        {
+          "episode": 1,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/14086/1/xSAKwdHCLqcEcdhyZI_3cg/m/1/14/14086/14086/%5B3g-wpp%5Ddigimon_02_-_01.avi",
+          "size_mb": 175.17,
+          "label": "[3g-wpp]digimon_02_-_01.avi"
+        },
+        {
+          "episode": 2,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/14092/1/62rrM6MbptWFQ0K0Gqjwrw/m/1/14/14092/14092/%5B3g-wpp%5Ddigimon_02_-_02.avi",
+          "size_mb": 175.05,
+          "label": "[3g-wpp]digimon_02_-_02.avi"
+        },
+        {
+          "episode": 3,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/15376/1/eSsgANVVf_Ari_mY6kWe8w/m/1/15/15376/15376/%5B3g-wpp%5Ddigimon_02_-_03.avi",
+          "size_mb": 175.03,
+          "label": "[3g-wpp]digimon_02_-_03.avi"
+        },
+        {
+          "episode": 4,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/15807/1/wPcU3GHUEVxOtb3pqRdWBA/m/1/15/15807/15807/%5B3g-wpp%5Ddigimon_02_-_04.avi",
+          "size_mb": 174.59,
+          "label": "[3g-wpp]digimon_02_-_04.avi"
+        },
+        {
+          "episode": 5,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/16288/1/8ceyFnVMMIezJ53ZafJGxQ/m/1/16/16288/16288/%5B3g-wpp%5Ddigimon_02_-_05.avi",
+          "size_mb": 229.47,
+          "label": "[3g-wpp]digimon_02_-_05.avi"
+        },
+        {
+          "episode": 6,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/16317/1/5SN0saEd_6TryWn4LL_evw/m/1/16/16317/16317/%5B3g-wpp%5Ddigimon_02_-_06_%5B3412A362%5D.avi",
+          "size_mb": 229.5,
+          "label": "[3g-wpp]digimon_02_-_06_[3412A362].avi"
+        },
+        {
+          "episode": 7,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/16339/1/hQgP450f_tAHDM7QxWa-oA/m/1/16/16339/16339/%5B3g-wpp%5Ddigimon_02_-_07_%5B350573F5%5D.avi",
+          "size_mb": 229.38,
+          "label": "[3g-wpp]digimon_02_-_07_[350573F5].avi"
+        },
+        {
+          "episode": 8,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/16668/1/3XUtPJUUbuyKVhLSiyXR9A/m/1/16/16668/16668/%5B3g-wpp%5Ddigimon_02_-_08_%5B01DDD059%5D.avi",
+          "size_mb": 175.03,
+          "label": "[3g-wpp]digimon_02_-_08_[01DDD059].avi"
+        },
+        {
+          "episode": 9,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/16920/1/LxtsyIHNuS6JLSZZT311ig/m/1/16/16920/16920/%5B3g-wpp%5Ddigimon_02_-_09_%5B0275f451%5D.avi",
+          "size_mb": 174.45,
+          "label": "[3g-wpp]digimon_02_-_09_[0275f451].avi"
+        },
+        {
+          "episode": 10,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/17015/1/Ee0jbXnXALX6cDBq1oWDBQ/m/1/17/17015/17015/%5B3g-wpp%5Ddigimon_02_-_10_%5BA3F603DB%5D.avi",
+          "size_mb": 175.11,
+          "label": "[3g-wpp]digimon_02_-_10_[A3F603DB].avi"
+        },
+        {
+          "episode": 11,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/17126/1/wS_sd0_6QwOY8316PhTsBA/m/1/17/17126/17126/_3g-wpp_digimon_02_-_11__4052ED3E_.avi",
+          "size_mb": 174.98,
+          "label": "_3g-wpp_digimon_02_-_11__4052ED3E_.avi"
+        },
+        {
+          "episode": 12,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/17127/1/58dML7E3_QBpOPIBY1EBXQ/m/1/17/17127/17127/_3g-wpp_digimon_02_-_12__213BB885_.avi",
+          "size_mb": 174.18,
+          "label": "_3g-wpp_digimon_02_-_12__213BB885_.avi"
+        },
+        {
+          "episode": 13,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/17121/1/q_3KrMGy3V5A8FEsxsj33A/m/1/17/17121/17121/_3g-wpp_digimon_02_-_13__510B706C_.avi",
+          "size_mb": 175.0,
+          "label": "_3g-wpp_digimon_02_-_13__510B706C_.avi"
+        },
+        {
+          "episode": 14,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/17122/1/VyJvEhTrrN2e4aiMzZlglQ/m/1/17/17122/17122/_3g-wpp_digimon_02_-_14__AE15A208_.mkv",
+          "size_mb": 170.14,
+          "label": "_3g-wpp_digimon_02_-_14__AE15A208_.mkv"
+        },
+        {
+          "episode": 15,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/17120/1/6CCObvv_aDti6oA2UkC7iA/m/1/17/17120/17120/_3g-wpp_digimon_02_-_15__E7397953_.mkv",
+          "size_mb": 171.52,
+          "label": "_3g-wpp_digimon_02_-_15__E7397953_.mkv"
+        },
+        {
+          "episode": 16,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/17119/1/UN3vRFdpPXoqb0o5WdLiRw/m/1/17/17119/17119/_3g-wpp_digimon_02_-_16__C5EF6579_.mkv",
+          "size_mb": 172.09,
+          "label": "_3g-wpp_digimon_02_-_16__C5EF6579_.mkv"
+        },
+        {
+          "episode": 17,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/17118/1/XFRvox8Ks6KZk7g_4xA27A/m/1/17/17118/17118/_3g-wpp_digimon_02_-_17__ED2FD0B3_.mkv",
+          "size_mb": 172.2,
+          "label": "_3g-wpp_digimon_02_-_17__ED2FD0B3_.mkv"
+        },
+        {
+          "episode": 18,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/17117/1/eWtVtFEEt1B17F1cgMKeqw/m/1/17/17117/17117/_3g-wpp_digimon_02_-_18__EDC9A744_.mkv",
+          "size_mb": 172.2,
+          "label": "_3g-wpp_digimon_02_-_18__EDC9A744_.mkv"
+        },
+        {
+          "episode": 19,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/17116/1/jA-b-eXoewMoxrFsgoQI9g/m/1/17/17116/17116/_3g-wpp_digimon_02_-_19__30E79253_.mkv",
+          "size_mb": 172.22,
+          "label": "_3g-wpp_digimon_02_-_19__30E79253_.mkv"
+        },
+        {
+          "episode": 20,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/17115/1/yHzgF4T1N3y-fuNjeqKuaQ/m/1/17/17115/17115/_3g-wpp_digimon_02_-_20__9EE34F73_.mkv",
+          "size_mb": 171.11,
+          "label": "_3g-wpp_digimon_02_-_20__9EE34F73_.mkv"
+        },
+        {
+          "episode": 21,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/17114/1/VEpjSsAgZ2YXRRm8JWJvEw/m/1/17/17114/17114/_3g-wpp_digimon_02_-_21__3A4D777F_.mkv",
+          "size_mb": 171.66,
+          "label": "_3g-wpp_digimon_02_-_21__3A4D777F_.mkv"
+        },
+        {
+          "episode": 22,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/18055/1/Y3XiTX0d0ZJ7FEuhcEUB_Q/m/1/18/18055/18055/%5BPositron%5D%20Digimon%20Adventure%20Zero%20Two%2022%20v2%20%28h264-aac%29%20%5B468DBCE4%5D.mkv",
+          "size_mb": 186.27,
+          "label": "[Positron] Digimon Adventure Zero Two 22 v2 (h264-aac) [468DBCE4].mkv"
+        },
+        {
+          "episode": 23,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/17964/1/w22VSljJz9tfE0G4qNSJWw/m/1/17/17964/17964/%5BPositron%5D%20Digimon%20Adventure%20Zero%20Two%2023%20v2%20%28h264-aac%29%20%5B52DD3034%5D.mkv",
+          "size_mb": 186.29,
+          "label": "[Positron] Digimon Adventure Zero Two 23 v2 (h264-aac) [52DD3034].mkv"
+        },
+        {
+          "episode": 24,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/17932/1/SDAy-iGnd9N6mzh75b0OqQ/m/1/17/17932/17932/%5BPositron%5D%20Digimon%20Adventure%20Zero%20Two%2024%20v2%20%28h264-aac%29%20%5B54F6ECE1%5D.mkv",
+          "size_mb": 186.29,
+          "label": "[Positron] Digimon Adventure Zero Two 24 v2 (h264-aac) [54F6ECE1].mkv"
+        },
+        {
+          "episode": 25,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/18131/1/ft2jFuIdfbsaAnyRtr9Qiw/m/1/18/18131/18131/%5BPositron%5D%20Digimon%20Adventure%20Zero%20Two%2025%20%28h264-mp3%29%20%5BDD4C2EEF%5D.mkv",
+          "size_mb": 186.63,
+          "label": "[Positron] Digimon Adventure Zero Two 25 (h264-mp3) [DD4C2EEF].mkv"
+        },
+        {
+          "episode": 26,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/19439/1/Fo2k_AYGD0cNWUqReI8otA/m/1/19/19439/19439/%5BPositron%5D%20Digimon%20Adventure%20Zero%20Two%2026%20v2%20%28h264-mp3%29%20%5B7D628707%5D.mkv",
+          "size_mb": 186.67,
+          "label": "[Positron] Digimon Adventure Zero Two 26 v2 (h264-mp3) [7D628707].mkv"
+        },
+        {
+          "episode": 27,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/20446/1/v2cyauCovC2zgqVRF-GS7w/m/2/20/20446/20446/%5BPositron%5D%20Digimon%20Adventure%20Zero%20Two%2027%20%28h264-mp3%29%20%5BF45078CE%5D.mkv",
+          "size_mb": 186.61,
+          "label": "[Positron] Digimon Adventure Zero Two 27 (h264-mp3) [F45078CE].mkv"
+        },
+        {
+          "episode": 28,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/20656/1/uxEVDKKCk_-cu8cx6EvENg/m/2/20/20656/20656/%5BPositron%5D%20Digimon%20Adventure%20Zero%20Two%2028%20%28h264-mp3%29%20%5BF994C755%5D.mkv",
+          "size_mb": 186.68,
+          "label": "[Positron] Digimon Adventure Zero Two 28 (h264-mp3) [F994C755].mkv"
+        },
+        {
+          "episode": 29,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/20632/1/JAsUrZ96vV2TEIKv5erZNw/m/2/20/20632/20632/%5BPositron%5D%20Digimon%20Adventure%20Zero%20Two%2029%20%28h264-mp3%29%20%5BEFC26A7F%5D.mkv",
+          "size_mb": 186.64,
+          "label": "[Positron] Digimon Adventure Zero Two 29 (h264-mp3) [EFC26A7F].mkv"
+        },
+        {
+          "episode": 30,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/20650/1/MsiFsx7QMVzLiYlfLVhcFg/m/2/20/20650/20650/%5BPositron%5D%20Digimon%20Adventure%20Zero%20Two%2030%20%28h264-aac%29%20%5B0C337FFC%5D.mkv",
+          "size_mb": 186.34,
+          "label": "[Positron] Digimon Adventure Zero Two 30 (h264-aac) [0C337FFC].mkv"
+        },
+        {
+          "episode": 31,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/21341/1/RK3R6lyDwKRj12xrVpToqA/m/2/21/21341/21341/%5BPositron%5D%20Digimon%20Adventure%20Zero%20Two%2031%20%28h264-aac%29%20%5BC1F008CA%5D.mkv",
+          "size_mb": 186.25,
+          "label": "[Positron] Digimon Adventure Zero Two 31 (h264-aac) [C1F008CA].mkv"
         }
       ]
     }

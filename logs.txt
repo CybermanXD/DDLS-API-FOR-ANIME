@@ -334,4 +334,94 @@
 [01:14:45] Saved episode for Digimon_Adventure_(TV).
 [01:14:45] Finished Digimon_Adventure_(TV).
 [01:14:48] Manual scraping complete. M3U generated.
+[01:17:10] Queued https://www.tokyoinsider.com/anime/D/Digimon_Xros_Wars_(TV).
+[01:17:11] Scraping https://www.tokyoinsider.com/anime/D/Digimon_Xros_Wars_(TV).
+[01:17:15] Saved episode for Digimon_Xros_Wars_(TV).
+[01:17:17] Saved episode for Digimon_Xros_Wars_(TV).
+[01:17:19] Saved episode for Digimon_Xros_Wars_(TV).
+[01:17:20] Saved episode for Digimon_Xros_Wars_(TV).
+[01:17:22] Saved episode for Digimon_Xros_Wars_(TV).
+[01:17:23] Saved episode for Digimon_Xros_Wars_(TV).
+[01:17:24] Saved episode for Digimon_Xros_Wars_(TV).
+[01:17:25] Saved episode for Digimon_Xros_Wars_(TV).
+[01:17:27] Saved episode for Digimon_Xros_Wars_(TV).
+[01:17:29] Saved episode for Digimon_Xros_Wars_(TV).
+[01:17:30] Saved episode for Digimon_Xros_Wars_(TV).
+[01:17:32] Saved episode for Digimon_Xros_Wars_(TV).
+[01:17:33] Saved episode for Digimon_Xros_Wars_(TV).
+[01:17:35] Saved episode for Digimon_Xros_Wars_(TV).
+[01:17:36] Saved episode for Digimon_Xros_Wars_(TV).
+[01:17:37] Saved episode for Digimon_Xros_Wars_(TV).
+[01:17:38] Saved episode for Digimon_Xros_Wars_(TV).
+[01:17:39] Saved episode for Digimon_Xros_Wars_(TV).
+[01:17:41] Saved episode for Digimon_Xros_Wars_(TV).
+[01:17:42] Saved episode for Digimon_Xros_Wars_(TV).
+[01:17:42] Queued https://www.tokyoinsider.com/anime/D/Digimon_Adventure_02_(TV).
+[01:17:43] Saved episode for Digimon_Xros_Wars_(TV).
+[01:17:44] Saved episode for Digimon_Xros_Wars_(TV).
+[01:17:45] Saved episode for Digimon_Xros_Wars_(TV).
+[01:17:46] Saved episode for Digimon_Xros_Wars_(TV).
+[01:17:48] Saved episode for Digimon_Xros_Wars_(TV).
+[01:17:49] Saved episode for Digimon_Xros_Wars_(TV).
+[01:17:50] Saved episode for Digimon_Xros_Wars_(TV).
+[01:17:52] Saved episode for Digimon_Xros_Wars_(TV).
+[01:17:53] Saved episode for Digimon_Xros_Wars_(TV).
+[01:17:55] Saved episode for Digimon_Xros_Wars_(TV).
+[01:17:56] Saved episode for Digimon_Xros_Wars_(TV).
+[01:17:57] Saved episode for Digimon_Xros_Wars_(TV).
+[01:17:59] Saved episode for Digimon_Xros_Wars_(TV).
+[01:18:00] Saved episode for Digimon_Xros_Wars_(TV).
+[01:18:01] Saved episode for Digimon_Xros_Wars_(TV).
+[01:18:03] Saved episode for Digimon_Xros_Wars_(TV).
+[01:18:04] Saved episode for Digimon_Xros_Wars_(TV).
+[01:18:05] Saved episode for Digimon_Xros_Wars_(TV).
+[01:18:06] Saved episode for Digimon_Xros_Wars_(TV).
+[01:18:07] Saved episode for Digimon_Xros_Wars_(TV).
+[01:18:08] Saved episode for Digimon_Xros_Wars_(TV).
+[01:18:10] Saved episode for Digimon_Xros_Wars_(TV).
+[01:18:11] Saved episode for Digimon_Xros_Wars_(TV).
+[01:18:12] Saved episode for Digimon_Xros_Wars_(TV).
+[01:18:13] Saved episode for Digimon_Xros_Wars_(TV).
+[01:18:14] Saved episode for Digimon_Xros_Wars_(TV).
+[01:18:15] Saved episode for Digimon_Xros_Wars_(TV).
+[01:18:16] Saved episode for Digimon_Xros_Wars_(TV).
+[01:18:17] Saved episode for Digimon_Xros_Wars_(TV).
+[01:18:18] Saved episode for Digimon_Xros_Wars_(TV).
+[01:18:19] Saved episode for Digimon_Xros_Wars_(TV).
+[01:18:20] Saved episode for Digimon_Xros_Wars_(TV).
+[01:18:21] Saved episode for Digimon_Xros_Wars_(TV).
+[01:18:22] Saved episode for Digimon_Xros_Wars_(TV).
+[01:18:22] Finished Digimon_Xros_Wars_(TV).
+[01:18:25] Scraping https://www.tokyoinsider.com/anime/D/Digimon_Adventure_02_(TV).
+[01:18:27] Saved episode for Digimon_Adventure_02_(TV).
+[01:18:29] Saved episode for Digimon_Adventure_02_(TV).
+[01:18:30] Saved episode for Digimon_Adventure_02_(TV).
+[01:18:31] Saved episode for Digimon_Adventure_02_(TV).
+[01:18:32] Saved episode for Digimon_Adventure_02_(TV).
+[01:18:33] Saved episode for Digimon_Adventure_02_(TV).
+[01:18:34] Saved episode for Digimon_Adventure_02_(TV).
+[01:18:36] Saved episode for Digimon_Adventure_02_(TV).
+[01:18:37] Saved episode for Digimon_Adventure_02_(TV).
+[01:18:38] Saved episode for Digimon_Adventure_02_(TV).
+[01:18:39] Saved episode for Digimon_Adventure_02_(TV).
+[01:18:40] Saved episode for Digimon_Adventure_02_(TV).
+[01:18:41] Saved episode for Digimon_Adventure_02_(TV).
+[01:18:43] Saved episode for Digimon_Adventure_02_(TV).
+[01:18:44] Saved episode for Digimon_Adventure_02_(TV).
+[01:18:45] Saved episode for Digimon_Adventure_02_(TV).
+[01:18:46] Saved episode for Digimon_Adventure_02_(TV).
+[01:18:47] Saved episode for Digimon_Adventure_02_(TV).
+[01:18:49] Saved episode for Digimon_Adventure_02_(TV).
+[01:18:50] Saved episode for Digimon_Adventure_02_(TV).
+[01:18:51] Saved episode for Digimon_Adventure_02_(TV).
+[01:18:52] Saved episode for Digimon_Adventure_02_(TV).
+[01:18:54] Saved episode for Digimon_Adventure_02_(TV).
+[01:18:55] Saved episode for Digimon_Adventure_02_(TV).
+[01:18:57] Saved episode for Digimon_Adventure_02_(TV).
+[01:18:59] Saved episode for Digimon_Adventure_02_(TV).
+[01:19:00] Saved episode for Digimon_Adventure_02_(TV).
+[01:19:01] Saved episode for Digimon_Adventure_02_(TV).
+[01:19:02] Saved episode for Digimon_Adventure_02_(TV).
+[01:19:04] Saved episode for Digimon_Adventure_02_(TV).
+[01:19:05] Saved episode for Digimon_Adventure_02_(TV).
 
