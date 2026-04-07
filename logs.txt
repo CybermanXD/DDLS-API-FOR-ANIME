@@ -16,4 +16,29 @@
 [01:22:54] Poster updated for Digimon_Adventure_(TV).
 [01:22:55] Poster updated for Digimon_Xros_Wars_(TV).
 [01:22:55] Poster updated for Digimon_Adventure_02_(TV).
+[01:29:40] Queued https://www.tokyoinsider.com/anime/O/One_Punch_Man_(TV).
+[01:30:14] Queued https://www.tokyoinsider.com/anime/C/Cowboy_Bebop_(TV).
+[01:30:15] Scraping https://www.tokyoinsider.com/anime/O/One_Punch_Man_(TV).
+[01:30:18] Saved episode for One_Punch_Man_(TV).
+[01:30:22] Saved episode for One_Punch_Man_(TV).
+[01:30:25] Saved episode for One_Punch_Man_(TV).
+[01:30:28] Saved episode for One_Punch_Man_(TV).
+[01:30:31] Saved episode for One_Punch_Man_(TV).
+[01:30:33] Saved episode for One_Punch_Man_(TV).
+[01:30:35] Saved episode for One_Punch_Man_(TV).
+[01:30:38] Saved episode for One_Punch_Man_(TV).
+[01:30:40] Saved episode for One_Punch_Man_(TV).
+[01:30:43] Saved episode for One_Punch_Man_(TV).
+[01:30:46] Saved episode for One_Punch_Man_(TV).
+[01:30:48] Saved episode for One_Punch_Man_(TV).
+[01:30:48] Finished One_Punch_Man_(TV).
+[01:30:49] Queued https://www.tokyoinsider.com/anime/H/Heroman_(TV).
+[01:30:51] Scraping https://www.tokyoinsider.com/anime/C/Cowboy_Bebop_(TV).
+[01:30:54] Saved episode for Cowboy_Bebop_(TV).
+[01:30:56] Saved episode for Cowboy_Bebop_(TV).
+[01:30:58] Saved episode for Cowboy_Bebop_(TV).
+[01:31:00] Saved episode for Cowboy_Bebop_(TV).
+[01:31:02] Saved episode for Cowboy_Bebop_(TV).
+[01:31:04] Saved episode for Cowboy_Bebop_(TV).
+[01:31:06] Saved episode for Cowboy_Bebop_(TV).
 

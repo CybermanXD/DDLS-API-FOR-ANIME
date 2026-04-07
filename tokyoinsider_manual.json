@@ -1,5 +1,5 @@
 {
-  "total_anime": 9,
+  "total_anime": 11,
   "items": [
     {
       "Anime_Index": "01",
@@ -5267,6 +5267,151 @@
         }
       ],
       "poster_url": "https://www.tokyoinsider.com/upload/covers/d/thumbs/default_digimon_adventure_02.jpg"
+    },
+    {
+      "Anime_Index": "10",
+      "anime": "One_Punch_Man_(TV)",
+      "source_url": "https://www.tokyoinsider.com/anime/O/One_Punch_Man_(TV)",
+      "summary": "In this new action-comedy, everything about a young man named Saitama screams \"AVERAGE,\" from his lifeless expression, to his bald head, to his unimpressive physique. However, this average-looking fellow doesn't have your average problem... He's actually a superhero that's looking for tough opponents! The problem is, every time he finds a promising candidate he beats the snot out of them in one punch. Can Saitama finally find an evil villain strong enough to challenge him? Follow Saitama through his hilarious romps as he searches for new bad guys to challenge!",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Science Fiction",
+        "Supernatural"
+      ],
+      "poster_url": "https://www.tokyoinsider.com/upload/covers/O/thumbs/default_One_Punch_Man_1441613580.jpg",
+      "total_episodes": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/236436/1/5oWTHcf6rBdym1oXccipuA/2/28/280953/280953/%5BCthuko%5D%20One%20Punch%20Man%20-%2001%20%5BE66ECAD9%5D.mp4",
+          "size_mb": 102.56,
+          "label": "[Cthuko] One Punch Man - 01 [E66ECAD9].mp4"
+        },
+        {
+          "episode": 2,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/236437/1/z4FUdtH68kYFBJ_A9TkWkQ/2/28/280954/280954/%5BCthuko%5D%20One%20Punch%20Man%20-%2002%20%5BC19FC48A%5D.mp4",
+          "size_mb": 108.75,
+          "label": "[Cthuko] One Punch Man - 02 [C19FC48A].mp4"
+        },
+        {
+          "episode": 3,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/236537/1/nLQMe07TvwC-YT3e6SkoXQ/2/28/281066/281066/%5BCthuko%5D%20One%20Punch%20Man%20-%2003%20%5B7BDEEF12%5D.mp4",
+          "size_mb": 96.65,
+          "label": "[Cthuko] One Punch Man - 03 [7BDEEF12].mp4"
+        },
+        {
+          "episode": 4,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/236538/1/oq-4uQKuaSUltmr4OBxyEQ/2/28/281068/281068/%5BCthuko%5D%20One%20Punch%20Man%20-%2004%20%5BA754F514%5D.mp4",
+          "size_mb": 94.83,
+          "label": "[Cthuko] One Punch Man - 04 [A754F514].mp4"
+        },
+        {
+          "episode": 5,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/236539/1/ipK2mUbB9jKP2qR9v0Dsig/2/28/281069/281069/%5BCthuko%5D%20One%20Punch%20Man%20-%2005%20%5BB5B47831%5D.mp4",
+          "size_mb": 92.31,
+          "label": "[Cthuko] One Punch Man - 05 [B5B47831].mp4"
+        },
+        {
+          "episode": 6,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/236540/1/kZreUHNr0PKzBMWUlgNDkA/2/28/281070/281070/%5BCthuko%5D%20One%20Punch%20Man%20-%2006%20%5BB56C10F1%5D.mp4",
+          "size_mb": 93.84,
+          "label": "[Cthuko] One Punch Man - 06 [B56C10F1].mp4"
+        },
+        {
+          "episode": 7,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/236541/1/3trVGpJmO6o7ylY4G0GEng/2/28/281071/281071/%5BCthuko%5D%20One%20Punch%20Man%20-%2007%20%5BD99D0FF6%5D.mp4",
+          "size_mb": 104.75,
+          "label": "[Cthuko] One Punch Man - 07 [D99D0FF6].mp4"
+        },
+        {
+          "episode": 8,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/184748/1/ZugPtbAyAlVXmcjkclKuTQ/2/21/219507/219507/One-Punch%20Man%2008.mp4",
+          "size_mb": 110.38,
+          "label": "One-Punch Man 08.mp4"
+        },
+        {
+          "episode": 9,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/184749/1/J54mXv6bywPAKaDNuzMTpw/2/21/219508/219508/One-Punch%20Man%2009.mp4",
+          "size_mb": 110.23,
+          "label": "One-Punch Man 09.mp4"
+        },
+        {
+          "episode": 10,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/184750/1/rb9PKdgIZZwA9_ao5Y7NHw/2/21/219509/219509/One-Punch%20Man%2010.mp4",
+          "size_mb": 110.42,
+          "label": "One-Punch Man 10.mp4"
+        },
+        {
+          "episode": 11,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/236698/1/vlVrgBArU6a_czApDvY0Wg/2/28/281232/281232/%5BCthuko%5D%20One%20Punch%20Man%20-%2011%20%5BAF2353E0%5D.mp4",
+          "size_mb": 104.12,
+          "label": "[Cthuko] One Punch Man - 11 [AF2353E0].mp4"
+        },
+        {
+          "episode": 12,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/184752/1/v9Ev6cc2cBpbhWWOCFljIA/2/21/219511/219511/One-Punch%20Man%2012.mp4",
+          "size_mb": 108.8,
+          "label": "One-Punch Man 12.mp4"
+        }
+      ]
+    },
+    {
+      "Anime_Index": "11",
+      "anime": "Cowboy_Bebop_(TV)",
+      "source_url": "https://www.tokyoinsider.com/anime/C/Cowboy_Bebop_(TV)",
+      "summary": "In 2022, the explosion of an experimental hyperspace gateway severely damaged the Moon, resulting in a debris ring and meteor bombardments that eradicated a large portion of the population. As a result, many survivors abandoned the barely habitable Earth to colonize the inner planets, the asteroid belt and the moons of Jupiter. The series is set in the year 2071, when the entire Solar System has been made accessible through reliable hyperspace gates. Mars has become the new central hub of human civilization, and interplanetary crime syndicates exert influence over the government and the Inter-Solar System Police (ISSP), limiting their effectiveness in dealing with crime. As a result, a bounty system similar to that in the Old West is established to deal with fugitives, terrorists, and other criminals; the bounty hunters involved are frequently termed \"cowboys.\"",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "poster_url": "https://www.tokyoinsider.com/upload/covers/C/thumbs/default_Cowboy_Bebop_1342684229.jpg",
+      "total_episodes": 26,
+      "episodes": [
+        {
+          "episode": 1,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/144287/1/i4VekBi-jT-TN0v7IqblSA/1/17/172688/172688/%5BEnglish%20Dub%5DCowboy%20Bebop%20E01%28BDRip%201280x720%20H264%20AAC%29.mp4",
+          "size_mb": 144.29,
+          "label": "[English Dub]Cowboy Bebop E01(BDRip 1280x720 H264 AAC).mp4"
+        },
+        {
+          "episode": 2,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/60543/1/N8Br3QexUzAK05G2JIE2zA/m/6/60/60543/60543/Cowbop-02-Stray.Dog.Strut.avi",
+          "size_mb": 225.56,
+          "label": "Cowbop-02-Stray.Dog.Strut.avi"
+        },
+        {
+          "episode": 3,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/60549/1/l3NZikxQoBYETjqOkImEdA/m/6/60/60549/60549/Cowbop-03-Honky.Tonk.Women.avi",
+          "size_mb": 229.55,
+          "label": "Cowbop-03-Honky.Tonk.Women.avi"
+        },
+        {
+          "episode": 4,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/60565/1/hhan0K_1kR9f8Orn8NOZPw/m/6/60/60565/60565/Cowbop-04-Gateway.Shuffle.avi",
+          "size_mb": 226.81,
+          "label": "Cowbop-04-Gateway.Shuffle.avi"
+        },
+        {
+          "episode": 5,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/108111/1/O534Sv9C6gWErEaujwIvIQ/1/12/126705/126705/Cowboy%20Bebop%205.mkv",
+          "size_mb": 49.98,
+          "label": "Cowboy Bebop 5.mkv"
+        },
+        {
+          "episode": 6,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/108116/1/uFiyd71koFjd953Lp1pAHw/1/12/126715/126715/Cowboy%20Bebop%206.mkv",
+          "size_mb": 50.05,
+          "label": "Cowboy Bebop 6.mkv"
+        },
+        {
+          "episode": 7,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/108124/1/R1inTx-c-G60Lswv9ibUvQ/1/12/126723/126723/Cowboy%20Bebop%207.mkv",
+          "size_mb": 49.57,
+          "label": "Cowboy Bebop 7.mkv"
+        }
+      ]
     }
   ]
 }
