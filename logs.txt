@@ -266,4 +266,14 @@
 [01:06:55] Saved episode for Steins_Gate_(TV).
 [01:07:00] Saved episode for Steins_Gate_(TV).
 [01:07:04] Saved episode for Steins_Gate_(TV).
+[01:07:08] Saved episode for Steins_Gate_(TV).
+[01:07:13] Saved episode for Steins_Gate_(TV).
+[01:07:17] Saved episode for Steins_Gate_(TV).
+[01:07:24] Saved episode for Steins_Gate_(TV).
+[01:07:29] Saved episode for Steins_Gate_(TV).
+[01:07:35] Saved episode for Steins_Gate_(TV).
+[01:07:40] Saved episode for Steins_Gate_(TV).
+[01:07:44] Saved episode for Steins_Gate_(TV).
+[01:07:44] Finished Steins_Gate_(TV).
+[01:07:47] Manual scraping complete. M3U generated.
 
