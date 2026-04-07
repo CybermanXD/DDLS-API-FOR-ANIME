@@ -28,4 +28,48 @@
 [01:51:36] Saved episode for Attack_on_Titan_(TV).
 [01:51:36] Finished Attack_on_Titan_(TV).
 [01:51:39] Manual scraping complete. M3U generated.
+[01:57:28] Re-fetch queued for https://www.tokyoinsider.com/anime/C/Chainsaw_Man_(TV).
+[01:57:28] Re-fetch queued for https://www.tokyoinsider.com/anime/C/City_Hunter_(TV).
+[01:57:28] Re-fetch queued for https://www.tokyoinsider.com/anime/B/Bleach_(TV).
+[01:57:28] Re-fetch queued for https://www.tokyoinsider.com/anime/D/Death_Note_(TV).
+[01:57:28] Re-fetch queued for https://www.tokyoinsider.com/anime/I/Inuyasha_(TV).
+[01:57:28] Re-fetch queued for https://www.tokyoinsider.com/anime/S/Steins_Gate_(TV).
+[01:57:28] Re-fetch queued for https://www.tokyoinsider.com/anime/D/Digimon_Adventure_(TV).
+[01:57:28] Re-fetch queued for https://www.tokyoinsider.com/anime/D/Digimon_Xros_Wars_(TV).
+[01:57:28] Re-fetch queued for https://www.tokyoinsider.com/anime/D/Digimon_Adventure_02_(TV).
+[01:57:28] Re-fetch queued for https://www.tokyoinsider.com/anime/O/One_Punch_Man_(TV).
+[01:57:28] Re-fetch queued for https://www.tokyoinsider.com/anime/C/Cowboy_Bebop_(TV).
+[01:57:28] Re-fetch queued for https://www.tokyoinsider.com/anime/H/Heroman_(TV).
+[01:57:28] Re-fetch queued for https://www.tokyoinsider.com/anime/O/One_Punch_Man_2_(TV).
+[01:57:28] Re-fetch queued for https://www.tokyoinsider.com/anime/A/Attack_on_Titan_(TV).
+[01:57:30] Scraping https://www.tokyoinsider.com/anime/C/Chainsaw_Man_(TV).
+[01:57:32] Finished Chainsaw_Man_(TV).
+[01:57:32] Scraping https://www.tokyoinsider.com/anime/C/City_Hunter_(TV).
+[01:57:32] Finished City_Hunter_(TV).
+[01:57:32] Scraping https://www.tokyoinsider.com/anime/B/Bleach_(TV).
+[01:57:33] Finished Bleach_(TV).
+[01:57:33] Scraping https://www.tokyoinsider.com/anime/D/Death_Note_(TV).
+[01:57:33] Finished Death_Note_(TV).
+[01:57:33] Scraping https://www.tokyoinsider.com/anime/I/Inuyasha_(TV).
+[01:57:34] Finished Inuyasha_(TV).
+[01:57:34] Scraping https://www.tokyoinsider.com/anime/S/Steins_Gate_(TV).
+[01:57:34] Finished Steins_Gate_(TV).
+[01:57:34] Scraping https://www.tokyoinsider.com/anime/D/Digimon_Adventure_(TV).
+[01:57:34] Finished Digimon_Adventure_(TV).
+[01:57:34] Scraping https://www.tokyoinsider.com/anime/D/Digimon_Xros_Wars_(TV).
+[01:57:35] Finished Digimon_Xros_Wars_(TV).
+[01:57:35] Scraping https://www.tokyoinsider.com/anime/D/Digimon_Adventure_02_(TV).
+[01:57:35] Finished Digimon_Adventure_02_(TV).
+[01:57:35] Scraping https://www.tokyoinsider.com/anime/O/One_Punch_Man_(TV).
+[01:57:36] Finished One_Punch_Man_(TV).
+[01:57:36] Scraping https://www.tokyoinsider.com/anime/C/Cowboy_Bebop_(TV).
+[01:57:36] Finished Cowboy_Bebop_(TV).
+[01:57:36] Scraping https://www.tokyoinsider.com/anime/H/Heroman_(TV).
+[01:57:36] Finished Heroman_(TV).
+[01:57:36] Scraping https://www.tokyoinsider.com/anime/O/One_Punch_Man_2_(TV).
+[01:57:37] Finished One_Punch_Man_2_(TV).
+[01:57:37] Scraping https://www.tokyoinsider.com/anime/A/Attack_on_Titan_(TV).
+[01:57:38] Episode 0 skipped for Attack_on_Titan_(TV): No English links.
+[01:57:38] Finished Attack_on_Titan_(TV).
+[01:57:41] Manual scraping complete. M3U generated.
 
