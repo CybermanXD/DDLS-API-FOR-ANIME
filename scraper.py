@@ -156,7 +156,10 @@ def pick_candidate(candidates: List[DdlCandidate]) -> Optional[DdlCandidate]:
         return min(preferred, key=lambda c: (format_rank(c), c.size_mb))
     under_90 = [c for c in candidates if c.size_mb < 90]
     if under_90:
-        return max(under_90, key=lambda c: (-format_rank(c), c.size_mb))
+        return max(under_90, key=lambda c: (c.size_mb, -format_rank(c)))
+    over_300 = [c for c in candidates if c.size_mb > 300]
+    if over_300:
+        return min(over_300, key=lambda c: (c.size_mb, format_rank(c)))
     return None
 
 
