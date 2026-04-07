@@ -390,6 +390,8 @@ class ManualScraperApp:
             "<Configure>",
             lambda event: self.canvas.itemconfigure(self.canvas_window, width=event.width),
         )
+        self.canvas.bind("<Enter>", lambda _event: self._bind_mousewheel())
+        self.canvas.bind("<Leave>", lambda _event: self._unbind_mousewheel())
 
         log_frame = ttk.Frame(self.root)
         log_frame.pack(fill="both", expand=True, padx=24, pady=(0, 20))
@@ -700,6 +702,25 @@ class ManualScraperApp:
         self.status_label.config(text=f"Queued: {queued} | Done: {done}")
         self.saved_label.config(text=f"Saved Anime: {len(self.payload.get('items', []))}")
         self.needs_refresh = False
+
+    def _on_mousewheel(self, event: tk.Event) -> None:
+        if event.delta:
+            self.canvas.yview_scroll(int(-1 * (event.delta / 120)), "units")
+        else:
+            if event.num == 4:
+                self.canvas.yview_scroll(-1, "units")
+            elif event.num == 5:
+                self.canvas.yview_scroll(1, "units")
+
+    def _bind_mousewheel(self) -> None:
+        self.canvas.bind_all("<MouseWheel>", self._on_mousewheel)
+        self.canvas.bind_all("<Button-4>", self._on_mousewheel)
+        self.canvas.bind_all("<Button-5>", self._on_mousewheel)
+
+    def _unbind_mousewheel(self) -> None:
+        self.canvas.unbind_all("<MouseWheel>")
+        self.canvas.unbind_all("<Button-4>")
+        self.canvas.unbind_all("<Button-5>")
 
     def append_log(self, message: str) -> None:
         timestamp = datetime.now().strftime("%H:%M:%S")
