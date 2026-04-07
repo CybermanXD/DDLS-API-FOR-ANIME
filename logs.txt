@@ -37,4 +37,13 @@
 [00:46:43] Saved episode for City_Hunter_(TV).
 [00:46:43] Finished City_Hunter_(TV).
 [00:46:46] Scraping https://www.tokyoinsider.com/anime/B/Bleach_(TV).
+[00:46:50] Saved episode for Bleach_(TV).
+[00:46:50] Finished Bleach_(TV).
+[00:46:53] Scraping https://www.tokyoinsider.com/anime/D/Death_Note_(TV).
+[00:47:09] Saved episode for Death_Note_(TV).
+[00:47:21] Saved episode for Death_Note_(TV).
+[00:47:27] Saved episode for Death_Note_(TV).
+[00:47:31] Saved episode for Death_Note_(TV).
+[00:47:39] Saved episode for Death_Note_(TV).
+[00:47:56] Saved episode for Death_Note_(TV).
 

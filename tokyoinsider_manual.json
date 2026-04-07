@@ -1,5 +1,5 @@
 {
-  "total_anime": 3,
+  "total_anime": 4,
   "items": [
     {
       "Anime_Index": "01",
@@ -2842,6 +2842,64 @@
           "url": "https://media.tokyoinsider.com:8080/dl/00000000030/164747/1/AC2EX2zToQ4ZBSZM00p5fA/1/19/196753/196753/Bleach%20259%20%5B8742CA0C%5D.avi",
           "size_mb": 96.13,
           "label": "Bleach 259 [8742CA0C].avi"
+        },
+        {
+          "episode": 367,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/281354/1/pMpCiKyzQLE2uois60pRHg/3/33/330446/330446/Bleach%20TYBW%20%5B720p%5D%20-%20367.mkv",
+          "size_mb": 198.54,
+          "label": "Bleach TYBW [720p] - 367.mkv"
+        }
+      ]
+    },
+    {
+      "Anime_Index": "04",
+      "anime": "Death_Note_(TV)",
+      "source_url": "https://www.tokyoinsider.com/anime/D/Death_Note_(TV)",
+      "summary": "Yagami Light is an ace student with great prospects, who's bored out of his mind. One day he finds the \"Death Note\": a notebook from the realm of the Death Gods, with the power to kill people in any way he desires. With the Death Note in hand, Light decides to create his perfect world, without crime or criminals. However, when criminals start dropping dead one by one, the authorites send the legendary detective L to track down the killer, and a battle of wits, deception and logic ensues...",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Psychological",
+        "Supernatural",
+        "Thriller"
+      ],
+      "total_episodes": 37,
+      "episodes": [
+        {
+          "episode": 1,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/123289/1/XNsNQS7slQni4H4CkyOZ6g/1/14/146580/146580/%28Hi10%29_Death_Note_-_01_%28480p%29_%28Utsukushi-Raws%29.mkv",
+          "size_mb": 108.31,
+          "label": "(Hi10)_Death_Note_-_01_(480p)_(Utsukushi-Raws).mkv"
+        },
+        {
+          "episode": 2,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/107776/1/xOmaRmfHf2i6-ijpff2XyQ/1/12/126263/126263/Death%20Note%20-%2002%20-%20Confrontation.mkv",
+          "size_mb": 212.22,
+          "label": "Death Note - 02 - Confrontation.mkv"
+        },
+        {
+          "episode": 3,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/106705/1/fnN3SEXDsk0KWQP2k8PcHw/1/12/124859/124859/Death_Note_-_03.mp4",
+          "size_mb": 161.72,
+          "label": "Death_Note_-_03.mp4"
+        },
+        {
+          "episode": 4,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/107787/1/6UzdUY46F1GOY0cj1fdLCQ/1/12/126274/126274/Death%20Note%20-%2004%20-%20Pursuit.mkv",
+          "size_mb": 194.66,
+          "label": "Death Note - 04 - Pursuit.mkv"
+        },
+        {
+          "episode": 5,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/107984/1/tsLsTtlQTeKTxi3a-mo3nw/1/12/126531/126531/Death%20Note%20-%2005%20-%20Tactics.mkv",
+          "size_mb": 182.68,
+          "label": "Death Note - 05 - Tactics.mkv"
+        },
+        {
+          "episode": 6,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/108199/1/bQvX-L99_LVeL-HRuzYqww/1/12/126790/126790/Death%20Note%20-%2006%20-%20Unraveling.mkv",
+          "size_mb": 208.02,
+          "label": "Death Note - 06 - Unraveling.mkv"
         }
       ]
     }
