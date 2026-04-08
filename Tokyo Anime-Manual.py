@@ -98,6 +98,13 @@ def parse_size_mb(text: str) -> Optional[float]:
     return float(size_match.group(1))
 
 
+def parse_uploader(text: str) -> Optional[str]:
+    uploader_match = re.search(r"Uploader:\s*([A-Za-z0-9_\- ]+)", text, re.IGNORECASE)
+    if not uploader_match:
+        return None
+    return uploader_match.group(1).strip()
+
+
 def extract_candidates(soup: BeautifulSoup) -> List[DdlCandidate]:
     candidates: List[DdlCandidate] = []
     for block in soup.select("div.c_h2, div.c_h2b"):
@@ -124,6 +131,8 @@ def select_candidate_with_reason(soup: BeautifulSoup) -> Tuple[Optional[DdlCandi
     candidates: List[DdlCandidate] = []
     has_english = False
     has_english_format = False
+    raw_filtered = False
+    uploader_filtered = False
 
     for block in soup.select("div.c_h2, div.c_h2b"):
         if not block.select_one("span.lang_en"):
@@ -135,13 +144,21 @@ def select_candidate_with_reason(soup: BeautifulSoup) -> Tuple[Optional[DdlCandi
             continue
         url = link.get("href", "")
         label = link.get_text(strip=True)
+        finfo_text = finfo.get_text(" ", strip=True)
+        uploader = parse_uploader(finfo_text)
+        if uploader and uploader.lower() == "jusenshi":
+            uploader_filtered = True
+            continue
+        if re.search(r"\braw\b", label, re.IGNORECASE) or re.search(r"raw", url, re.IGNORECASE):
+            raw_filtered = True
+            continue
         is_format = re.search(r"\.(mp4|mkv|avi)(\?|$)", url, re.IGNORECASE) or re.search(
             r"\.(mp4|mkv|avi)\s*$", label, re.IGNORECASE
         )
         if not is_format:
             continue
         has_english_format = True
-        size_mb = parse_size_mb(finfo.get_text(" ", strip=True))
+        size_mb = parse_size_mb(finfo_text)
         if size_mb is None:
             continue
         candidates.append(DdlCandidate(url=url, size_mb=size_mb, label=label))
@@ -150,6 +167,10 @@ def select_candidate_with_reason(soup: BeautifulSoup) -> Tuple[Optional[DdlCandi
         return None, "No English links"
     if not has_english_format:
         return None, "No MP4/MKV/AVI English links"
+    if uploader_filtered and not candidates:
+        return None, "Uploader Jusenshi excluded"
+    if raw_filtered and not candidates:
+        return None, "RAW title excluded"
 
     selected = pick_candidate(candidates)
     if not selected:

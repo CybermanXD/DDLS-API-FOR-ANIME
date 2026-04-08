@@ -115,9 +115,16 @@ def parse_size_mb(text: str) -> Optional[float]:
     return float(size_match.group(1))
 
 
+def parse_uploader(text: str) -> Optional[str]:
+    uploader_match = re.search(r"Uploader:\s*([A-Za-z0-9_\- ]+)", text, re.IGNORECASE)
+    if not uploader_match:
+        return None
+    return uploader_match.group(1).strip()
+
+
 def extract_candidates(soup: BeautifulSoup) -> List[DdlCandidate]:
     candidates: List[DdlCandidate] = []
-    for block in soup.select("div.c_h2b"):
+    for block in soup.select("div.c_h2, div.c_h2b"):
         if not block.select_one("span.lang_en"):
             continue
         link = block.select_one("a[href^='https://']")
@@ -126,11 +133,17 @@ def extract_candidates(soup: BeautifulSoup) -> List[DdlCandidate]:
             continue
         url = link.get("href", "")
         label = link.get_text(strip=True)
+        finfo_text = finfo.get_text(" ", strip=True)
+        uploader = parse_uploader(finfo_text)
+        if uploader and uploader.lower() == "jusenshi":
+            continue
+        if re.search(r"\braw\b", label, re.IGNORECASE) or re.search(r"raw", url, re.IGNORECASE):
+            continue
         if not re.search(r"\.(mp4|mkv|avi)(\?|$)", url, re.IGNORECASE) and not re.search(
             r"\.(mp4|mkv|avi)\s*$", label, re.IGNORECASE
         ):
             continue
-        size_mb = parse_size_mb(finfo.get_text(" ", strip=True))
+        size_mb = parse_size_mb(finfo_text)
         if size_mb is None:
             continue
         candidates.append(
