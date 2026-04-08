@@ -653,6 +653,8 @@ class ManualScraperApp:
         return entry
 
     def save_payload(self) -> None:
+        for item in self.payload.get("items", []):
+            item["episodes"] = sorted(item.get("episodes", []), key=lambda ep: ep.get("episode", 0))
         self.payload["total_anime"] = len(self.payload.get("items", []))
         write_payload(self.payload)
 

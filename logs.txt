@@ -1,5 +1,5 @@
-[12:00:04] Re-fetch queued for https://www.tokyoinsider.com/anime/D/Death_Note_(TV).
-[12:00:05] Scraping https://www.tokyoinsider.com/anime/D/Death_Note_(TV).
-[12:00:06] Finished Death_Note_(TV).
-[12:00:06] Manual scraping complete. M3U generated.
+[12:05:15] Re-fetch queued for https://www.tokyoinsider.com/anime/D/Death_Note_(TV).
+[12:05:16] Scraping https://www.tokyoinsider.com/anime/D/Death_Note_(TV).
+[12:05:18] Finished Death_Note_(TV).
+[12:05:18] Manual scraping complete. M3U generated.
 
