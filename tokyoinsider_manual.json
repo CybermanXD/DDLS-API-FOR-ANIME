@@ -95,6 +95,36 @@
       "total_episodes": 51,
       "episodes": [
         {
+          "episode": 1,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/36431/1/L7SvZyxYptnNDvKCSBi-Sg/m/3/36/36431/36431/City%20Hunter%20-%2001v2%20%23APS%200ef86a04.avi",
+          "size_mb": 233.39,
+          "label": "City Hunter - 01v2 #APS 0ef86a04.avi"
+        },
+        {
+          "episode": 2,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/36426/1/6D1m6XY9CPxjjsqn8ynnuA/m/3/36/36426/36426/City%20Hunter%20-%2002%20%23APS%208F182EA0.avi",
+          "size_mb": 232.28,
+          "label": "City Hunter - 02 #APS 8F182EA0.avi"
+        },
+        {
+          "episode": 3,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/36429/1/kuYOHchaBigZXesOc-2Qbw/m/3/36/36429/36429/City%20Hunter%20-%2003%20%23APS%203ED5703F.avi",
+          "size_mb": 233.22,
+          "label": "City Hunter - 03 #APS 3ED5703F.avi"
+        },
+        {
+          "episode": 4,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/36420/1/8IPWXduQBlQbGNAhLLzW0Q/m/3/36/36420/36420/City%20Hunter%20-%2004%20%23APS%20F07B7702.avi",
+          "size_mb": 233.2,
+          "label": "City Hunter - 04 #APS F07B7702.avi"
+        },
+        {
+          "episode": 5,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/36419/1/P9zPWs9bEi3NchfGgulRmQ/m/3/36/36419/36419/City%20Hunter%20-%2005%20%23APS%208B3A9D83.avi",
+          "size_mb": 233.09,
+          "label": "City Hunter - 05 #APS 8B3A9D83.avi"
+        },
+        {
           "episode": 6,
           "url": "https://media.tokyoinsider.com:8080/dl/00000000030/66548/1/Mqz6Gxd43IyQy1hHRVVHPA/m/6/66/66548/66548/CityHunter06.mkv",
           "size_mb": 67.59,
@@ -219,36 +249,6 @@
           "url": "https://media.tokyoinsider.com:8080/dl/00000000030/66573/1/evG6-mBW9KkCZlAT9SLAFw/m/6/66/66573/66573/CityHunter26.mkv",
           "size_mb": 67.65,
           "label": "CityHunter26.mkv"
-        },
-        {
-          "episode": 1,
-          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/36431/1/L7SvZyxYptnNDvKCSBi-Sg/m/3/36/36431/36431/City%20Hunter%20-%2001v2%20%23APS%200ef86a04.avi",
-          "size_mb": 233.39,
-          "label": "City Hunter - 01v2 #APS 0ef86a04.avi"
-        },
-        {
-          "episode": 2,
-          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/36426/1/6D1m6XY9CPxjjsqn8ynnuA/m/3/36/36426/36426/City%20Hunter%20-%2002%20%23APS%208F182EA0.avi",
-          "size_mb": 232.28,
-          "label": "City Hunter - 02 #APS 8F182EA0.avi"
-        },
-        {
-          "episode": 3,
-          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/36429/1/kuYOHchaBigZXesOc-2Qbw/m/3/36/36429/36429/City%20Hunter%20-%2003%20%23APS%203ED5703F.avi",
-          "size_mb": 233.22,
-          "label": "City Hunter - 03 #APS 3ED5703F.avi"
-        },
-        {
-          "episode": 4,
-          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/36420/1/8IPWXduQBlQbGNAhLLzW0Q/m/3/36/36420/36420/City%20Hunter%20-%2004%20%23APS%20F07B7702.avi",
-          "size_mb": 233.2,
-          "label": "City Hunter - 04 #APS F07B7702.avi"
-        },
-        {
-          "episode": 5,
-          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/36419/1/P9zPWs9bEi3NchfGgulRmQ/m/3/36/36419/36419/City%20Hunter%20-%2005%20%23APS%208B3A9D83.avi",
-          "size_mb": 233.09,
-          "label": "City Hunter - 05 #APS 8B3A9D83.avi"
         },
         {
           "episode": 27,
@@ -1827,6 +1827,24 @@
           "label": "Bleach 235 [50549A65].mkv"
         },
         {
+          "episode": 236,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/102786/1/C7ySH2ASVuP2O7jTwTp6lg/1/11/119479/119479/%5BONS%5D_Bleach_236.mkv",
+          "size_mb": 50.94,
+          "label": "[ONS]_Bleach_236.mkv"
+        },
+        {
+          "episode": 237,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/102789/1/8ZLNf63wvF2nxHl9Qeo_6A/1/11/119482/119482/%5BONS%5D_Bleach_237.mkv",
+          "size_mb": 50.94,
+          "label": "[ONS]_Bleach_237.mkv"
+        },
+        {
+          "episode": 238,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/102791/1/Pemo0UfS3YSKUHPjL6ZCeA/1/11/119485/119485/%5BONS%5D_Bleach_238.mkv",
+          "size_mb": 50.92,
+          "label": "[ONS]_Bleach_238.mkv"
+        },
+        {
           "episode": 239,
           "url": "https://media.tokyoinsider.com:8080/dl/00000000030/108877/1/1sMrOz0f1naDUgJteLN_4A/1/12/127682/127682/bleach239-lq.mp4",
           "size_mb": 66.46,
@@ -1863,6 +1881,18 @@
           "label": "bleach244-lq.mp4"
         },
         {
+          "episode": 245,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/102809/1/myqdGhRiIg9Brs6Ro1gDxw/1/11/119505/119505/Bleach_245.mkv",
+          "size_mb": 50.93,
+          "label": "Bleach_245.mkv"
+        },
+        {
+          "episode": 246,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/108886/1/JB4nl172xii7JSdGWPG9gw/1/12/127691/127691/bleach246-lq.mp4",
+          "size_mb": 58.83,
+          "label": "bleach246-lq.mp4"
+        },
+        {
           "episode": 247,
           "url": "https://media.tokyoinsider.com:8080/dl/00000000030/108889/1/_mC38rYVD8ehf5OsWOghKQ/1/12/127693/127693/bleach247-lq.mp4",
           "size_mb": 73.55,
@@ -1885,6 +1915,12 @@
           "url": "https://media.tokyoinsider.com:8080/dl/00000000030/108892/1/rwJBjgHIakpsGz2qPy_Eag/1/12/127698/127698/bleach250-lq.mp4",
           "size_mb": 65.01,
           "label": "bleach250-lq.mp4"
+        },
+        {
+          "episode": 251,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/108893/1/y2f0yLAbDX9ls-orwPnRpQ/1/12/127699/127699/bleach251-lq.mp4",
+          "size_mb": 59.54,
+          "label": "bleach251-lq.mp4"
         },
         {
           "episode": 252,
@@ -1927,6 +1963,12 @@
           "url": "https://media.tokyoinsider.com:8080/dl/00000000030/176449/1/UrgA9DzTRhsnxDpVTfDOrg/2/20/209863/209863/Bleach%20258%20Stray%20Snake%2C%20Tortured%20Monkey.mkv",
           "size_mb": 67.2,
           "label": "Bleach 258 Stray Snake, Tortured Monkey.mkv"
+        },
+        {
+          "episode": 259,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/164747/1/AC2EX2zToQ4ZBSZM00p5fA/1/19/196753/196753/Bleach%20259%20%5B8742CA0C%5D.avi",
+          "size_mb": 96.13,
+          "label": "Bleach 259 [8742CA0C].avi"
         },
         {
           "episode": 260,
@@ -2571,6 +2613,12 @@
           "label": "bleach366-quickrelease-lq--Changing History, Unchanging Heart.mp4"
         },
         {
+          "episode": 367,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/281354/1/pMpCiKyzQLE2uois60pRHg/3/33/330446/330446/Bleach%20TYBW%20%5B720p%5D%20-%20367.mkv",
+          "size_mb": 198.54,
+          "label": "Bleach TYBW [720p] - 367.mkv"
+        },
+        {
           "episode": 368,
           "url": "https://media.tokyoinsider.com:8080/dl/00000000030/269247/1/aIvwt5ffrkUDQ1GKV1DUHg/3/31/316594/316594/%5BJudas%5D%20Bleach%20-%20368.mkv",
           "size_mb": 394.73,
@@ -2803,54 +2851,6 @@
           "url": "https://media.tokyoinsider.com:8080/dl/00000000030/300188/1/5OgiiA0_kEvmD14-BYfW5g/3/35/351799/351799/%5BJudas%5D%20Bleach%20-%20Thousand%20Year%20Blood%20War%20-%20406.mkv",
           "size_mb": 402.24,
           "label": "[Judas] Bleach - Thousand Year Blood War - 406.mkv"
-        },
-        {
-          "episode": 236,
-          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/102786/1/C7ySH2ASVuP2O7jTwTp6lg/1/11/119479/119479/%5BONS%5D_Bleach_236.mkv",
-          "size_mb": 50.94,
-          "label": "[ONS]_Bleach_236.mkv"
-        },
-        {
-          "episode": 237,
-          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/102789/1/8ZLNf63wvF2nxHl9Qeo_6A/1/11/119482/119482/%5BONS%5D_Bleach_237.mkv",
-          "size_mb": 50.94,
-          "label": "[ONS]_Bleach_237.mkv"
-        },
-        {
-          "episode": 238,
-          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/102791/1/Pemo0UfS3YSKUHPjL6ZCeA/1/11/119485/119485/%5BONS%5D_Bleach_238.mkv",
-          "size_mb": 50.92,
-          "label": "[ONS]_Bleach_238.mkv"
-        },
-        {
-          "episode": 245,
-          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/102809/1/myqdGhRiIg9Brs6Ro1gDxw/1/11/119505/119505/Bleach_245.mkv",
-          "size_mb": 50.93,
-          "label": "Bleach_245.mkv"
-        },
-        {
-          "episode": 246,
-          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/108886/1/JB4nl172xii7JSdGWPG9gw/1/12/127691/127691/bleach246-lq.mp4",
-          "size_mb": 58.83,
-          "label": "bleach246-lq.mp4"
-        },
-        {
-          "episode": 251,
-          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/108893/1/y2f0yLAbDX9ls-orwPnRpQ/1/12/127699/127699/bleach251-lq.mp4",
-          "size_mb": 59.54,
-          "label": "bleach251-lq.mp4"
-        },
-        {
-          "episode": 259,
-          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/164747/1/AC2EX2zToQ4ZBSZM00p5fA/1/19/196753/196753/Bleach%20259%20%5B8742CA0C%5D.avi",
-          "size_mb": 96.13,
-          "label": "Bleach 259 [8742CA0C].avi"
-        },
-        {
-          "episode": 367,
-          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/281354/1/pMpCiKyzQLE2uois60pRHg/3/33/330446/330446/Bleach%20TYBW%20%5B720p%5D%20-%20367.mkv",
-          "size_mb": 198.54,
-          "label": "Bleach TYBW [720p] - 367.mkv"
         }
       ],
       "poster_url": "https://www.tokyoinsider.com/upload/covers/b/thumbs/default_bleach.jpg"
@@ -2869,6 +2869,18 @@
       ],
       "total_episodes": 37,
       "episodes": [
+        {
+          "episode": 1,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/107690/1/J5UDARfJU4LNiBkW3TpnSA/1/12/126152/126152/Death%20Note%20-%2001%20-%20Rebirth.mkv",
+          "size_mb": 204.51,
+          "label": "Death Note - 01 - Rebirth.mkv"
+        },
+        {
+          "episode": 2,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/107776/1/YIbOcU6X8EG-O8U4n9SQ3Q/1/12/126263/126263/Death%20Note%20-%2002%20-%20Confrontation.mkv",
+          "size_mb": 212.22,
+          "label": "Death Note - 02 - Confrontation.mkv"
+        },
         {
           "episode": 3,
           "url": "https://media.tokyoinsider.com:8080/dl/00000000030/106705/1/fnN3SEXDsk0KWQP2k8PcHw/1/12/124859/124859/Death_Note_-_03.mp4",
@@ -3078,18 +3090,6 @@
           "url": "https://media.tokyoinsider.com:8080/dl/00000000030/301946/1/2IoLZLu0-o3sXr6SN3c5Ig/3/35/353916/353916/%5BWWAHFDNTVFUAUAWGR%5D_Death_Note_37_%5BA5DB8622%5D.mkv",
           "size_mb": 149.66,
           "label": "[WWAHFDNTVFUAUAWGR]_Death_Note_37_[A5DB8622].mkv"
-        },
-        {
-          "episode": 1,
-          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/107690/1/J5UDARfJU4LNiBkW3TpnSA/1/12/126152/126152/Death%20Note%20-%2001%20-%20Rebirth.mkv",
-          "size_mb": 204.51,
-          "label": "Death Note - 01 - Rebirth.mkv"
-        },
-        {
-          "episode": 2,
-          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/107776/1/YIbOcU6X8EG-O8U4n9SQ3Q/1/12/126263/126263/Death%20Note%20-%2002%20-%20Confrontation.mkv",
-          "size_mb": 212.22,
-          "label": "Death Note - 02 - Confrontation.mkv"
         }
       ],
       "poster_url": "https://www.tokyoinsider.com/upload/covers/d/thumbs/default_death_note.jpg"
@@ -5643,6 +5643,12 @@
           "label": "[YesAnime.tv] Heroman - 17 [480p].mkv"
         },
         {
+          "episode": 18,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/45316/1/agFFP8Li8P1qtqXzwuHYQg/m/4/45/45316/45316/%5BCommie%5D%20Heroman%20-%2018%20%5BD60C1940%5D.mkv",
+          "size_mb": 383.16,
+          "label": "[Commie] Heroman - 18 [D60C1940].mkv"
+        },
+        {
           "episode": 19,
           "url": "https://media.tokyoinsider.com:8080/dl/00000000030/25671/1/PHrVtv1XYZ6HwiqNFsoc2w/m/2/25/25671/25671/%5BFuniGuys%5D%20HEROMAN%20-%2019%20%5B480p%5D.mkv",
           "size_mb": 152.41,
@@ -5689,12 +5695,6 @@
           "url": "https://media.tokyoinsider.com:8080/dl/00000000030/31089/1/0kso9oRdlDqR36PSzELG4Q/m/3/31/31089/31089/%5BHorribleSubs%5D%20HEROMAN%20-%2026%20%5B480p%5D.mkv",
           "size_mb": 149.41,
           "label": "[HorribleSubs] HEROMAN - 26 [480p].mkv"
-        },
-        {
-          "episode": 18,
-          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/45316/1/agFFP8Li8P1qtqXzwuHYQg/m/4/45/45316/45316/%5BCommie%5D%20Heroman%20-%2018%20%5BD60C1940%5D.mkv",
-          "size_mb": 383.16,
-          "label": "[Commie] Heroman - 18 [D60C1940].mkv"
         }
       ]
     },
