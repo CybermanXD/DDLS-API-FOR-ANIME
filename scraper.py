@@ -137,7 +137,7 @@ def extract_candidates(soup: BeautifulSoup) -> List[DdlCandidate]:
         uploader = parse_uploader(finfo_text)
         if uploader and uploader.lower() == "jusenshi":
             continue
-        if re.search(r"\braw\b", label, re.IGNORECASE) or re.search(r"raw", url, re.IGNORECASE):
+        if re.search(r"\braws?\b", label, re.IGNORECASE) or re.search(r"raws?", url, re.IGNORECASE):
             continue
         if not re.search(r"\.(mp4|mkv|avi)(\?|$)", url, re.IGNORECASE) and not re.search(
             r"\.(mp4|mkv|avi)\s*$", label, re.IGNORECASE

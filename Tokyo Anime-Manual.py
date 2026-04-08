@@ -149,7 +149,7 @@ def select_candidate_with_reason(soup: BeautifulSoup) -> Tuple[Optional[DdlCandi
         if uploader and uploader.lower() == "jusenshi":
             uploader_filtered = True
             continue
-        if re.search(r"\braw\b", label, re.IGNORECASE) or re.search(r"raw", url, re.IGNORECASE):
+        if re.search(r"\braws?\b", label, re.IGNORECASE) or re.search(r"raws?", url, re.IGNORECASE):
             raw_filtered = True
             continue
         is_format = re.search(r"\.(mp4|mkv|avi)(\?|$)", url, re.IGNORECASE) or re.search(
