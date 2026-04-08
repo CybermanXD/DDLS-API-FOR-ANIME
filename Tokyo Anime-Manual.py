@@ -244,6 +244,7 @@ def build_m3u(payload: Dict) -> str:
     items = sorted(payload.get("items", []), key=lambda item: item.get("anime", ""))
     for anime in items:
         anime_name = anime.get("anime", "Unknown Anime")
+        clean_name = anime_name.replace("_", " ")
         anime_index = anime.get("Anime_Index", "")
         poster_url = anime.get("poster_url", "")
         for episode in anime.get("episodes", []):
@@ -251,11 +252,13 @@ def build_m3u(payload: Dict) -> str:
             url = episode.get("url")
             if not url:
                 continue
-            display = f"{anime_index} {anime_name} - Ep {ep_num}" if ep_num is not None else f"{anime_index} {anime_name}"
+            display = (
+                f"{anime_index} {clean_name} - Ep {ep_num}" if ep_num is not None else f"{anime_index} {clean_name}"
+            )
             extinf = (
                 f"#EXTINF:-1 "
-                f"group-title=\"{anime_name}\" "
-                f"tvg-name=\"{anime_name}\" "
+                f"group-title=\"{clean_name}\" "
+                f"tvg-name=\"{clean_name}\" "
                 f"tvg-id=\"{anime_index}\" "
                 f"tvg-logo=\"{poster_url}\""
                 f",{display}"
