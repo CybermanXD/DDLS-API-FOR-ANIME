@@ -2870,12 +2870,6 @@
       "total_episodes": 37,
       "episodes": [
         {
-          "episode": 2,
-          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/107776/1/xOmaRmfHf2i6-ijpff2XyQ/1/12/126263/126263/Death%20Note%20-%2002%20-%20Confrontation.mkv",
-          "size_mb": 212.22,
-          "label": "Death Note - 02 - Confrontation.mkv"
-        },
-        {
           "episode": 3,
           "url": "https://media.tokyoinsider.com:8080/dl/00000000030/106705/1/fnN3SEXDsk0KWQP2k8PcHw/1/12/124859/124859/Death_Note_-_03.mp4",
           "size_mb": 161.72,
@@ -3090,6 +3084,12 @@
           "url": "https://media.tokyoinsider.com:8080/dl/00000000030/107690/1/J5UDARfJU4LNiBkW3TpnSA/1/12/126152/126152/Death%20Note%20-%2001%20-%20Rebirth.mkv",
           "size_mb": 204.51,
           "label": "Death Note - 01 - Rebirth.mkv"
+        },
+        {
+          "episode": 2,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/107776/1/YIbOcU6X8EG-O8U4n9SQ3Q/1/12/126263/126263/Death%20Note%20-%2002%20-%20Confrontation.mkv",
+          "size_mb": 212.22,
+          "label": "Death Note - 02 - Confrontation.mkv"
         }
       ],
       "poster_url": "https://www.tokyoinsider.com/upload/covers/d/thumbs/default_death_note.jpg"

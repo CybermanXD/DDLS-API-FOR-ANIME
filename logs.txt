@@ -1,14 +1,6 @@
-[11:48:54] Re-fetch queued for https://www.tokyoinsider.com/anime/D/Death_Note_(TV).
-[11:48:55] Scraping https://www.tokyoinsider.com/anime/D/Death_Note_(TV).
-[11:49:01] Saved episode for Death_Note_(TV).
-[11:49:01] Finished Death_Note_(TV).
-[11:49:04] Manual scraping complete. M3U generated.
-[11:49:51] Re-fetch queued for https://www.tokyoinsider.com/anime/D/Death_Note_(TV).
-[11:49:53] Scraping https://www.tokyoinsider.com/anime/D/Death_Note_(TV).
-[11:49:54] Finished Death_Note_(TV).
-[11:49:54] Manual scraping complete. M3U generated.
-[11:50:18] Re-fetch queued for https://www.tokyoinsider.com/anime/D/Death_Note_(TV).
-[11:50:19] Scraping https://www.tokyoinsider.com/anime/D/Death_Note_(TV).
-[11:50:20] Finished Death_Note_(TV).
-[11:50:20] Manual scraping complete. M3U generated.
+[11:52:33] Re-fetch queued for https://www.tokyoinsider.com/anime/D/Death_Note_(TV).
+[11:52:33] Scraping https://www.tokyoinsider.com/anime/D/Death_Note_(TV).
+[11:52:39] Saved episode for Death_Note_(TV).
+[11:52:39] Finished Death_Note_(TV).
+[11:52:42] Manual scraping complete. M3U generated.
 
