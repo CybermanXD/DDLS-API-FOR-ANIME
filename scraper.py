@@ -133,15 +133,15 @@ def extract_candidates(soup: BeautifulSoup) -> List[DdlCandidate]:
             continue
         url = link.get("href", "")
         label = link.get_text(strip=True)
+        if not re.search(r"\.(mp4|mkv|avi)(\?|$)", url, re.IGNORECASE) and not re.search(
+            r"\.(mp4|mkv|avi)\s*$", label, re.IGNORECASE
+        ):
+            continue
         finfo_text = finfo.get_text(" ", strip=True)
         uploader = parse_uploader(finfo_text)
         if uploader and uploader.lower() == "jusenshi":
             continue
         if re.search(r"\braws?\b", label, re.IGNORECASE) or re.search(r"raws?", url, re.IGNORECASE):
-            continue
-        if not re.search(r"\.(mp4|mkv|avi)(\?|$)", url, re.IGNORECASE) and not re.search(
-            r"\.(mp4|mkv|avi)\s*$", label, re.IGNORECASE
-        ):
             continue
         size_mb = parse_size_mb(finfo_text)
         if size_mb is None:

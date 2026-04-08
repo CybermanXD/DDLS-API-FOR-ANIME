@@ -144,6 +144,12 @@ def select_candidate_with_reason(soup: BeautifulSoup) -> Tuple[Optional[DdlCandi
             continue
         url = link.get("href", "")
         label = link.get_text(strip=True)
+        is_format = re.search(r"\.(mp4|mkv|avi)(\?|$)", url, re.IGNORECASE) or re.search(
+            r"\.(mp4|mkv|avi)\s*$", label, re.IGNORECASE
+        )
+        if not is_format:
+            continue
+        has_english_format = True
         finfo_text = finfo.get_text(" ", strip=True)
         uploader = parse_uploader(finfo_text)
         if uploader and uploader.lower() == "jusenshi":
@@ -152,12 +158,6 @@ def select_candidate_with_reason(soup: BeautifulSoup) -> Tuple[Optional[DdlCandi
         if re.search(r"\braws?\b", label, re.IGNORECASE) or re.search(r"raws?", url, re.IGNORECASE):
             raw_filtered = True
             continue
-        is_format = re.search(r"\.(mp4|mkv|avi)(\?|$)", url, re.IGNORECASE) or re.search(
-            r"\.(mp4|mkv|avi)\s*$", label, re.IGNORECASE
-        )
-        if not is_format:
-            continue
-        has_english_format = True
         size_mb = parse_size_mb(finfo_text)
         if size_mb is None:
             continue
