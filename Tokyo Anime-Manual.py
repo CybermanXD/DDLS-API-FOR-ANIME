@@ -268,7 +268,7 @@ def build_m3u(payload: Dict) -> str:
         clean_name = anime_name.replace("_", " ")
         anime_index = anime.get("Anime_Index", "")
         poster_url = anime.get("poster_url", "")
-        for episode in anime.get("episodes", []):
+        for episode in sorted(anime.get("episodes", []), key=lambda ep: ep.get("episode", 0)):
             ep_num = episode.get("episode")
             url = episode.get("url")
             if not url:
@@ -616,6 +616,7 @@ class ManualScraperApp:
                         "label": candidate.label,
                     }
                 )
+                anime_entry["episodes"].sort(key=lambda ep: ep.get("episode", 0))
                 task.saved_episodes = len(anime_entry["episodes"])
                 task.last_updated = datetime.now().strftime("%H:%M:%S")
                 self.save_payload()
