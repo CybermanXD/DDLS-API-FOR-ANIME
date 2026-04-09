@@ -2,4 +2,8 @@
 [12:06:20] Scraping https://www.tokyoinsider.com/anime/D/Death_Note_(TV).
 [12:06:21] Finished Death_Note_(TV).
 [12:06:21] Manual scraping complete. M3U generated.
+[23:05:19] Queued https://www.tokyoinsider.com/anime/G/God_Eater_(TV).
+[23:05:22] Scraping https://www.tokyoinsider.com/anime/G/God_Eater_(TV).
+[23:05:25] Saved episode for God_Eater_(TV).
+[23:05:27] Saved episode for God_Eater_(TV).
 

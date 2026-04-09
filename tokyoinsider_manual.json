@@ -1,5 +1,5 @@
 {
-  "total_anime": 14,
+  "total_anime": 15,
   "items": [
     {
       "Anime_Index": "01",
@@ -5948,6 +5948,33 @@
           "url": "https://media.tokyoinsider.com:8080/dl/00000000030/134447/1/dKMCrmcW2F0L5Om88SmVqw/1/16/160955/160955/Attack%20on%20Titan%20%28Shingeki%20no%20Kyojin%29%20S01E25%20Wall%20%281920x1080%29%20%5BPhr0stY%5D.mkv",
           "size_mb": 546.25,
           "label": "Attack on Titan (Shingeki no Kyojin) S01E25 Wall (1920x1080) [Phr0stY].mkv"
+        }
+      ]
+    },
+    {
+      "Anime_Index": "15",
+      "anime": "God_Eater_(TV)",
+      "source_url": "https://www.tokyoinsider.com/anime/G/God_Eater_(TV)",
+      "summary": "Anime adaptation of Bandai Namco's PSP action game series \"God Eater.\" Set in Japan in the year 2071 where the world has been mostly destroyed by mysterious monsters known as the Aragami. An organization known as Fenrir was made to exterminate Aragami using weapons called God Arcs which is made from the cells of an Aragami. Those who specialize in exterminating Aragami are known as God Eaters. Originally God Eaters had one type in which their God Arcs can only keep gun form or blade form, however a new type has been discovered that can switch between gun and blade form. Since then, they have been classified new-types and the previous as old-types.",
+      "genres": [
+        "Action",
+        "Fantasy",
+        "Supernatural"
+      ],
+      "poster_url": "https://www.tokyoinsider.com/upload/covers/G/thumbs/default_God_Eater_1436790354.jpg",
+      "total_episodes": 13,
+      "episodes": [
+        {
+          "episode": 1,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/176561/1/UZ5e3zxG_CPecaqBHJsUig/2/20/209988/209988/%D8%A8%D8%AE%DB%86%D8%B1%D9%89%20%DA%AF%D9%87%E2%80%8C%D9%88%D8%B1%D9%87%E2%80%8C%D9%83%D8%A7%D9%86%20%D8%B2%D9%86%D8%AC%D9%8A%D8%B1%D9%87%E2%80%8C%D9%89%201.mp4",
+          "size_mb": 193.96,
+          "label": "Ú¯ÙâÙØ±ÙâÙØ§Ù Ø²ÙØ¬ÙØ±ÙâÙ 1.mp4"
+        },
+        {
+          "episode": 2,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/174370/1/efnlOAaMg8J1cbNwVYFyig/2/20/207515/207515/God%20Eater%20-%2002.mkv",
+          "size_mb": 249.92,
+          "label": "God Eater - 02.mkv"
         }
       ]
     }
