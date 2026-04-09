@@ -6,4 +6,17 @@
 [23:05:22] Scraping https://www.tokyoinsider.com/anime/G/God_Eater_(TV).
 [23:05:25] Saved episode for God_Eater_(TV).
 [23:05:27] Saved episode for God_Eater_(TV).
+[23:05:29] Saved episode for God_Eater_(TV).
+[23:05:30] Saved episode for God_Eater_(TV).
+[23:05:32] Saved episode for God_Eater_(TV).
+[23:05:34] Saved episode for God_Eater_(TV).
+[23:05:36] Saved episode for God_Eater_(TV).
+[23:05:38] Saved episode for God_Eater_(TV).
+[23:05:39] Saved episode for God_Eater_(TV).
+[23:05:41] Saved episode for God_Eater_(TV).
+[23:05:42] Saved episode for God_Eater_(TV).
+[23:05:44] Saved episode for God_Eater_(TV).
+[23:05:46] Saved episode for God_Eater_(TV).
+[23:05:46] Finished God_Eater_(TV).
+[23:05:49] Manual scraping complete. M3U generated.
 

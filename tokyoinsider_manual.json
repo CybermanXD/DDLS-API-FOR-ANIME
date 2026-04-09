@@ -5975,6 +5975,72 @@
           "url": "https://media.tokyoinsider.com:8080/dl/00000000030/174370/1/efnlOAaMg8J1cbNwVYFyig/2/20/207515/207515/God%20Eater%20-%2002.mkv",
           "size_mb": 249.92,
           "label": "God Eater - 02.mkv"
+        },
+        {
+          "episode": 3,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/174470/1/cYyUj2RCzt9mkXW0GvdbbQ/2/20/207628/207628/God%20Eater%20-%2003.mkv",
+          "size_mb": 267.3,
+          "label": "God Eater - 03.mkv"
+        },
+        {
+          "episode": 4,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/175059/1/huN8VbVWSBJJCaY30FF3OQ/2/20/208300/208300/God%20Eater%20-%2004.mkv",
+          "size_mb": 183.6,
+          "label": "God Eater - 04.mkv"
+        },
+        {
+          "episode": 5,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/174901/1/TkyJImOcVBje6KqGNrJRcw/2/20/208109/208109/God%20Eater%20-%2005%20%5B480p%5D%5BHorribleSubs%5D.mkv",
+          "size_mb": 99.1,
+          "label": "God Eater - 05 [480p][HorribleSubs].mkv"
+        },
+        {
+          "episode": 6,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/175264/1/DVlebwqzo1VRynE5oiM4eQ/2/20/208530/208530/God%20Eater%20-%2006%20%5B480p%5D%5BHorribleSubs%5D.mkv",
+          "size_mb": 88.95,
+          "label": "God Eater - 06 [480p][HorribleSubs].mkv"
+        },
+        {
+          "episode": 7,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/176459/1/EJBVv7s3tlraIjRaePgfLQ/2/20/209876/209876/God%20Eater%20-%2007.mkv",
+          "size_mb": 168.99,
+          "label": "God Eater - 07.mkv"
+        },
+        {
+          "episode": 8,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/176464/1/GqK5zmOR8PXp9ROff-ttvw/2/20/209882/209882/God%20Eater%20-%2008.mkv",
+          "size_mb": 168.46,
+          "label": "God Eater - 08.mkv"
+        },
+        {
+          "episode": 9,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/176468/1/jNYbpKXynQ7sn13X6EEIYg/2/20/209886/209886/God%20Eater%20-%2009.mkv",
+          "size_mb": 232.3,
+          "label": "God Eater - 09.mkv"
+        },
+        {
+          "episode": 10,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/179849/1/NqtmCndmNv-GWFY0l7VHqg/2/21/213792/213792/%5BC12%5D%20GOD%20EATER%20%20%2010.mp4",
+          "size_mb": 94.0,
+          "label": "[C12] GOD EATER   10.mp4"
+        },
+        {
+          "episode": 11,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/180021/1/NiCZEgNQUnrUPYu40KJxSw/2/21/214027/214027/%5BC12%5D%20GOD%20EATER%20%20%2011.mp4",
+          "size_mb": 144.89,
+          "label": "[C12] GOD EATER   11.mp4"
+        },
+        {
+          "episode": 12,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/180141/1/NpJ4qGGswRCxZUKDYfXdIw/2/21/214204/214204/%5BC12%5D%20GOD%20EATER%20%20%2012.mp4",
+          "size_mb": 160.24,
+          "label": "[C12] GOD EATER   12.mp4"
+        },
+        {
+          "episode": 13,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/180325/1/L3Zs129zAeHEx5k9_GzHPw/2/21/214409/214409/%5BHS%5D%20GOD%20EATER%20-%2013%20%5B720p%5D.mp4",
+          "size_mb": 99.32,
+          "label": "[HS] GOD EATER - 13 [720p].mp4"
         }
       ]
     }
