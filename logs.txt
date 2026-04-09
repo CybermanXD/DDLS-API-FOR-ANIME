@@ -19,4 +19,21 @@
 [23:05:46] Saved episode for God_Eater_(TV).
 [23:05:46] Finished God_Eater_(TV).
 [23:05:49] Manual scraping complete. M3U generated.
+[23:07:50] Queued https://www.tokyoinsider.com/anime/T/Terra_Formars_(TV).
+[23:07:53] Scraping https://www.tokyoinsider.com/anime/T/Terra_Formars_(TV).
+[23:07:56] Saved episode for Terra_Formars_(TV).
+[23:07:59] Saved episode for Terra_Formars_(TV).
+[23:08:01] Saved episode for Terra_Formars_(TV).
+[23:08:03] Saved episode for Terra_Formars_(TV).
+[23:08:05] Saved episode for Terra_Formars_(TV).
+[23:08:07] Saved episode for Terra_Formars_(TV).
+[23:08:09] Saved episode for Terra_Formars_(TV).
+[23:08:11] Saved episode for Terra_Formars_(TV).
+[23:08:13] Saved episode for Terra_Formars_(TV).
+[23:08:14] Saved episode for Terra_Formars_(TV).
+[23:08:16] Saved episode for Terra_Formars_(TV).
+[23:08:18] Saved episode for Terra_Formars_(TV).
+[23:08:19] Saved episode for Terra_Formars_(TV).
+[23:08:19] Finished Terra_Formars_(TV).
+[23:08:22] Manual scraping complete. M3U generated.
 

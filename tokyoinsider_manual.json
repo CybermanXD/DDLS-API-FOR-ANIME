@@ -1,5 +1,5 @@
 {
-  "total_anime": 15,
+  "total_anime": 16,
   "items": [
     {
       "Anime_Index": "01",
@@ -6041,6 +6041,99 @@
           "url": "https://media.tokyoinsider.com:8080/dl/00000000030/180325/1/L3Zs129zAeHEx5k9_GzHPw/2/21/214409/214409/%5BHS%5D%20GOD%20EATER%20-%2013%20%5B720p%5D.mp4",
           "size_mb": 99.32,
           "label": "[HS] GOD EATER - 13 [720p].mp4"
+        }
+      ]
+    },
+    {
+      "Anime_Index": "16",
+      "anime": "Terra_Formars_(TV)",
+      "source_url": "https://www.tokyoinsider.com/anime/T/Terra_Formars_(TV)",
+      "summary": "Twenty years ago, Shokichi Komachi was part of the Bugs 2 mission to Mars that discovered Terra Formars, human-cockroach hybrids that resulted from a terraforming accident. Shokichi was one of only two survivors. Now, the AE virus that came from Mars is raging wildly on earth. Shokichi boards the spacecraft Annex 1 to go back to Mars to find a sample in order to create a vaccine. They will face an unanticipated accident, a multinational conspiracy, and even more advanced Terra Formars.",
+      "genres": [
+        "Action",
+        "Horror",
+        "Science Fiction"
+      ],
+      "poster_url": "https://www.tokyoinsider.com/upload/covers/T/thumbs/default_Terra_Formars_1412068370.jpg",
+      "total_episodes": 13,
+      "episodes": [
+        {
+          "episode": 1,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/162933/1/PXAeZOcRizlzJWu0qJs1MA/1/19/194817/194817/Terra%20Formars%20-%2001v2%20UNCENSORED.mkv",
+          "size_mb": 106.14,
+          "label": "Terra Formars - 01v2 UNCENSORED.mkv"
+        },
+        {
+          "episode": 2,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/161420/1/Mbs5oU_bb4RfiwgC7BZXoQ/1/19/193225/193225/Terra%20Formars_-_02__1B972CEB--Departure.mkv",
+          "size_mb": 104.41,
+          "label": "Terra Formars_-_02__1B972CEB--Departure.mkv"
+        },
+        {
+          "episode": 3,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/162935/1/rN4jwocK0rJ8oOxh-dR98Q/1/19/194819/194819/Terra%20Formars%20-%2003v2%20UNCENSORED.mkv",
+          "size_mb": 107.81,
+          "label": "Terra Formars - 03v2 UNCENSORED.mkv"
+        },
+        {
+          "episode": 4,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/162722/1/g5DxaLXVwhyC-9I8ErkgMA/1/19/194599/194599/Terra%20Formars_-_04__3EBECE9A.mkv",
+          "size_mb": 104.68,
+          "label": "Terra Formars_-_04__3EBECE9A.mkv"
+        },
+        {
+          "episode": 5,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/162984/1/0KG_dA9TiOYhwWqyCkP89g/1/19/194869/194869/Terra%20Formars%20%2005__629E5678.mkv",
+          "size_mb": 107.77,
+          "label": "Terra Formars  05__629E5678.mkv"
+        },
+        {
+          "episode": 6,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/163172/1/wHcJhMFu-db3p45qu7epUA/1/19/195069/195069/Terra%20Formars_-_06__BB8363DA.mkv",
+          "size_mb": 108.18,
+          "label": "Terra Formars_-_06__BB8363DA.mkv"
+        },
+        {
+          "episode": 7,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/163332/1/U-z9tIg6dy3__NLb1roELQ/1/19/195241/195241/%5BHorribleSubs%5D%20Terra%20Formars%20-%2007%20%5B480p%5D.mkv",
+          "size_mb": 146.67,
+          "label": "[HorribleSubs] Terra Formars - 07 [480p].mkv"
+        },
+        {
+          "episode": 8,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/164057/1/83RurVyqDsPGMqPrLkr9WA/1/19/196016/196016/Terra%20Formars_-_08__365D0876.mkv",
+          "size_mb": 107.82,
+          "label": "Terra Formars_-_08__365D0876.mkv"
+        },
+        {
+          "episode": 9,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/164731/1/-VlRKEIDkfNnJ6qovX6Nhg/1/19/196738/196738/Terra%20Formars_-_09__621736CC.mkv",
+          "size_mb": 104.75,
+          "label": "Terra Formars_-_09__621736CC.mkv"
+        },
+        {
+          "episode": 10,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/164778/1/F-vJtLWdLWMS4MfFlZYrNg/1/19/196789/196789/%5BHorribleSubs%5D%20Terra%20Formars%20-%2010%20%5B480p%5D.mkv",
+          "size_mb": 146.33,
+          "label": "[HorribleSubs] Terra Formars - 10 [480p].mkv"
+        },
+        {
+          "episode": 11,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/165412/1/F_mGU8GnuqzU3jgIkL0xRw/1/19/197446/197446/%5BHorribleSubs%5D%20Terra%20Formars%20-%2011%20%5B480p%5D.mkv",
+          "size_mb": 146.33,
+          "label": "[HorribleSubs] Terra Formars - 11 [480p].mkv"
+        },
+        {
+          "episode": 12,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/165940/1/sHsjPbIr2xmQ4mg5akXY7Q/1/19/198034/198034/%5BHorribleSubs%5D%20Terra%20Formars%20-%2012%20%5B480p%5D.mkv",
+          "size_mb": 146.71,
+          "label": "[HorribleSubs] Terra Formars - 12 [480p].mkv"
+        },
+        {
+          "episode": 13,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/166382/1/7fNtfQZo4YCgEwHUzngG1A/1/19/198507/198507/%5BHorribleSubs%5D%20Terra%20Formars%20-%2013%20%5B480p%5D.mkv",
+          "size_mb": 146.28,
+          "label": "[HorribleSubs] Terra Formars - 13 [480p].mkv"
         }
       ]
     }
