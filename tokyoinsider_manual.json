@@ -1,5 +1,5 @@
 {
-  "total_anime": 19,
+  "total_anime": 21,
   "items": [
     {
       "Anime_Index": "01",
@@ -6695,6 +6695,436 @@
           "url": "https://media.tokyoinsider.com:8080/dl/00000000030/212646/1/WU9rpWFo6MA-o5hDACD6Og/2/25/255492/255492/%5BBuriBuri%5D%20Crayon%20Shin-chan%20-%200010%20%5BDVD%5D%5BE1F80D0C%5D.mkv",
           "size_mb": 196.16,
           "label": "[BuriBuri] Crayon Shin-chan - 0010 [DVD][E1F80D0C].mkv"
+        },
+        {
+          "episode": 11,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/212647/1/-pbQD0BculTH_tFrjkXC1g/2/25/255493/255493/%5BBuriBuri%5D%20Crayon%20Shin-chan%20-%200011%20%5BDVD%5D%5BD8FE8F59%5D.mkv",
+          "size_mb": 157.94,
+          "label": "[BuriBuri] Crayon Shin-chan - 0011 [DVD][D8FE8F59].mkv"
+        },
+        {
+          "episode": 12,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/212648/1/itypdl6Z_kFogf-qwaLvgg/2/25/255494/255494/%5BBuriBuri%5D%20Crayon%20Shin-chan%20-%200012%20%5BDVD%5D%5B50BCFC90%5D.mkv",
+          "size_mb": 167.17,
+          "label": "[BuriBuri] Crayon Shin-chan - 0012 [DVD][50BCFC90].mkv"
+        },
+        {
+          "episode": 13,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/212649/1/Qx1mdsvsA0OSzeGRnV9sOg/2/25/255495/255495/%5BBuriBuri%5D%20Crayon%20Shin-chan%20-%200013%20%5BDVD%5D%5B43562834%5D.mkv",
+          "size_mb": 166.13,
+          "label": "[BuriBuri] Crayon Shin-chan - 0013 [DVD][43562834].mkv"
+        },
+        {
+          "episode": 14,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/212650/1/bLSr1DwtW_Rqa-o57-RpSw/2/25/255496/255496/%5BBuriBuri%5D%20Crayon%20Shin-chan%20-%200014%20%5BDVD%5D%5B3DC4B7B7%5D.mkv",
+          "size_mb": 174.3,
+          "label": "[BuriBuri] Crayon Shin-chan - 0014 [DVD][3DC4B7B7].mkv"
+        },
+        {
+          "episode": 15,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/212651/1/vQJBt9Rk-Y-d4wHODFB4Rg/2/25/255497/255497/%5BBuriBuri%5D%20Crayon%20Shin-chan%20-%200015%20%5BDVD%5D%5B53D3A8BD%5D.mkv",
+          "size_mb": 163.18,
+          "label": "[BuriBuri] Crayon Shin-chan - 0015 [DVD][53D3A8BD].mkv"
+        },
+        {
+          "episode": 16,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/212652/1/vZBQRSWZIu9SxLK1Cklzzg/2/25/255498/255498/%5BBuriBuri%5D%20Crayon%20Shin-chan%20-%200016v2%20%5BDVD%5D%5B42A16B4E%5D.mkv",
+          "size_mb": 212.55,
+          "label": "[BuriBuri] Crayon Shin-chan - 0016v2 [DVD][42A16B4E].mkv"
+        },
+        {
+          "episode": 17,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/212654/1/iNW2Oj-CuHxBrprpg58ZMw/2/25/255501/255501/%5BBuriBuri%5D%20Crayon%20Shin-chan%20-%200017%20%5BDVD%5D%5BE025BDB4%5D.mkv",
+          "size_mb": 212.46,
+          "label": "[BuriBuri] Crayon Shin-chan - 0017 [DVD][E025BDB4].mkv"
+        },
+        {
+          "episode": 18,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/212653/1/y8mChpSvAnIeFmeINkiSXQ/2/25/255500/255500/%5BBuriBuri%5D%20Crayon%20Shin-chan%20-%200018%20%5BDVD%5D%5B98497441%5D.mkv",
+          "size_mb": 165.51,
+          "label": "[BuriBuri] Crayon Shin-chan - 0018 [DVD][98497441].mkv"
+        },
+        {
+          "episode": 19,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/212655/1/8hOOfx7TJkRUPUqJ5ITqsA/2/25/255502/255502/%5BBuriBuri%5D%20Crayon%20Shin-chan%20-%200019%20%5BDVD%5D%5BCBA25A09%5D.mkv",
+          "size_mb": 167.04,
+          "label": "[BuriBuri] Crayon Shin-chan - 0019 [DVD][CBA25A09].mkv"
+        },
+        {
+          "episode": 20,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/212656/1/YzqISFwvGIBuAnCmeRGfSA/2/25/255503/255503/%5BBuriBuri%5D%20Crayon%20Shin-chan%20-%200020%20%5BDVD%5D%5B5290C100%5D.mkv",
+          "size_mb": 145.69,
+          "label": "[BuriBuri] Crayon Shin-chan - 0020 [DVD][5290C100].mkv"
+        },
+        {
+          "episode": 21,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/212657/1/8Rm2nw5Q9MI1wEG307j0sQ/2/25/255504/255504/%5BBuriBuri%5D%20Crayon%20Shin-chan%20-%200021%20%5BDVD%5D%5B0BD1C4A1%5D.mkv",
+          "size_mb": 162.88,
+          "label": "[BuriBuri] Crayon Shin-chan - 0021 [DVD][0BD1C4A1].mkv"
+        },
+        {
+          "episode": 22,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/212635/1/Ka06CzdSzPuKMO0Yej1pUw/2/25/255480/255480/%5BBuriBuri%5D%20Crayon%20Shin-chan%20-%200022%20%5BDVD%5D%5BE093217C%5D.mkv",
+          "size_mb": 168.15,
+          "label": "[BuriBuri] Crayon Shin-chan - 0022 [DVD][E093217C].mkv"
+        },
+        {
+          "episode": 23,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/212636/1/pr2FFCfPDqOiP8CrgHpSZg/2/25/255482/255482/%5BBuriBuri%5D%20Crayon%20Shin-chan%20-%200023%20%5BDVD%5D%5BC7A523C1%5D.mkv",
+          "size_mb": 173.92,
+          "label": "[BuriBuri] Crayon Shin-chan - 0023 [DVD][C7A523C1].mkv"
+        },
+        {
+          "episode": 24,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/213999/1/zLFqnpiO4QMl--HRcvAgEg/2/25/257205/257205/%5BBuriBuri%5D%20Crayon%20Shin-chan%20-%200024%20%5BDVD%5D%5BDAF4EB4B%5D.mkv",
+          "size_mb": 155.7,
+          "label": "[BuriBuri] Crayon Shin-chan - 0024 [DVD][DAF4EB4B].mkv"
+        },
+        {
+          "episode": 25,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/214474/1/c5hPBLe1ulkhYV2F8lTdTQ/2/25/257778/257778/%5BBuriBuri%5D%20Crayon%20Shin-chan%20-%200025%20%5BDVD%5D%5B04A9480E%5D.mkv",
+          "size_mb": 156.63,
+          "label": "[BuriBuri] Crayon Shin-chan - 0025 [DVD][04A9480E].mkv"
+        },
+        {
+          "episode": 26,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/215063/1/2K-eHpfQwWxchq1P5MX8ew/2/25/258441/258441/%5BBuriBuri%5D%20Crayon%20Shin-chan%20-%200026%20%5BDVD%5D%5B7C325637%5D.mkv",
+          "size_mb": 167.57,
+          "label": "[BuriBuri] Crayon Shin-chan - 0026 [DVD][7C325637].mkv"
+        },
+        {
+          "episode": 27,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/216324/1/rRWTRxkqlIHiM-KzUcZPbQ/2/25/259830/259830/%5BBuriBuri%5D%20Crayon%20Shin-chan%20-%200027%20%5BDVD%5D%5B4DDF4457%5D.mkv",
+          "size_mb": 158.29,
+          "label": "[BuriBuri] Crayon Shin-chan - 0027 [DVD][4DDF4457].mkv"
+        },
+        {
+          "episode": 28,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/217214/1/RxwwOijjZzNgC7jXwcOOMw/2/26/260803/260803/%5BBuriBuri%5D%20Crayon%20Shin-chan%20-%200028%20%5BDVD%5D%5B8F5D48C8%5D.mkv",
+          "size_mb": 190.76,
+          "label": "[BuriBuri] Crayon Shin-chan - 0028 [DVD][8F5D48C8].mkv"
+        },
+        {
+          "episode": 29,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/218234/1/d52gaG81wyTjwDg_uI7sGg/2/26/261876/261876/%5BBuriBuri%5D%20Crayon%20Shin-chan%20-%200029%20%5BDVD%5D%5B576A644A%5D.mkv",
+          "size_mb": 174.72,
+          "label": "[BuriBuri] Crayon Shin-chan - 0029 [DVD][576A644A].mkv"
+        },
+        {
+          "episode": 30,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/218698/1/CHBXGM5eWOTZFIQr8CRoWw/2/26/262377/262377/%5BBuriBuri%5D%20Crayon%20Shin-chan%20-%200030%20%5BDVD%5D%5B6274482D%5D.mkv",
+          "size_mb": 169.6,
+          "label": "[BuriBuri] Crayon Shin-chan - 0030 [DVD][6274482D].mkv"
+        },
+        {
+          "episode": 31,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/219453/1/dsQCIBqz93i6VLjrWRBORg/2/26/263168/263168/%5BBuriBuri%5D%20Crayon%20Shin-chan%20-%200031%20%5BDVD%5D%5BD0A6108C%5D.mkv",
+          "size_mb": 146.55,
+          "label": "[BuriBuri] Crayon Shin-chan - 0031 [DVD][D0A6108C].mkv"
+        },
+        {
+          "episode": 32,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/220272/1/cluJ9kddTmdBb_jSPJV9GA/2/26/264010/264010/%5BBuriBuri%5D%20Crayon%20Shin-chan%20-%200032%20%5BDVD%5D%5B3F4053E7%5D.mkv",
+          "size_mb": 149.26,
+          "label": "[BuriBuri] Crayon Shin-chan - 0032 [DVD][3F4053E7].mkv"
+        },
+        {
+          "episode": 33,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/227293/1/TxNH2Ismwq_nlAcVj4VbDw/2/27/271389/271389/%5BBuriBuri%5D%20Crayon%20Shin-chan%20-%200033%20%5BDVD%5D%5BAD883911%5D.mkv",
+          "size_mb": 179.34,
+          "label": "[BuriBuri] Crayon Shin-chan - 0033 [DVD][AD883911].mkv"
+        },
+        {
+          "episode": 34,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/249697/1/wygCgYVkys6BuUWNDSdcuw/2/29/295471/295471/%5BBuriBuri%5D%20Crayon%20Shin-chan%20-%200034%20%5BDVD%5D%5BA1FFA9C5%5D.mkv",
+          "size_mb": 298.11,
+          "label": "[BuriBuri] Crayon Shin-chan - 0034 [DVD][A1FFA9C5].mkv"
+        },
+        {
+          "episode": 35,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/249698/1/Ogdqc1ZWMWLQjDnfBUI_Jw/2/29/295472/295472/%5BBuriBuri%5D%20Crayon%20Shin-chan%20-%200035%20%5BDVD%5D%5B70442735%5D.mkv",
+          "size_mb": 308.17,
+          "label": "[BuriBuri] Crayon Shin-chan - 0035 [DVD][70442735].mkv"
+        },
+        {
+          "episode": 36,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/249699/1/ZjYELMTGUgvz6vIjwzZz5w/2/29/295473/295473/%5BBuriBuri%5D%20Crayon%20Shin-chan%20-%200036%20%5BDVD%5D%5B4F677F42%5D.mkv",
+          "size_mb": 286.33,
+          "label": "[BuriBuri] Crayon Shin-chan - 0036 [DVD][4F677F42].mkv"
+        },
+        {
+          "episode": 37,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/249700/1/A09OukpYtOaxWJ0H-9qutQ/2/29/295474/295474/%5BBuriBuri%5D%20Crayon%20Shin-chan%20-%200037%20%5BDVD%5D%5B5C35C622%5D.mkv",
+          "size_mb": 262.68,
+          "label": "[BuriBuri] Crayon Shin-chan - 0037 [DVD][5C35C622].mkv"
+        },
+        {
+          "episode": 38,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/249701/1/_Z759bpDM8c2a7JfPZ6rwg/2/29/295475/295475/%5BBuriBuri%5D%20Crayon%20Shin-chan%20-%200038%20%5BDVD%5D%5BA30A1D58%5D.mkv",
+          "size_mb": 253.06,
+          "label": "[BuriBuri] Crayon Shin-chan - 0038 [DVD][A30A1D58].mkv"
+        },
+        {
+          "episode": 58,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/284361/1/tmBvcVf4ujSM74Vav8EKjw/3/33/333977/333977/%5BBuriBuri%5D%20Crayon%20Shin-chan%20-%200058%20%5B480p%5D%5B5F0D9924%5D.mkv",
+          "size_mb": 202.88,
+          "label": "[BuriBuri] Crayon Shin-chan - 0058 [480p][5F0D9924].mkv"
+        },
+        {
+          "episode": 78,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/212662/1/37M0f0uNXKJMyLSra3R_xQ/2/25/255510/255510/%5BBuriBuri%5D%20Crayon%20Shin-chan%20-%20078%20%5BDVD%5D%5BD7BDA983%5D.mkv",
+          "size_mb": 235.8,
+          "label": "[BuriBuri] Crayon Shin-chan - 078 [DVD][D7BDA983].mkv"
+        },
+        {
+          "episode": 175,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/212663/1/CaJg8JMbMQ6GStk_4Fq5CQ/2/25/255511/255511/%5BBuriBuri%5D%20Crayon%20Shin-chan%20-%20175%20%5BDVD%5D%5BB6C77520%5D.mkv",
+          "size_mb": 208.97,
+          "label": "[BuriBuri] Crayon Shin-chan - 175 [DVD][B6C77520].mkv"
+        },
+        {
+          "episode": 864,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/212666/1/EYyJi7Od6pcMZUovIbTVDQ/2/25/255520/255520/%5BBuriBuri%5D%20Crayon%20Shin-chan%20-%20864%20%5B720p%5D%5BEA0DE8E4%5D.mkv",
+          "size_mb": 309.16,
+          "label": "[BuriBuri] Crayon Shin-chan - 864 [720p][EA0DE8E4].mkv"
+        },
+        {
+          "episode": 865,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/212665/1/7xh-nhYsas3RW9MDvdEurw/2/25/255519/255519/%5BBuriBuri%5D%20Crayon%20Shin-chan%20-%20865%20%5B720p%5D%5B4D565E07%5D.mkv",
+          "size_mb": 262.17,
+          "label": "[BuriBuri] Crayon Shin-chan - 865 [720p][4D565E07].mkv"
+        },
+        {
+          "episode": 885,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/212667/1/7ubhy_lSEVvli7sGUPjHZA/2/25/255521/255521/%5BBuriBuri%5D%20Crayon%20Shin-chan%20-%20885%20%5B720p%5D%5B2487737A%5D.mkv",
+          "size_mb": 265.54,
+          "label": "[BuriBuri] Crayon Shin-chan - 885 [720p][2487737A].mkv"
+        },
+        {
+          "episode": 886,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/212668/1/7ea6kRFnRGjKNt0WUsshTQ/2/25/255522/255522/%5BBuriBuri%5D%20Crayon%20Shin-chan%20-%20886%20%5B720p%5D%5BA41A7B09%5D.mkv",
+          "size_mb": 260.57,
+          "label": "[BuriBuri] Crayon Shin-chan - 886 [720p][A41A7B09].mkv"
+        },
+        {
+          "episode": 887,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/212670/1/fc7QecifTUjZ6cgnq_qgOw/2/25/255525/255525/%5BBuriBuri%5D%20Crayon%20Shin-chan%20-%20887%20%5B720p%5D%5B8017B46C%5D.mkv",
+          "size_mb": 345.54,
+          "label": "[BuriBuri] Crayon Shin-chan - 887 [720p][8017B46C].mkv"
+        },
+        {
+          "episode": 888,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/212681/1/S-oWxLjnRjYZfz3Jka101A/2/25/255539/255539/%5BBuriBuri%5D%20Crayon%20Shin-chan%20-%20888%20%5B720p%5D%5BBD767DA9%5D.mkv",
+          "size_mb": 369.64,
+          "label": "[BuriBuri] Crayon Shin-chan - 888 [720p][BD767DA9].mkv"
+        },
+        {
+          "episode": 894,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/212680/1/oYmmon7ThQWX3XQpZmA-VQ/2/25/255538/255538/%5BBuriBuri%5D%20Crayon%20Shin-chan%20-%20894%20%5B720p%5D%5BFDCF4FB2%5D.mkv",
+          "size_mb": 292.74,
+          "label": "[BuriBuri] Crayon Shin-chan - 894 [720p][FDCF4FB2].mkv"
+        },
+        {
+          "episode": 895,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/212682/1/x4ZRQWj5SIWvh82ldojAQg/2/25/255540/255540/%5BBuriBuri%5D%20Crayon%20Shin-chan%20-%20895%20%5B720p%5D%5BA1AA44AA%5D.mkv",
+          "size_mb": 256.16,
+          "label": "[BuriBuri] Crayon Shin-chan - 895 [720p][A1AA44AA].mkv"
+        },
+        {
+          "episode": 901,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/212683/1/aaoKi9MrKO1G-d4MwFN6Mw/2/25/255541/255541/%5BBuriBuri%5D%20Crayon%20Shin-chan%20-%20901%20%5B720p%5D%5B6D2A32AE%5D.mkv",
+          "size_mb": 273.27,
+          "label": "[BuriBuri] Crayon Shin-chan - 901 [720p][6D2A32AE].mkv"
+        },
+        {
+          "episode": 902,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/212684/1/d9x4OdCIcsBmVT5-oCpRvw/2/25/255543/255543/%5BBuriBuri%5D%20Crayon%20Shin-chan%20-%20902%20%5B720p%5D%5B856F116C%5D.mkv",
+          "size_mb": 306.74,
+          "label": "[BuriBuri] Crayon Shin-chan - 902 [720p][856F116C].mkv"
+        },
+        {
+          "episode": 969,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/212693/1/H9LOgFuSr8LusrdnSD4suw/2/25/255556/255556/%5BBuriBuri%5D%20Crayon%20Shin-chan%20-%20969%20%5B720p%5D%5B1A8529FA%5D.mkv",
+          "size_mb": 258.56,
+          "label": "[BuriBuri] Crayon Shin-chan - 969 [720p][1A8529FA].mkv"
+        },
+        {
+          "episode": 970,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/212694/1/HTCcJR2WmLdayGVdC4lHJQ/2/25/255557/255557/%5BBuriBuri%5D%20Crayon%20Shin-chan%20-%20970%20%5B720p%5D%5BD96F43C2%5D.mkv",
+          "size_mb": 299.37,
+          "label": "[BuriBuri] Crayon Shin-chan - 970 [720p][D96F43C2].mkv"
+        },
+        {
+          "episode": 996,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/212632/1/5QdxobtglxNmTKrx_6vChw/2/25/255472/255472/%5BBuriBuri%5D%20Crayon%20Shin-chan%20-%200996%20%5B720p%5D%5B62D46BC3%5D.mkv",
+          "size_mb": 254.06,
+          "label": "[BuriBuri] Crayon Shin-chan - 0996 [720p][62D46BC3].mkv"
+        },
+        {
+          "episode": 1052,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/249702/1/rsRCg-eDtMGL7WgFvAiORw/2/29/295477/295477/%5BBuriBuri%5D%20Crayon%20Shin-chan%20-%201052%20%5B720p%5D%5B4193375F%5D.mkv",
+          "size_mb": 384.51,
+          "label": "[BuriBuri] Crayon Shin-chan - 1052 [720p][4193375F].mkv"
+        }
+      ]
+    },
+    {
+      "Anime_Index": "20",
+      "anime": "Kakegurui_(TV)",
+      "source_url": "https://www.tokyoinsider.com/anime/K/Kakegurui_(TV)",
+      "summary": "Hyakkaou Private Academy. An institution for the privileged with a very peculiar curriculum. You see, when you're the sons and daughters of the wealthiest of the wealthy, it's not athletic prowess or book smarts that keep you ahead. It's reading your opponent, the art of the deal. What better way to hone those skills than with a rigorous curriculum of gambling? At Hyakkaou Private Academy, the winners live like kings, and the losers are put through the wringer. But when Yumeko Jabami enrolls, she's gonna teach these kids what a high roller really looks like!",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Psychological"
+      ],
+      "poster_url": "https://www.tokyoinsider.com/upload/covers/K/thumbs/default_Kakegurui_1498160812.jpg",
+      "total_episodes": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/187411/1/zEvt5_8BZdiw8uWMCMB5rg/2/22/223109/223109/Kakegurui%2001.mp4",
+          "size_mb": 103.51,
+          "label": "Kakegurui 01.mp4"
+        },
+        {
+          "episode": 2,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/187480/1/razuih-AorbjD30bSHmUJA/2/22/223187/223187/Kakegurui%2002.mp4",
+          "size_mb": 104.95,
+          "label": "Kakegurui 02.mp4"
+        },
+        {
+          "episode": 3,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/187573/1/ea7NcMy2BvFZyWJZ3a77Sg/2/22/223295/223295/Kakegurui%2003.mp4",
+          "size_mb": 100.85,
+          "label": "Kakegurui 03.mp4"
+        },
+        {
+          "episode": 4,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/187676/1/sT-esX5mK6OrqnKmSe_MYA/2/22/223410/223410/Kakegurui%2004.mp4",
+          "size_mb": 104.34,
+          "label": "Kakegurui 04.mp4"
+        },
+        {
+          "episode": 5,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/187788/1/CeIbY65n6f1rCxWfHbB0Ow/2/22/223546/223546/Kakegurui%2005.mp4",
+          "size_mb": 132.77,
+          "label": "Kakegurui 05.mp4"
+        },
+        {
+          "episode": 6,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/188055/1/eCex3i_V5ncinU5uxWFlqQ/2/22/223884/223884/Kakegurui%2006.mp4",
+          "size_mb": 142.85,
+          "label": "Kakegurui 06.mp4"
+        },
+        {
+          "episode": 7,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/188152/1/IOmvNECfnr0Qq5vf_vINcg/2/22/224027/224027/Kakegurui%2007.mp4",
+          "size_mb": 108.17,
+          "label": "Kakegurui 07.mp4"
+        },
+        {
+          "episode": 8,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/188297/1/5CeJ5qL2mQd1aHqA3p8Q8w/2/22/224321/224321/Kakegurui%2008.mp4",
+          "size_mb": 145.51,
+          "label": "Kakegurui 08.mp4"
+        },
+        {
+          "episode": 9,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/188412/1/AS1sjN0cXw-vGhwO4NCH1A/2/22/224539/224539/Kakegurui%2009.mp4",
+          "size_mb": 172.28,
+          "label": "Kakegurui 09.mp4"
+        },
+        {
+          "episode": 10,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/188530/1/6ZuJWQ4EehNy68bHns3Fuw/2/22/224734/224734/Kakegurui%2010.mp4",
+          "size_mb": 132.22,
+          "label": "Kakegurui 10.mp4"
+        },
+        {
+          "episode": 11,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/188644/1/EfiI71B3zrhxSATY7BrG5A/2/22/224911/224911/Kakegurui%2011.mp4",
+          "size_mb": 143.82,
+          "label": "Kakegurui 11.mp4"
+        },
+        {
+          "episode": 12,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/188749/1/UrYJukurdkM46ZwwYF9uUg/2/22/225081/225081/Kakegurui%2012.mp4",
+          "size_mb": 114.78,
+          "label": "Kakegurui 12.mp4"
+        }
+      ]
+    },
+    {
+      "Anime_Index": "21",
+      "anime": "Capeta_(TV)",
+      "source_url": "https://www.tokyoinsider.com/anime/C/Capeta_(TV)",
+      "summary": "Taira Kappeita, or Capeta, was a 4th grader boy. He had lost his mother when he had been very little. Although he pretended to be tough in front of his father, actually he felt lonely. One day, his father brought junk parts home from his workplace and made a racing cart. Soon, they went to a circuit to drive the cart. However, Capeta found that its frame was bent and it could hardly run straight. But, with his technique he managed the cart. Furthermore, he followed soon after the fast cart and he could nearly leave it behind. The driver in the cart was Minamoto Naomoi, the champion of the East Japan Junior Cart. Looking at their chase, Naomiâs mother, Minamoto Nanako, advised Capeta to take part in the official race.",
+      "genres": [
+        "Tournament"
+      ],
+      "poster_url": "https://www.tokyoinsider.com/upload/covers/c/thumbs/default_capeta.jpg",
+      "total_episodes": 52,
+      "episodes": [
+        {
+          "episode": 1,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/19207/1/zNEeOixqfHSCnvoJSm5JXg/m/1/19/19207/19207/%5BA-E%5D_Capeta_01_%5B7AFBCA50%5D.avi",
+          "size_mb": 229.17,
+          "label": "[A-E]_Capeta_01_[7AFBCA50].avi"
+        },
+        {
+          "episode": 2,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/19215/1/CMWNRXl_qDsDyRLbLJiT2Q/m/1/19/19215/19215/%5BA-E%5D_Capeta_02_%5BC36CF1FA%5D.avi",
+          "size_mb": 228.62,
+          "label": "[A-E]_Capeta_02_[C36CF1FA].avi"
+        },
+        {
+          "episode": 3,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/19222/1/0uAFEqpXDVKt3S3AajFqaQ/m/1/19/19222/19222/%5BA-E%5D_Capeta_03_%5BBF4A2892%5D.avi",
+          "size_mb": 229.21,
+          "label": "[A-E]_Capeta_03_[BF4A2892].avi"
+        },
+        {
+          "episode": 4,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/19225/1/sOO8eCL08xZYo13k0FvZ9g/m/1/19/19225/19225/%5BA-E%5D_Capeta_04_%5BCDD538AD%5D.avi",
+          "size_mb": 229.13,
+          "label": "[A-E]_Capeta_04_[CDD538AD].avi"
+        },
+        {
+          "episode": 5,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/19358/1/gkX7_VJPQ-_DT6A909vOrg/m/1/19/19358/19358/%5BA-E%5D_Capeta_05_%5B5B815129%5D.avi",
+          "size_mb": 230.89,
+          "label": "[A-E]_Capeta_05_[5B815129].avi"
+        },
+        {
+          "episode": 6,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/19235/1/TCyX7g4q4cOrmUMdHmcMUQ/m/1/19/19235/19235/%5BA-E%5D_Capeta_06_%5B8D6775F3%5D.avi",
+          "size_mb": 228.3,
+          "label": "[A-E]_Capeta_06_[8D6775F3].avi"
+        },
+        {
+          "episode": 7,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/19253/1/gIq4woqiY0k6moRELhkYgQ/m/1/19/19253/19253/%5BA-E%5D_Capeta_07_%5BFE2847E0%5D.avi",
+          "size_mb": 228.63,
+          "label": "[A-E]_Capeta_07_[FE2847E0].avi"
+        },
+        {
+          "episode": 8,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/19244/1/7VUrhzxu8qU2HWtqrkY0jw/m/1/19/19244/19244/%5BA-E%5D_Capeta_08_%5B70C3FB8F%5D.avi",
+          "size_mb": 230.58,
+          "label": "[A-E]_Capeta_08_[70C3FB8F].avi"
+        },
+        {
+          "episode": 9,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/22337/1/nLjjSaR4wvgY89MG2qwTUQ/m/2/22/22337/22337/%5BA-E%5D_Capeta_09_%5BE60F7DCD%5D.avi",
+          "size_mb": 231.13,
+          "label": "[A-E]_Capeta_09_[E60F7DCD].avi"
+        },
+        {
+          "episode": 10,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/19366/1/3nGZKlHfUSs6flJw8ab55g/m/1/19/19366/19366/%5BA-E%5D_Capeta_10_%5B97B151B3%5D.avi",
+          "size_mb": 230.74,
+          "label": "[A-E]_Capeta_10_[97B151B3].avi"
         }
       ]
     }

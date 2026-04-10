@@ -132,4 +132,79 @@
 [22:19:29] Saved episode for Shin_Chan_(TV).
 [22:19:30] Saved episode for Shin_Chan_(TV).
 [22:19:32] Saved episode for Shin_Chan_(TV).
+[22:19:33] Saved episode for Shin_Chan_(TV).
+[22:19:34] Saved episode for Shin_Chan_(TV).
+[22:19:35] Saved episode for Shin_Chan_(TV).
+[22:19:36] Saved episode for Shin_Chan_(TV).
+[22:19:37] Saved episode for Shin_Chan_(TV).
+[22:19:38] Saved episode for Shin_Chan_(TV).
+[22:19:39] Saved episode for Shin_Chan_(TV).
+[22:19:40] Saved episode for Shin_Chan_(TV).
+[22:19:41] Saved episode for Shin_Chan_(TV).
+[22:19:42] Saved episode for Shin_Chan_(TV).
+[22:19:42] Saved episode for Shin_Chan_(TV).
+[22:19:43] Saved episode for Shin_Chan_(TV).
+[22:19:45] Saved episode for Shin_Chan_(TV).
+[22:19:46] Saved episode for Shin_Chan_(TV).
+[22:19:47] Saved episode for Shin_Chan_(TV).
+[22:19:48] Saved episode for Shin_Chan_(TV).
+[22:19:48] Saved episode for Shin_Chan_(TV).
+[22:19:49] Saved episode for Shin_Chan_(TV).
+[22:19:50] Saved episode for Shin_Chan_(TV).
+[22:19:51] Saved episode for Shin_Chan_(TV).
+[22:19:52] Saved episode for Shin_Chan_(TV).
+[22:19:53] Saved episode for Shin_Chan_(TV).
+[22:19:54] Saved episode for Shin_Chan_(TV).
+[22:19:55] Saved episode for Shin_Chan_(TV).
+[22:19:56] Saved episode for Shin_Chan_(TV).
+[22:19:56] Saved episode for Shin_Chan_(TV).
+[22:19:57] Saved episode for Shin_Chan_(TV).
+[22:19:58] Saved episode for Shin_Chan_(TV).
+[22:19:59] Saved episode for Shin_Chan_(TV).
+[22:20:00] Saved episode for Shin_Chan_(TV).
+[22:20:01] Saved episode for Shin_Chan_(TV).
+[22:20:02] Saved episode for Shin_Chan_(TV).
+[22:20:02] Saved episode for Shin_Chan_(TV).
+[22:20:03] Saved episode for Shin_Chan_(TV).
+[22:20:04] Saved episode for Shin_Chan_(TV).
+[22:20:05] Saved episode for Shin_Chan_(TV).
+[22:20:06] Saved episode for Shin_Chan_(TV).
+[22:20:07] Saved episode for Shin_Chan_(TV).
+[22:20:07] Saved episode for Shin_Chan_(TV).
+[22:20:08] Saved episode for Shin_Chan_(TV).
+[22:20:09] Saved episode for Shin_Chan_(TV).
+[22:20:10] Saved episode for Shin_Chan_(TV).
+[22:20:11] Saved episode for Shin_Chan_(TV).
+[22:20:11] Saved episode for Shin_Chan_(TV).
+[22:20:12] Saved episode for Shin_Chan_(TV).
+[22:20:12] Finished Shin_Chan_(TV).
+[22:20:15] Manual scraping complete. M3U generated.
+[22:20:38] Queued https://www.tokyoinsider.com/anime/K/Kakegurui_(TV).
+[22:20:43] Scraping https://www.tokyoinsider.com/anime/K/Kakegurui_(TV).
+[22:20:46] Saved episode for Kakegurui_(TV).
+[22:20:47] Saved episode for Kakegurui_(TV).
+[22:20:49] Saved episode for Kakegurui_(TV).
+[22:20:51] Saved episode for Kakegurui_(TV).
+[22:20:52] Saved episode for Kakegurui_(TV).
+[22:20:54] Saved episode for Kakegurui_(TV).
+[22:20:55] Saved episode for Kakegurui_(TV).
+[22:20:57] Saved episode for Kakegurui_(TV).
+[22:21:01] Saved episode for Kakegurui_(TV).
+[22:21:03] Saved episode for Kakegurui_(TV).
+[22:21:04] Saved episode for Kakegurui_(TV).
+[22:21:05] Saved episode for Kakegurui_(TV).
+[22:21:05] Finished Kakegurui_(TV).
+[22:21:08] Manual scraping complete. M3U generated.
+[22:21:19] Queued https://www.tokyoinsider.com/anime/C/Capeta_(TV).
+[22:21:21] Scraping https://www.tokyoinsider.com/anime/C/Capeta_(TV).
+[22:21:24] Saved episode for Capeta_(TV).
+[22:21:24] Saved episode for Capeta_(TV).
+[22:21:25] Saved episode for Capeta_(TV).
+[22:21:26] Saved episode for Capeta_(TV).
+[22:21:27] Saved episode for Capeta_(TV).
+[22:21:28] Saved episode for Capeta_(TV).
+[22:21:29] Saved episode for Capeta_(TV).
+[22:21:30] Saved episode for Capeta_(TV).
+[22:21:31] Saved episode for Capeta_(TV).
+[22:21:32] Saved episode for Capeta_(TV).
 
