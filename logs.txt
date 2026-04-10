@@ -207,4 +207,63 @@
 [22:21:30] Saved episode for Capeta_(TV).
 [22:21:31] Saved episode for Capeta_(TV).
 [22:21:32] Saved episode for Capeta_(TV).
+[22:21:32] Saved episode for Capeta_(TV).
+[22:21:33] Saved episode for Capeta_(TV).
+[22:21:34] Saved episode for Capeta_(TV).
+[22:21:35] Saved episode for Capeta_(TV).
+[22:21:36] Saved episode for Capeta_(TV).
+[22:21:37] Saved episode for Capeta_(TV).
+[22:21:37] Saved episode for Capeta_(TV).
+[22:21:38] Saved episode for Capeta_(TV).
+[22:21:39] Saved episode for Capeta_(TV).
+[22:21:40] Saved episode for Capeta_(TV).
+[22:21:41] Saved episode for Capeta_(TV).
+[22:21:42] Saved episode for Capeta_(TV).
+[22:21:43] Saved episode for Capeta_(TV).
+[22:21:44] Saved episode for Capeta_(TV).
+[22:21:44] Saved episode for Capeta_(TV).
+[22:21:45] Saved episode for Capeta_(TV).
+[22:21:46] Saved episode for Capeta_(TV).
+[22:21:47] Saved episode for Capeta_(TV).
+[22:21:48] Saved episode for Capeta_(TV).
+[22:21:49] Saved episode for Capeta_(TV).
+[22:21:50] Saved episode for Capeta_(TV).
+[22:21:51] Saved episode for Capeta_(TV).
+[22:21:52] Saved episode for Capeta_(TV).
+[22:21:53] Saved episode for Capeta_(TV).
+[22:21:53] Saved episode for Capeta_(TV).
+[22:21:54] Saved episode for Capeta_(TV).
+[22:21:55] Saved episode for Capeta_(TV).
+[22:21:56] Saved episode for Capeta_(TV).
+[22:21:57] Saved episode for Capeta_(TV).
+[22:21:58] Saved episode for Capeta_(TV).
+[22:21:58] Saved episode for Capeta_(TV).
+[22:22:03] Saved episode for Capeta_(TV).
+[22:22:05] Saved episode for Capeta_(TV).
+[22:22:07] Saved episode for Capeta_(TV).
+[22:22:09] Saved episode for Capeta_(TV).
+[22:22:11] Saved episode for Capeta_(TV).
+[22:22:12] Saved episode for Capeta_(TV).
+[22:22:14] Saved episode for Capeta_(TV).
+[22:22:15] Queued https://www.tokyoinsider.com/anime/B/Berserk_(2016)_(TV).
+[22:22:15] Saved episode for Capeta_(TV).
+[22:22:17] Saved episode for Capeta_(TV).
+[22:22:18] Saved episode for Capeta_(TV).
+[22:22:19] Saved episode for Capeta_(TV).
+[22:22:19] Finished Capeta_(TV).
+[22:22:22] Scraping https://www.tokyoinsider.com/anime/B/Berserk_(2016)_(TV).
+[22:22:24] Saved episode for Berserk_(2016)_(TV).
+[22:22:26] Saved episode for Berserk_(2016)_(TV).
+[22:22:27] Saved episode for Berserk_(2016)_(TV).
+[22:22:28] Saved episode for Berserk_(2016)_(TV).
+[22:22:30] Saved episode for Berserk_(2016)_(TV).
+[22:22:31] Saved episode for Berserk_(2016)_(TV).
+[22:22:33] Saved episode for Berserk_(2016)_(TV).
+[22:22:35] Saved episode for Berserk_(2016)_(TV).
+[22:22:37] Saved episode for Berserk_(2016)_(TV).
+[22:22:39] Saved episode for Berserk_(2016)_(TV).
+[22:22:41] Saved episode for Berserk_(2016)_(TV).
+[22:22:42] Saved episode for Berserk_(2016)_(TV).
+[22:22:42] Finished Berserk_(2016)_(TV).
+[22:22:45] Manual scraping complete. M3U generated.
 

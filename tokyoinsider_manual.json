@@ -1,5 +1,5 @@
 {
-  "total_anime": 21,
+  "total_anime": 22,
   "items": [
     {
       "Anime_Index": "01",
@@ -7125,6 +7125,349 @@
           "url": "https://media.tokyoinsider.com:8080/dl/00000000030/19366/1/3nGZKlHfUSs6flJw8ab55g/m/1/19/19366/19366/%5BA-E%5D_Capeta_10_%5B97B151B3%5D.avi",
           "size_mb": 230.74,
           "label": "[A-E]_Capeta_10_[97B151B3].avi"
+        },
+        {
+          "episode": 11,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/22426/1/y--X7MHpBbzdmJEnJil3tg/m/2/22/22426/22426/%5BA-E%5D_Capeta_11_%5B01DEC8C5%5D.avi",
+          "size_mb": 229.76,
+          "label": "[A-E]_Capeta_11_[01DEC8C5].avi"
+        },
+        {
+          "episode": 12,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/19394/1/yuzJdlnAspZvcrY3jK3zJw/m/1/19/19394/19394/%5BA-E%5D_Capeta_12_%5BC9741921%5D.avi",
+          "size_mb": 229.74,
+          "label": "[A-E]_Capeta_12_[C9741921].avi"
+        },
+        {
+          "episode": 13,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/22344/1/vkp1zB4Q5yHBix-1gv1pIg/m/2/22/22344/22344/%5BA-E%5D_Capeta_13_%5BDA27575A%5D.avi",
+          "size_mb": 229.75,
+          "label": "[A-E]_Capeta_13_[DA27575A].avi"
+        },
+        {
+          "episode": 14,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/19416/1/wUVBIuAt1Xs4mc2Obuht2A/m/1/19/19416/19416/%5BA-E%5D_Capeta_14_%5B17910FE4%5D.avi",
+          "size_mb": 230.44,
+          "label": "[A-E]_Capeta_14_[17910FE4].avi"
+        },
+        {
+          "episode": 15,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/22432/1/e9T1X-EN7ejJe3wI6WWRVQ/m/2/22/22432/22432/%5BA-E%5D_Capeta_15_%5B726D9E75%5D.avi",
+          "size_mb": 230.7,
+          "label": "[A-E]_Capeta_15_[726D9E75].avi"
+        },
+        {
+          "episode": 16,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/22387/1/j7M3sfMQ-t7yghO1x7p5qA/m/2/22/22387/22387/%5BA-E%5D_Capeta_16_%5B10759029%5D.avi",
+          "size_mb": 230.71,
+          "label": "[A-E]_Capeta_16_[10759029].avi"
+        },
+        {
+          "episode": 17,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/22902/1/hsbqjYPmbcjfOQxhhr6Ovw/m/2/22/22902/22902/%5BA-E%5D_Capeta_17_%5B697ED8A0%5D.avi",
+          "size_mb": 230.81,
+          "label": "[A-E]_Capeta_17_[697ED8A0].avi"
+        },
+        {
+          "episode": 18,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/22375/1/cCF_7ImqjA88bOCPwMNn1g/m/2/22/22375/22375/%5BA-E%5D_Capeta_18_%5B541CDA71%5D.avi",
+          "size_mb": 230.73,
+          "label": "[A-E]_Capeta_18_[541CDA71].avi"
+        },
+        {
+          "episode": 19,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/22369/1/zYaX1lRqbeQ8EGOCRxNxEg/m/2/22/22369/22369/%5BA-E%5D_Capeta_19_%5B2D18346F%5D.avi",
+          "size_mb": 231.5,
+          "label": "[A-E]_Capeta_19_[2D18346F].avi"
+        },
+        {
+          "episode": 20,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/22923/1/cJYkV38qLfXYDvqxD5rUWQ/m/2/22/22923/22923/%5BA-E%5D_Capeta_20_%5B72EC175E%5D.avi",
+          "size_mb": 230.72,
+          "label": "[A-E]_Capeta_20_[72EC175E].avi"
+        },
+        {
+          "episode": 21,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/22922/1/jt9Oy_G-xWUwzZZnO3XvoA/m/2/22/22922/22922/%5BA-E%5D_Capeta_21_%5B63CD7333%5D.avi",
+          "size_mb": 230.71,
+          "label": "[A-E]_Capeta_21_[63CD7333].avi"
+        },
+        {
+          "episode": 22,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/28355/1/JRLH0SYJHbFFEn65d9l0eQ/m/2/28/28355/28355/%5BA-E%5D_Capeta_22_%5B7792D524%5D.avi",
+          "size_mb": 230.71,
+          "label": "[A-E]_Capeta_22_[7792D524].avi"
+        },
+        {
+          "episode": 23,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/28442/1/sHq2B2b8c0ZtzF_-C9YysA/m/2/28/28442/28442/%5BA-E%5D_Capeta_23_%5BF9DAB481%5D.avi",
+          "size_mb": 229.7,
+          "label": "[A-E]_Capeta_23_[F9DAB481].avi"
+        },
+        {
+          "episode": 24,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/22910/1/akWdOfwdDgJW8oqGPzbQ7A/m/2/22/22910/22910/%5BA-E%5D_Capeta_24_%5B9AC933E2%5D.avi",
+          "size_mb": 229.74,
+          "label": "[A-E]_Capeta_24_[9AC933E2].avi"
+        },
+        {
+          "episode": 25,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/28339/1/AIrjHtfQJW8tP8f9ZMWcbA/m/2/28/28339/28339/%5BA-E%5D_Capeta_25_%5BA0EA9895%5D.avi",
+          "size_mb": 229.71,
+          "label": "[A-E]_Capeta_25_[A0EA9895].avi"
+        },
+        {
+          "episode": 26,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/28340/1/Pd1J9A8EYpiogxqEVDoWsQ/m/2/28/28340/28340/%5BA-E%5D_Capeta_26_%5BEBB25072%5D.avi",
+          "size_mb": 230.88,
+          "label": "[A-E]_Capeta_26_[EBB25072].avi"
+        },
+        {
+          "episode": 27,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/28338/1/ocHxuDecj12nvS8L6J91NA/m/2/28/28338/28338/%5BA-E%5D_Capeta_27_%5BB35F0027%5D.avi",
+          "size_mb": 233.76,
+          "label": "[A-E]_Capeta_27_[B35F0027].avi"
+        },
+        {
+          "episode": 28,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/28337/1/vRX6Rr02R430gHL-CWQKWA/m/2/28/28337/28337/%5BA-E%5D_Capeta_28_%5BB6E2F85D%5D.avi",
+          "size_mb": 231.05,
+          "label": "[A-E]_Capeta_28_[B6E2F85D].avi"
+        },
+        {
+          "episode": 29,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/28910/1/HMJSk_3iK-tnlhQb4vWXFg/m/2/28/28910/28910/%5BA-E%5D_Capeta_29_%5BDEDE6CF9%5D.avi",
+          "size_mb": 233.09,
+          "label": "[A-E]_Capeta_29_[DEDE6CF9].avi"
+        },
+        {
+          "episode": 30,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/28336/1/pQhMwtCoM0I6RyT8feevGw/m/2/28/28336/28336/%5BA-E%5D_Capeta_30_%5B13380E3C%5D.avi",
+          "size_mb": 230.74,
+          "label": "[A-E]_Capeta_30_[13380E3C].avi"
+        },
+        {
+          "episode": 31,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/28335/1/LiosNLGqtjOtYdGrqmFIkw/m/2/28/28335/28335/%5BA-E%5D_Capeta_31_%5B8EB01CCB%5D.avi",
+          "size_mb": 230.75,
+          "label": "[A-E]_Capeta_31_[8EB01CCB].avi"
+        },
+        {
+          "episode": 32,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/28334/1/hf-am9E-TFPepUG2tNsvew/m/2/28/28334/28334/%5BA-E%5D_Capeta_32_%5B31B5A780%5D.avi",
+          "size_mb": 230.8,
+          "label": "[A-E]_Capeta_32_[31B5A780].avi"
+        },
+        {
+          "episode": 33,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/28440/1/N5FFIbe-P6oH_If2CB_mFw/m/2/28/28440/28440/%5BA-E%5D_Capeta_33_%5B5A2C8356%5D.avi",
+          "size_mb": 210.74,
+          "label": "[A-E]_Capeta_33_[5A2C8356].avi"
+        },
+        {
+          "episode": 34,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/28439/1/HMU5msdxPfqXd6tPK5Mjwg/m/2/28/28439/28439/%5BA-E%5D_Capeta_34_%5B92CCA111%5D.avi",
+          "size_mb": 230.0,
+          "label": "[A-E]_Capeta_34_[92CCA111].avi"
+        },
+        {
+          "episode": 35,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/28488/1/tDb6CY1WaUZIYSkMIeTRhw/m/2/28/28488/28488/%5BA-E%5D_Capeta_35_%5BCA76F28C%5D.avi",
+          "size_mb": 228.95,
+          "label": "[A-E]_Capeta_35_[CA76F28C].avi"
+        },
+        {
+          "episode": 36,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/28905/1/cZlPjujgeyXabCTkTJpxwQ/m/2/28/28905/28905/%5BA-E%5D_Capeta_36_%5BD10413AB%5D.avi",
+          "size_mb": 230.7,
+          "label": "[A-E]_Capeta_36_[D10413AB].avi"
+        },
+        {
+          "episode": 37,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/28486/1/1wYnwHCiS5AQHWAxYqW83w/m/2/28/28486/28486/%5BA-E_%26_Saizen%5D_Capeta_37_%5BDVD%5D%5B29363F3C%5D.mkv",
+          "size_mb": 230.05,
+          "label": "[A-E_&_Saizen]_Capeta_37_[DVD][29363F3C].mkv"
+        },
+        {
+          "episode": 38,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/28901/1/vH-7Je69IKV1ZZ_O8ATrpA/m/2/28/28901/28901/%5BA-E_%26_Saizen%5D_Capeta_38_%5BDVD%5D%5B27F1446E%5D.mkv",
+          "size_mb": 230.09,
+          "label": "[A-E_&_Saizen]_Capeta_38_[DVD][27F1446E].mkv"
+        },
+        {
+          "episode": 39,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/28325/1/wRKtuWiz6ZiCuBk5TpZf0w/m/2/28/28325/28325/%5BA-E_%26_Saizen%5D_Capeta_39_%5BDVD%5D%5BC1FDB3CB%5D.mkv",
+          "size_mb": 230.02,
+          "label": "[A-E_&_Saizen]_Capeta_39_[DVD][C1FDB3CB].mkv"
+        },
+        {
+          "episode": 40,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/28897/1/AcfmntQLKi2UIEEQojo6Ww/m/2/28/28897/28897/%5BA-E_%26_Saizen%5D_Capeta_40_%5BDVD%5D%5B7B52427B%5D.mkv",
+          "size_mb": 230.05,
+          "label": "[A-E_&_Saizen]_Capeta_40_[DVD][7B52427B].mkv"
+        },
+        {
+          "episode": 41,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/28329/1/TMDOoXa0hCmSPATlGUDi3g/m/2/28/28329/28329/%5BA-E_%26_Saizen%5D_Capeta_41_%5BDVD%5D%5B2C0C0D94%5D.mkv",
+          "size_mb": 230.02,
+          "label": "[A-E_&_Saizen]_Capeta_41_[DVD][2C0C0D94].mkv"
+        },
+        {
+          "episode": 42,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/28323/1/D748RwhSTeUG14WCI57hQQ/m/2/28/28323/28323/%5BA-E_%26_Saizen%5D_Capeta_42_%5BDVD%5D%5B178CFD76%5D.mkv",
+          "size_mb": 229.99,
+          "label": "[A-E_&_Saizen]_Capeta_42_[DVD][178CFD76].mkv"
+        },
+        {
+          "episode": 43,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/28321/1/bBUibT-JRNIkv8QReqbY6g/m/2/28/28321/28321/%5BA-E_%26_Saizen%5D_Capeta_43_%5BDVD%5D%5BCE393DB9%5D.mkv",
+          "size_mb": 230.03,
+          "label": "[A-E_&_Saizen]_Capeta_43_[DVD][CE393DB9].mkv"
+        },
+        {
+          "episode": 44,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/28320/1/HZF3Qpt8mnx85P0Ss_kqoA/m/2/28/28320/28320/%5BA-E_%26_Saizen%5D_Capeta_44_%5BDVD%5D%5B66E29E4D%5D.mkv",
+          "size_mb": 229.95,
+          "label": "[A-E_&_Saizen]_Capeta_44_[DVD][66E29E4D].mkv"
+        },
+        {
+          "episode": 45,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/28319/1/GORB6PoIv9NjXQRemZov5A/m/2/28/28319/28319/%5BA-E_%26_Saizen%5D_Capeta_45_%5BDVD%5D%5B5415864D%5D.mkv",
+          "size_mb": 230.09,
+          "label": "[A-E_&_Saizen]_Capeta_45_[DVD][5415864D].mkv"
+        },
+        {
+          "episode": 46,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/28898/1/9PGYHLa0uGGFkUKqs5b5UA/m/2/28/28898/28898/%5BA-E_%26_Saizen%5D_Capeta_46_%5BDVD%5D%5BD44448F2%5D.mkv",
+          "size_mb": 230.08,
+          "label": "[A-E_&_Saizen]_Capeta_46_[DVD][D44448F2].mkv"
+        },
+        {
+          "episode": 47,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/28899/1/i6me9GXrpLaWr_fgcyT2jg/m/2/28/28899/28899/%5BA-E_%26_Saizen%5D_Capeta_47_%5BDVD%5D%5BAE7071B1%5D.mkv",
+          "size_mb": 230.09,
+          "label": "[A-E_&_Saizen]_Capeta_47_[DVD][AE7071B1].mkv"
+        },
+        {
+          "episode": 48,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/28318/1/tl55QpIRCSlxwmhJyeeiLg/m/2/28/28318/28318/%5BA-E_%26_Saizen%5D_Capeta_48_%5BDVD%5D%5B7E821678%5D.mkv",
+          "size_mb": 230.09,
+          "label": "[A-E_&_Saizen]_Capeta_48_[DVD][7E821678].mkv"
+        },
+        {
+          "episode": 49,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/28317/1/41D3AKql0TDcpBtZcOGw5g/m/2/28/28317/28317/%5BA-E_%26_Saizen%5D_Capeta_49_%5BDVD%5D%5B26AD242C%5D.mkv",
+          "size_mb": 230.08,
+          "label": "[A-E_&_Saizen]_Capeta_49_[DVD][26AD242C].mkv"
+        },
+        {
+          "episode": 50,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/28315/1/DhPBai0RbX9zxGuxMJzjFw/m/2/28/28315/28315/%5BA-E_%26_Saizen%5D_Capeta_50_%5BDVD%5D%5BC419C09A%5D.mkv",
+          "size_mb": 230.12,
+          "label": "[A-E_&_Saizen]_Capeta_50_[DVD][C419C09A].mkv"
+        },
+        {
+          "episode": 51,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/28314/1/WzrnPV3_xw_Oq4tRoBITlg/m/2/28/28314/28314/%5BA-E_%26_Saizen%5D_Capeta_51_%5BDVD%5D%5B3801057D%5D.mkv",
+          "size_mb": 230.04,
+          "label": "[A-E_&_Saizen]_Capeta_51_[DVD][3801057D].mkv"
+        },
+        {
+          "episode": 52,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/28313/1/IF9opqgOpbTS4AolVJVoiw/m/2/28/28313/28313/%5BA-E_%26_Saizen%5D_Capeta_52_%5BDVD%5D%5BEC0AD320%5D.mkv",
+          "size_mb": 230.12,
+          "label": "[A-E_&_Saizen]_Capeta_52_[DVD][EC0AD320].mkv"
+        }
+      ]
+    },
+    {
+      "Anime_Index": "22",
+      "anime": "Berserk_(2016)_(TV)",
+      "source_url": "https://www.tokyoinsider.com/anime/B/Berserk_(2016)_(TV)",
+      "summary": "Aired: Jul 1, 2016. Guts, known as the Black Swordsman, seeks sanctuary from the demonic forces that pursue him and his woman, and also vengeance against the man who branded him as an unholy sacrifice. Aided only by his titanic strength, skill, and sword, Guts must struggle against his bleak destiny, all the while fighting with a rage that might strip him of his humanity. Berserk is a dark and brooding story of outrageous swordplay and ominous fate, in the theme of Shakespeare's Macbeth.",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Fantasy",
+        "Horror",
+        "Romance",
+        "Supernatural"
+      ],
+      "poster_url": "https://www.tokyoinsider.com/upload/covers/B/thumbs/default_Berserk__2016__1466512270.jpg",
+      "total_episodes": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/182120/1/5e_r7AyjIMP6Shc1uT_fpw/2/21/216517/216517/Berserk%20%282016%29%20-%2001.mkv",
+          "size_mb": 97.23,
+          "label": "Berserk (2016) - 01.mkv"
+        },
+        {
+          "episode": 2,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/182294/1/LA2qNDdDQD0m1ZSFxoDtDA/2/21/216727/216727/Berserk%20%282016%29%20-%2002.mkv",
+          "size_mb": 109.86,
+          "label": "Berserk (2016) - 02.mkv"
+        },
+        {
+          "episode": 3,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/182686/1/Tsy-K6YDaFafkQ_23I2J5A/2/21/217162/217162/Berserk%20%282016%29%20-%2003.mkv",
+          "size_mb": 80.11,
+          "label": "Berserk (2016) - 03.mkv"
+        },
+        {
+          "episode": 4,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/182536/1/0RXRGJ1mo9JRULZUMrlgag/2/21/216997/216997/Berserk%20%282016%29%20Episode%20-%2004.mp4",
+          "size_mb": 235.91,
+          "label": "Berserk (2016) Episode - 04.mp4"
+        },
+        {
+          "episode": 5,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/182651/1/WguwNt29ImaAAhMaE01hQg/2/21/217125/217125/Berserk%20%282016%29%20Episode%20-%2005.mp4",
+          "size_mb": 174.65,
+          "label": "Berserk (2016) Episode - 05.mp4"
+        },
+        {
+          "episode": 6,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/182752/1/2waHUvfBE37_RrBEHshT-Q/2/21/217239/217239/Berserk%20%282016%29%20Episode%20-%2006.mp4",
+          "size_mb": 211.61,
+          "label": "Berserk (2016) Episode - 06.mp4"
+        },
+        {
+          "episode": 7,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/182867/1/8LnVlx1ls2hBrzyVZ40AAg/2/21/217365/217365/Berserk%20%282016%29%20Episode%20-%2007.mp4",
+          "size_mb": 220.48,
+          "label": "Berserk (2016) Episode - 07.mp4"
+        },
+        {
+          "episode": 8,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/182975/1/cecoCpwO8aVWkKE10vcveQ/2/21/217488/217488/Berserk%20%282016%29%20Episode%20-%2008.mp4",
+          "size_mb": 193.68,
+          "label": "Berserk (2016) Episode - 08.mp4"
+        },
+        {
+          "episode": 9,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/183083/1/kYfgvP9qpW-QkE75U9xJpA/2/21/217610/217610/Berserk%20%282016%29%20Episode%20-%2009.mp4",
+          "size_mb": 177.29,
+          "label": "Berserk (2016) Episode - 09.mp4"
+        },
+        {
+          "episode": 10,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/183178/1/dtdPhox2DISj398DAP0lnA/2/21/217721/217721/Berserk%20%282016%29%20Episode%20-%2010.mp4",
+          "size_mb": 235.86,
+          "label": "Berserk (2016) Episode - 10.mp4"
+        },
+        {
+          "episode": 11,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/183296/1/l5_cCQdhtOIj9Zaa6wOQtg/2/21/217854/217854/Berserk%20%282016%29%20Episode%20-%2011.mp4",
+          "size_mb": 212.02,
+          "label": "Berserk (2016) Episode - 11.mp4"
+        },
+        {
+          "episode": 12,
+          "url": "https://media.tokyoinsider.com:8080/dl/00000000030/183392/1/Uq1jclfE9yeBoVAmHIDZbA/2/21/217962/217962/Berserk%20%282016%29%20Episode%20-%2012%20%5BEND%5D.mp4",
+          "size_mb": 217.62,
+          "label": "Berserk (2016) Episode - 12 [END].mp4"
         }
       ]
     }
