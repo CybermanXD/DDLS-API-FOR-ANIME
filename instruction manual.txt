@@ -10,7 +10,7 @@ What You Need
 1) Supabase Project URL
    - Example: https://YOUR-PROJECT.supabase.co
 
-2) Supabase API Key
+2) Supabase API Key  
    - For server-side uploads, use a Service Role key (recommended).
    - For client-side uploads, use the anon key with a Storage policy that allows uploads.
 
